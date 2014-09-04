@@ -16,30 +16,22 @@ You can read more about it on the [Wikipedia article](http://en.wikipedia.org/wi
 
 So the most literal way to express the sentence in Ruby would be:
 
-```
-this_sentence == false
-```
+    this_sentence == false
 
 This of course raises:
 
-```
-NameError: undefined local variable or method `this_sentence'
-```
+    NameError: undefined local variable or method `this_sentence'
 
 Ruby doesn't know what `this_sentence` is, so it can't evaluate it. But really we do know what "this sentence" is. It's the sentence. "This sentence" is "This sentence is false." The sentence is, the sentence is false. Sounds kind of like a method definition doesn't it? Let's define it for Ruby:
 
-```
-def this_sentence
-  this_sentence == false
-end
-```
+    def this_sentence
+      this_sentence == false
+    end
 
 Now what do we get?
 
-```
-> this_sentence == false
-SystemStackError: stack level too deep
-```
+    > this_sentence == false
+    SystemStackError: stack level too deep
 
 So it seems to me that the Liar paradox expressed in Ruby (and most other programming languages) is just a recursive method that doesn't terminate, causing an infinite loop. It can't be evaluated.
 
