@@ -119,6 +119,10 @@ header ul {
   padding: 0;
 }
 
+header ul li {
+  margin-bottom: 5px;
+}
+
 section {
   width:500px;
   float:right;
