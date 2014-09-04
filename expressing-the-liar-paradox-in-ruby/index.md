@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Expressing the Liar Paradox in Ruby
 ---
 
 # Expressing the Liar Paradox in Ruby

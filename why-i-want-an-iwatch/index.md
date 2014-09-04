@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Why I Want an iWatch
 ---
 
 # Why I Want an iWatch
