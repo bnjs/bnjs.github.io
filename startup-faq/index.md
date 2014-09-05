@@ -5,9 +5,9 @@ title: Startup FAQ
 
 # Startup FAQ
 
-A startup FAQ containing advice distilled from the best startup articles.
+105 insights to 19 questions, distilled from 10 articles by 4 respected authors.
 
-105 insights to 19 questions, distilled from 10 articles by 4 highly respected authors.
+Insights are paraphrases, not necessarily quotes. Click an insight to see the context from the article. Read the full article for the full context.
 
 The authors:
 
