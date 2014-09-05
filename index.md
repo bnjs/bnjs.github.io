@@ -3,10 +3,6 @@ layout: default
 title: Benjamin Sullivan
 ---
 
-
-
-<br>
-
 # Projects
 
 ## <a href="https://www.tadaku.com" target="_blank">Tadaku</a>
