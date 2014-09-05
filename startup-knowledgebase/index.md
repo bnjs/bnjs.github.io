@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benjamin Sullivan
+title: Startup Knowledgebase
 ---
 
 # Startup Knowledgebase
