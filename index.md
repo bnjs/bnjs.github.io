@@ -11,6 +11,8 @@ title: Benjamin Sullivan
 
 ## <a href="https://www.tadaku.com" target="_blank">Tadaku</a>
 
+## [Startup FAQ](/startup-faq)
+
 ## [Startup Knowledgebase](/startup-knowledgebase)
 
 <br>
