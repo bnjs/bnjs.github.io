@@ -3,13 +3,6 @@ layout: default
 title: Startup Knowledgebase
 ---
 
-<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.bnjs.co%2Fstartup-knowledgebase%2F&amp;width=100px&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=855604767783223" scrolling="no" frameborder="0" style="float: left; border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
-
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="twitterapi" data-lang="en">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
----
-
 # Startup Knowledgebase
 
 61 topics, 258 articles, 87 authors
