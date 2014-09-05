@@ -18,13 +18,13 @@ I want to tell time of course. I'd like to see:
 
 ### Not have to use my iPhone
 
-I want to have basic control over my iPhone while it sits in my pocket or bag. This is huge to me. Squeezing my hand into my pocket (1), pulling out my phone (2), turning it on (3). Three steps just to check the time or notification. Slide the lock (4) and enter my password (5), open an app (6+). Six or more steps just to check the weather, read an email, look at a web page, check my todo list, look at my calendar, read or reply to a message, look at a photo, etc. When I'm done, I turn it off (7+) and put it back in my pocket (8+). Every time. This is insane.
+I want to have basic control over my iPhone while it sits in my pocket or bag. This is huge to me. Squeezing my hand into my pocket (1), pulling out my phone (2), turning it on (3). Three steps just to check the time or notification. Slide the lock (4) and enter my password (5), open an app (6+). Six or more steps just to check the weather, read an email, look at a web page, check my todo list, look at my calendar, read or reply to a message, look at a photo, etc. When I'm done, I turn it off (7+) and put it back in my pocket (8+). Every time. **This is insane.**
 
 With an iWatch. Turn it toward me to see the lock screen (watch face or new notifications) (<1?). That's hardly even a step, to check the date/time or read an incoming message/notification. Three steps on iPhone down to barely one on iWatch.
 
 Slide or tap the screen to unlock (2). Now I'm in* and can use the watch (3+). I'm done so I put my hand down and it automatically turns off (4+). If you count lifting your hand as half a step, that's best-case only three steps to open an app and put the watch away. Best-case eight steps on iPhone down to best-case three on iWatch. That is a significant improvement in my opinion, multiplied by all the times you do something on your phone that you could easily do on a watch.
 
-I want iWatch to be a remote control and alternative display for my iPhone. This is the fundamental feature for me. Almost everything I want to do on the watch, I want to because it would save me time and effort. Health monitoring and all that is cool too, but it's secondary to this.
+**I want iWatch to be a remote control and alternative display for my iPhone.** This is the fundamental feature for me. Almost everything I want to do on the watch, I want to because it would save me time and effort. Health monitoring and all that is cool too, but it's secondary to this.
 
 \* I wouldn't use a password because I'm not likely to lose something strapped to my wrist, and I'm assuming most sensitive content would live on my phone and be accessed via bluetooth.
 
