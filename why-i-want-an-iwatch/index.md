@@ -70,3 +70,5 @@ Did I say voice memos? Voice memos! "Note to self: this is really easy."
 Last but not least, any iOS app should be able to ship with a custom iWatch interface for some degree of functionality on the watch. Most apps should at least have something for you to browse and look at without having to get out your phone, and I imagine many apps would be very usable on a small screen interface, some completely usable.
 
 I'm sure I'm forgetting some. I'll be adding to the list as I think of more things I want!
+
+*Originally published Sept 4, 2014*

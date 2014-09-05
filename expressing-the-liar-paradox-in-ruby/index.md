@@ -37,3 +37,5 @@ Now what do we get?
 So it seems to me that the Liar paradox expressed in Ruby (and most other programming languages) is just a recursive method that doesn't terminate, causing an infinite loop. It can't be evaluated.
 
 From what I've read about the Liar paradox in the field of logic, for some reason the problem doesn't seem to be quite that simple to resolve. Why is that? I don't know, I'm not a logician. Maybe someone can shed light on this in the comments.
+
+*Originally published Aug 24, 2014*
