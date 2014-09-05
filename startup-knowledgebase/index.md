@@ -196,6 +196,12 @@ Fred Wilson - avc.com - 2011-05-2
 
 > 
 
+<a href="http://avc.com/2010/07/purchasing-power-parity/" style="font-weight:bold">Purchasing Power Parity</a>
+<br/>
+Fred Wilson - avc.com - 2010-07-12
+
+> 
+
 <a href="http://avc.com/2011/10/revenue-based-financing/" style="font-weight:bold">Revenue Based Financing</a>
 <br/>
 Fred Wilson - avc.com - 2011-10-17
@@ -278,13 +284,6 @@ Fred Wilson - avc.com - 2011-12-12
 Fred Wilson - avc.com - 2011-12-19
 
 >  
-
-*BUSINESS ?*<br/>
-<a href="http://avc.com/2010/07/purchasing-power-parity/" style="font-weight:bold">Purchasing Power Parity</a>
-<br/>
-Fred Wilson - avc.com - 2010-07-12
-
-> 
 
 *COSTS*<br/>
 <a href="http://avc.com/2010/07/opportunity-costs/" style="font-weight:bold">Opportunity Costs</a>
