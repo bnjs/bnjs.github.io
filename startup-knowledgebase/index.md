@@ -5,7 +5,7 @@ title: Benjamin Sullivan
 
 # Startup Knowledgebase
 
-61 topics, 257 articles, 87 authors
+61 topics, 258 articles, 87 authors
 
 A curated collection of insightful articles related to startups, as a resource for startup founders and team members.
 
@@ -43,7 +43,7 @@ The ultimate goal of the project is to contain every fundamentally valuable insi
     * [Lessons Learned](#business-lessons-learned-smalla-hreftopasmall) (1)
     * [M&A & IPO](#business-ma--ipo-smalla-hreftopasmall) (16)
     * [Market & Research](#business-market--research-smalla-hreftopasmall) (3)
-    * [Marketing & Sales](#business-marketing--sales-smalla-hreftopasmall) (1)
+    * [Marketing & Sales](#business-marketing--sales-smalla-hreftopasmall) (2)
     * [Metrics & Analytics](#business-metrics--analytics-smalla-hreftopasmall) (7)
     * [Mistakes & Failure](#business-mistakes--failure-smalla-hreftopasmall) (4)
     * [Mobile](#business-mobile-smalla-hreftopasmall) (1)
@@ -987,6 +987,13 @@ Brekiri - brekiri.com - 2010-02-26
 David Skok - forentrepreneurs.com - 2009-12-06
 
 > 1. Unless you have a Viral Coefficient that is greater than 1, you will not have true viral growth. 2. The most important factor to increasing growth is not the Viral Coefficient, but the Viral Cycle Time (ct) which should be made as short as possible. This will have a dramatic effect on growth. 3. The second most important area to focus is the Viral Coefficient (K). Anything that you can do to increase the number of invitations sent out, and the conversion rate, will have a significant effect on growth.
+
+*VIRAL*<br/>
+<a href="http://andrewchen.co/2007/07/11/whats-your-viral-loop-understanding-the-engine-of-adoption/" style="font-weight:bold">What’s your viral loop? Understanding the engine of adoption</a>
+<br/>
+Andrew Chen - andrewchen.co - 2007-07-11
+
+> To define the viral loop, you can think of it as: "The steps a user goes through between entering the site to inviting the next set of new users" Simple enough? Well, because this core loop is repeated so many times over generations and generations of users, getting it right is incredibly important.
 
 ### Business: Metrics & Analytics <small><a href="#">top</a></small>
 
