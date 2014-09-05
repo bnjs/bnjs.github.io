@@ -34,134 +34,45 @@ The articles:
 
 ## Table of Contents
 
-* [Advice & Mentorship](#advice--mentorship)
-  * Should we have advisors?
-  * What kind of advisors should we seek?
-* [Budgeting & Finances](#budgeting--finances)
-  * How should we budget?
-* [Change](#change)
-  * When should we pivot?
-* [Competition](#competition)
-  * **[Should we be worried about competition?](#should-we-be-worried-about-competition)**
-  * **[How should we compete?](#how-should-we-compete)**
-* [Culture & Values](#culture--values)
-  * What kind of company culture should we have?
-* [Customers](#customers)
-  * How can we find new customers?
-  * What kind of customers should we target?
-  * How can we get feedback from customers?
-  * How should we deal with our customers?
-  * How can we retain customers?
-* [Exit](#exit)
-  * **[How do we get acquired?](#how-do-we-get-acquired)**
-* [Experiments & Learning](#experiments--learning)
-  * How should we experiment?
-* [Feedback](#feedback)
-  * How should we get feedback?
-  * What kind of feedback should we get?
-* [Founding](#founding)
-  * **[What makes a good founder?](#what-makes-a-good-founder)**
-* [Fundraising](#fundraising)
-  * **[Should we raise money?](#should-we-raise-money)**
-  * **[How should we raise money?](#how-should-we-raise-money)**
-* [General](#general)
-  * **[What is a startup?](#what-is-a-startup)**
-  * **[What's key to success?](#whats-key-to-success)**
-* [Ideas & Vision](#ideas--vision)
-  * **[What kind of idea should we have?](#what-kind-of-idea-should-we-have)**
-* [Leadership & Management](#leadership--management)
-  * What makes a good leader?
-  * How should we manage our company?
-* [Lean Startup](#lean-startup)
-  * What is Lean Startup?
-  * How can we be a Lean Startup?
-* [Legal](#legal)
-  * Do we need a lawyer?
-  * What kind of legal issues should we be aware of?
-* [Market & Research](#market--research)
-  * What should we know about our market?
-* [Marketing & Sales](#marketing--sales)
-  * **[How should we market our product?](#how-should-we-market-our-product)**
-  * **[How should we approach sales?](#how-should-we-approach-sales)**
-* [Metrics & Analytics](#metrics--analytics)
-  * **[How do we measure our progress?](#how-do-we-measure-our-progress)**
-* [Mistakes & Failure](#mistakes--failure)
-  * **[What mistakes should we avoid?](#what-mistakes-should-we-avoid)**
-* [Mobile](#mobile)
-  * Should we focus on mobile?
-* [Models & Pricing](#models--pricing)
-  * What should our business model be?
-  * How should we price our product?
-* [Planning & Strategy](#planning--strategy)
-  * **[What strategy should we use?](#what-strategy-should-we-use)**
-* [Problems & Problem Solving](#problems--problem-solving)
-  * What problems should we solve?
-  * How should we solve problems?
-* [Product](#product)
-  * What kind of product should we build?
-  * How should we build our product?
-* [Product/Market Fit](#product/market-fit)
-  * **[What is product/market fit?](#what-is-product/market-fit)**
-  * How can we achieve product/market fit?
-* [Promotion & Traction](#promotion--traction)
-  * How should we promote our product?
-  * How can we get traction?
-* [Recruiting & Employment](#recruiting--employment)
-  * What kind of people should we hire?
-  * **[What's a good recruiting strategy?](#whats-a-good-recruiting-strategy)**
-  * What kind of terms of employment should we use?
-* [Scaling & Growth](#scaling--growth)
-  * **[How do we grow?](#how-do-we-grow)**
-* [SEO](#seo)
-  * Should we focus on SEO?
-  * How can we improve SEO?
-* [Social](#social)
-  * Should we focus on social networks?
-  * How should we take advantage of social?
-* [Starting Up](#starting-up)
-  * **[How should we get started?](#how-should-we-get-started)**
-* [Stock Market](#stock-market)
-  * Should we IPO?
-  * How should we IPO?
-* [Team & Roles](#team--roles)
-  * **[What kind of team should we build?](#what-kind-of-team-should-we-build)**
-  * What kind of roles should we have?
-* [Teamwork & Communication](#teamwork--communication)
-  * How should we work together?
-  * How should we communicate?
-* [Trends & Spaces](#trends--spaces)
-  * What kinds of ideas are promising?
+* <a href="#competition" style="font-weight:bold;">Competition</a>
+  * <a href="#should-we-be-worried-about-competition" style="font-weight:bold;">Should we be worried about competition?</a>
+  * <a href="#how-should-we-compete" style="font-weight:bold;">How should we compete?</a>
+* <a href="#exit" style="font-weight:bold;">Exit</a>
+  * <a href="#how-do-we-get-acquired" style="font-weight:bold;">How do we get acquired?</a>
+* <a href="#founding" style="font-weight:bold;">Founding</a>
+  * <a href="#what-makes-a-good-founder" style="font-weight:bold;">What makes a good founder?</a>
+* <a href="#fundraising" style="font-weight:bold;">Fundraising</a>
+  * <a href="#should-we-raise-money" style="font-weight:bold;">Should we raise money?</a>
+  * <a href="#how-should-we-raise-money" style="font-weight:bold;">How should we raise money?</a>
+* <a href="#general" style="font-weight:bold;">General</a>
+  * <a href="#what-is-a-startup" style="font-weight:bold;">What is a startup?</a>
+  * <a href="#whats-key-to-success" style="font-weight:bold;">What's key to success?</a>
+* <a href="#ideas--vision" style="font-weight:bold;">Ideas & Vision</a>
+  * <a href="#what-kind-of-idea-should-we-have" style="font-weight:bold;">What kind of idea should we have?</a>
+* <a href="#marketing--sales" style="font-weight:bold;">Marketing & Sales</a>
+  * <a href="#how-should-we-market-our-product" style="font-weight:bold;">How should we market our product?</a>
+  * <a href="#how-should-we-approach-sales" style="font-weight:bold;">How should we approach sales?</a>
+* <a href="#metrics--analytics" style="font-weight:bold;">Metrics & Analytics</a>
+  * <a href="#how-do-we-measure-our-progress" style="font-weight:bold;">How do we measure our progress?</a>
+* <a href="#mistakes--failure" style="font-weight:bold;">Mistakes & Failure</a>
+  * <a href="#what-mistakes-should-we-avoid" style="font-weight:bold;">What mistakes should we avoid?</a>
+* <a href="#planning--strategy" style="font-weight:bold;">Planning & Strategy</a>
+  * <a href="#what-strategy-should-we-use" style="font-weight:bold;">What strategy should we use?</a>
+* <a href="#product/market-fit" style="font-weight:bold;">Product/Market Fit</a>
+  * <a href="#what-is-product/market-fit" style="font-weight:bold;">What is product/market fit?</a>
+* <a href="#recruiting--employment" style="font-weight:bold;">Recruiting & Employment</a>
+  * <a href="#whats-a-good-recruiting-strategy" style="font-weight:bold;">What's a good recruiting strategy?</a>
+* <a href="#scaling--growth" style="font-weight:bold;">Scaling & Growth</a>
+  * <a href="#how-do-we-grow" style="font-weight:bold;">How do we grow?</a>
+* <a href="#starting-up" style="font-weight:bold;">Starting Up</a>
+  * <a href="#how-should-we-get-started" style="font-weight:bold;">How should we get started?</a>
+* <a href="#team--roles" style="font-weight:bold;">Team & Roles</a>
+  * <a href="#what-kind-of-team-should-we-build" style="font-weight:bold;">What kind of team should we build?</a>
 
 
 ---
 
 
-
-<h3 id="advice--mentorship">Advice & Mentorship <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#should-we-have-advisors" id="should-we-have-advisors" style="font-weight:bold;outline:0">Should we have advisors?</a>
-
-<a href="#what-kind-of-advisors-should-we-seek" id="what-kind-of-advisors-should-we-seek" style="font-weight:bold;outline:0">What kind of advisors should we seek?</a>
-
-
-
----
-
-<h3 id="budgeting--finances">Budgeting & Finances <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#how-should-we-budget" id="how-should-we-budget" style="font-weight:bold;outline:0">How should we budget?</a>
-
-
-
----
-
-<h3 id="change">Change <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#when-should-we-pivot" id="when-should-we-pivot" style="font-weight:bold;outline:0">When should we pivot?</a>
-
-
-
----
 
 <h3 id="competition">Competition <small><a href="#table-of-contents">top</a></small></h3>
 
@@ -201,30 +112,6 @@ Source: <em title="The first thing to do is to dispel the belief that the best p
 
 ---
 
-<h3 id="culture--values">Culture & Values <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#what-kind-of-company-culture-should-we-have" id="what-kind-of-company-culture-should-we-have" style="font-weight:bold;outline:0">What kind of company culture should we have?</a>
-
-
-
----
-
-<h3 id="customers">Customers <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#how-can-we-find-new-customers" id="how-can-we-find-new-customers" style="font-weight:bold;outline:0">How can we find new customers?</a>
-
-<a href="#what-kind-of-customers-should-we-target" id="what-kind-of-customers-should-we-target" style="font-weight:bold;outline:0">What kind of customers should we target?</a>
-
-<a href="#how-can-we-get-feedback-from-customers" id="how-can-we-get-feedback-from-customers" style="font-weight:bold;outline:0">How can we get feedback from customers?</a>
-
-<a href="#how-should-we-deal-with-our-customers" id="how-should-we-deal-with-our-customers" style="font-weight:bold;outline:0">How should we deal with our customers?</a>
-
-<a href="#how-can-we-retain-customers" id="how-can-we-retain-customers" style="font-weight:bold;outline:0">How can we retain customers?</a>
-
-
-
----
-
 <h3 id="exit">Exit <small><a href="#table-of-contents">top</a></small></h3>
 
 <a href="#how-do-we-get-acquired" id="how-do-we-get-acquired" style="font-weight:bold;outline:0">How do we get acquired?</a>
@@ -235,24 +122,6 @@ Source: <em title="The first thing to do is to dispel the belief that the best p
 <strong>A RAPIDLY GROWING COMPANY IS DANGEROUS TO BIGGER COMPANIES.</strong><br>
 Source: <em title="But acquirers have an additional reason to want startups. A rapidly growing company is not merely valuable, but dangerous. If it keeps expanding, it might expand into the acquirer's own territory. Most product acquisitions have some component of fear. Even if an acquirer isn't threatened by the startup itself, they might be alarmed at the thought of what a competitor could do with it. And because startups are in this sense doubly valuable to acquirers, acquirers will often pay more than an ordinary investor would.">"But acquirers have an additional reason..."</em>, Paul Graham, <a href="http://www.paulgraham.com/growth.html">Startup = Growth</a>
 </p></blockquote>
-
-
-
----
-
-<h3 id="experiments--learning">Experiments & Learning <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#how-should-we-experiment" id="how-should-we-experiment" style="font-weight:bold;outline:0">How should we experiment?</a>
-
-
-
----
-
-<h3 id="feedback">Feedback <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#how-should-we-get-feedback" id="how-should-we-get-feedback" style="font-weight:bold;outline:0">How should we get feedback?</a>
-
-<a href="#what-kind-of-feedback-should-we-get" id="what-kind-of-feedback-should-we-get" style="font-weight:bold;outline:0">What kind of feedback should we get?</a>
 
 
 
@@ -672,44 +541,6 @@ Source: <em title="Now people are saying the same things about Arc that they sai
 
 ---
 
-<h3 id="leadership--management">Leadership & Management <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#what-makes-a-good-leader" id="what-makes-a-good-leader" style="font-weight:bold;outline:0">What makes a good leader?</a>
-
-<a href="#how-should-we-manage-our-company" id="how-should-we-manage-our-company" style="font-weight:bold;outline:0">How should we manage our company?</a>
-
-
-
----
-
-<h3 id="lean-startup">Lean Startup <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#what-is-lean-startup" id="what-is-lean-startup" style="font-weight:bold;outline:0">What is Lean Startup?</a>
-
-<a href="#how-can-we-be-a-lean-startup" id="how-can-we-be-a-lean-startup" style="font-weight:bold;outline:0">How can we be a Lean Startup?</a>
-
-
-
----
-
-<h3 id="legal">Legal <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#do-we-need-a-lawyer" id="do-we-need-a-lawyer" style="font-weight:bold;outline:0">Do we need a lawyer?</a>
-
-<a href="#what-kind-of-legal-issues-should-we-be-aware-of" id="what-kind-of-legal-issues-should-we-be-aware-of" style="font-weight:bold;outline:0">What kind of legal issues should we be aware of?</a>
-
-
-
----
-
-<h3 id="market--research">Market & Research <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#what-should-we-know-about-our-market" id="what-should-we-know-about-our-market" style="font-weight:bold;outline:0">What should we know about our market?</a>
-
-
-
----
-
 <h3 id="marketing--sales">Marketing & Sales <small><a href="#table-of-contents">top</a></small></h3>
 
 <a href="#how-should-we-market-our-product" id="how-should-we-market-our-product" style="font-weight:bold;outline:0">How should we market our product?</a>
@@ -953,24 +784,6 @@ Source: <em title="That is a really bad idea. It is very likely that one channel
 
 ---
 
-<h3 id="mobile">Mobile <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#should-we-focus-on-mobile" id="should-we-focus-on-mobile" style="font-weight:bold;outline:0">Should we focus on mobile?</a>
-
-
-
----
-
-<h3 id="models--pricing">Models & Pricing <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#what-should-our-business-model-be" id="what-should-our-business-model-be" style="font-weight:bold;outline:0">What should our business model be?</a>
-
-<a href="#how-should-we-price-our-product" id="how-should-we-price-our-product" style="font-weight:bold;outline:0">How should we price our product?</a>
-
-
-
----
-
 <h3 id="planning--strategy">Planning & Strategy <small><a href="#table-of-contents">top</a></small></h3>
 
 <a href="#what-strategy-should-we-use" id="what-strategy-should-we-use" style="font-weight:bold;outline:0">What strategy should we use?</a>
@@ -1021,26 +834,6 @@ Source: <em title="The thing I probably repeat most is this recipe for a startup
 
 ---
 
-<h3 id="problems--problem-solving">Problems & Problem Solving <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#what-problems-should-we-solve" id="what-problems-should-we-solve" style="font-weight:bold;outline:0">What problems should we solve?</a>
-
-<a href="#how-should-we-solve-problems" id="how-should-we-solve-problems" style="font-weight:bold;outline:0">How should we solve problems?</a>
-
-
-
----
-
-<h3 id="product">Product <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#what-kind-of-product-should-we-build" id="what-kind-of-product-should-we-build" style="font-weight:bold;outline:0">What kind of product should we build?</a>
-
-<a href="#how-should-we-build-our-product" id="how-should-we-build-our-product" style="font-weight:bold;outline:0">How should we build our product?</a>
-
-
-
----
-
 <h3 id="product/market-fit">Product/Market Fit <small><a href="#table-of-contents">top</a></small></h3>
 
 <a href="#what-is-product/market-fit" id="what-is-product/market-fit" style="font-weight:bold;outline:0">What is product/market fit?</a>
@@ -1052,25 +845,11 @@ Source: <em title="The thing I probably repeat most is this recipe for a startup
 Source: <em title="Let's introduce Rachleff's Corollary of Startup Success: The only thing that matters is getting to product/market fit. Product/market fit means being in a good market with a product that can satisfy that market.">"Let's introduce Rachleff's Corollary of Startup..."</em>, Marc Andreessen, <a href="http://pmarchive.com/guide_to_startups_part4.html">The Pmarca Guide To Startups, Part 4: The only thing that matters</a>
 </p></blockquote>
 
-<a href="#how-can-we-achieve-product/market-fit" id="how-can-we-achieve-product/market-fit" style="font-weight:bold;outline:0">How can we achieve product/market fit?</a>
-
-
-
----
-
-<h3 id="promotion--traction">Promotion & Traction <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#how-should-we-promote-our-product" id="how-should-we-promote-our-product" style="font-weight:bold;outline:0">How should we promote our product?</a>
-
-<a href="#how-can-we-get-traction" id="how-can-we-get-traction" style="font-weight:bold;outline:0">How can we get traction?</a>
-
 
 
 ---
 
 <h3 id="recruiting--employment">Recruiting & Employment <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#what-kind-of-people-should-we-hire" id="what-kind-of-people-should-we-hire" style="font-weight:bold;outline:0">What kind of people should we hire?</a>
 
 <a href="#whats-a-good-recruiting-strategy" id="whats-a-good-recruiting-strategy" style="font-weight:bold;outline:0">What's a good recruiting strategy?</a>
 
@@ -1080,8 +859,6 @@ Source: <em title="Let's introduce Rachleff's Corollary of Startup Success: The 
 <strong>FOUNDERS SHOULD PROBABLY SPEND 1/4 TO 1/3 OF THEIR TIME ON RECRUITING.</strong><br>
 Source: <em title="A similar thing exists with employee hiring. It’s trickier to know what to do there. But traditional recruiters do not take the distribution problem seriously enough. They assume that people are always rational, and that by giving them information, people will make good decisions. That’s not true at all. And since the best people tend to make the best companies, the founders or one or two key senior people at any multimillion-dollar company should probably spend between 25% and 33% of their time identifying and attracting talent.">"A similar thing exists with employee..."</em>, Peter Thiel, <a href="http://blakemasters.com/post/22405055017/peter-thiels-cs183-startup-class-9-notes-essay">Peter Thiel’s CS183: Startup - Class 9 Notes Essay</a>
 </p></blockquote>
-
-<a href="#what-kind-of-terms-of-employment-should-we-use" id="what-kind-of-terms-of-employment-should-we-use" style="font-weight:bold;outline:0">What kind of terms of employment should we use?</a>
 
 
 
@@ -1116,26 +893,6 @@ Source: <em title="For a company to grow really big, it must (a) make something 
 
 ---
 
-<h3 id="seo">SEO <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#should-we-focus-on-seo" id="should-we-focus-on-seo" style="font-weight:bold;outline:0">Should we focus on SEO?</a>
-
-<a href="#how-can-we-improve-seo" id="how-can-we-improve-seo" style="font-weight:bold;outline:0">How can we improve SEO?</a>
-
-
-
----
-
-<h3 id="social">Social <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#should-we-focus-on-social-networks" id="should-we-focus-on-social-networks" style="font-weight:bold;outline:0">Should we focus on social networks?</a>
-
-<a href="#how-should-we-take-advantage-of-social" id="how-should-we-take-advantage-of-social" style="font-weight:bold;outline:0">How should we take advantage of social?</a>
-
-
-
----
-
 <h3 id="starting-up">Starting Up <small><a href="#table-of-contents">top</a></small></h3>
 
 <a href="#how-should-we-get-started" id="how-should-we-get-started" style="font-weight:bold;outline:0">How should we get started?</a>
@@ -1146,16 +903,6 @@ Source: <em title="For a company to grow really big, it must (a) make something 
 <strong>DELIVER YOUR SOLUTION AS INFORMALLY AS POSSIBLE, STARTING WITH A VERY CRUDE VERSION 1, THEN ITERATING RAPIDLY.</strong><br>
 Source: <em title="Now people are saying the same things about Arc that they said at first about Viaweb and Y Combinator and most of my essays. Why the pattern? The answer, I realized, is that my m.o. for all four has been the same. Here it is: I like to find (a) simple solutions (b) to overlooked problems (c) that actually need to be solved, and (d) deliver them as informally as possible, (e) starting with a very crude version 1, then (f) iterating rapidly.">"Now people are saying the same..."</em>, Paul Graham, <a href="http://www.paulgraham.com/newthings.html">Six Principles for Making New Things</a>
 </p></blockquote>
-
-
-
----
-
-<h3 id="stock-market">Stock Market <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#should-we-ipo" id="should-we-ipo" style="font-weight:bold;outline:0">Should we IPO?</a>
-
-<a href="#how-should-we-ipo" id="how-should-we-ipo" style="font-weight:bold;outline:0">How should we IPO?</a>
 
 
 
@@ -1192,26 +939,6 @@ Source: <em title="We have three general suggestions about hiring: (a) don't do 
 <strong>PAY PEOPLE WITH EQUITY RATHER THAN SALARY.</strong><br>
 Source: <em title="We have three general suggestions about hiring: (a) don't do it if you can avoid it, (b) pay people with equity rather than salary, not just to save money, but because you want the kind of people who are committed enough to prefer that, and (c) only hire people who are either going to write code or go out and get users, because those are the only things you need at first.">"We have three general suggestions about..."</em>, Paul Graham, <a href="http://www.paulgraham.com/startupmistakes.html">The 18 Mistakes That Kill Startups</a>
 </p></blockquote>
-
-<a href="#what-kind-of-roles-should-we-have" id="what-kind-of-roles-should-we-have" style="font-weight:bold;outline:0">What kind of roles should we have?</a>
-
-
-
----
-
-<h3 id="teamwork--communication">Teamwork & Communication <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#how-should-we-work-together" id="how-should-we-work-together" style="font-weight:bold;outline:0">How should we work together?</a>
-
-<a href="#how-should-we-communicate" id="how-should-we-communicate" style="font-weight:bold;outline:0">How should we communicate?</a>
-
-
-
----
-
-<h3 id="trends--spaces">Trends & Spaces <small><a href="#table-of-contents">top</a></small></h3>
-
-<a href="#what-kinds-of-ideas-are-promising" id="what-kinds-of-ideas-are-promising" style="font-weight:bold;outline:0">What kinds of ideas are promising?</a>
 
 
 
