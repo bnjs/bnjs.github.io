@@ -5,7 +5,7 @@ title: Why I Want an iWatch
 
 # Why I Want an iWatch
 
-The possibility of an iWatch announcement at WWDC on September 9th has me thinking about the rumored device and all the things I want to do with it. In this post I'll go over those things. No features have been confirmed of course, so this is all speculation and wishful thinking. Still, I think the device has amazing potential.
+The possibility of an iWatch announcement at September 9 event has me thinking about the rumored device and all the things I want to do with it. In this post I'll go over those things. No features have been confirmed of course, so this is all speculation and wishful thinking. Still, I think the device has amazing potential.
 
 ### Time
 
