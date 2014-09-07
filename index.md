@@ -3,17 +3,51 @@ layout: default
 title: Benjamin Sullivan
 ---
 
+## Software developer, working on "<em>entrepreneur</em>."
+
+## <span class="lowkey">Say hello on <a href="https://twitter.com/bnjs">Twitter</a> or <a href="http://www.facebook.com/bnjsu">Facebook</a>.</span>
+
+---
+
 # Projects
 
-## <a href="https://www.tadaku.com" target="_blank">Tadaku</a>
+<h2>
+  <a href="http://www.thebuilding.io" target="_blank">The Building</a>
+  <br/>
+  <span class="lowkey">Noteworthy news and articles for startup founders and developers</span>
+</h2>
 
-## [Startup FAQ](/startup-faq)
+<h2>
+  <a href="/startup-faq">Startup FAQ</a>
+  <br/>
+  <span class="lowkey">Insights distilled from top startup articles</span>
+</h2>
 
-## [Startup Knowledgebase](/startup-knowledgebase)
+<h2>
+  <a href="/startup-knowledgebase">Startup Knowledgebase</a>
+  <br/>
+  <span class="lowkey">Categorized collection of insightful articles</span>
+</h2>
 
-## <a href="http://www.meetup.com/LeanStartupTokyo/" target="_blank">Bootstrap Lunch</a>
+<h2>
+  <a href="http://www.meetup.com/LeanStartupTokyo/" target="_blank">Bootstrap Lunch</a>
+  <br/>
+  <span class="lowkey">Up to 7 entrepreneurs meet over coffee every other Saturday (founding organizer)</span>
+</h2>
 
-<br>
+<h2>
+  <a href="https://kenzai.me" target="_blank">Kenzai</a>
+  <br/>
+  <span class="lowkey">Online fitness platform based on real food, real exercise and real people (full-stack developer)</span>
+</h2>
+
+<h2>
+  <a href="https://www.tadaku.com" target="_blank">Tadaku</a>
+  <br/>
+  <span class="lowkey">Cook real food with real people (co-founded, built)</span>
+</h2>
+
+---
 
 # Writings
 
@@ -21,8 +55,7 @@ title: Benjamin Sullivan
 
 ## [Expressing the Liar Paradox in Ruby](/expressing-the-liar-paradox-in-ruby)
 
-
-<br>
+---
 
 # Transcripts
 
