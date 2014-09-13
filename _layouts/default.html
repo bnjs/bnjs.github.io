@@ -31,6 +31,10 @@
     <div class="wrapper">
       <header>
         <h1><a href="/" style="font-weight:bold;">Benjamin Sullivan</a></h1>
+        <hr>
+        {% for post in site.posts limit:1 %}
+        <h2>Latest: <a href="{{post.url}}" style="color:#f66;">{{ post.title }}</a></h2>
+        {% endfor %}
       </header>
 
       <section>
