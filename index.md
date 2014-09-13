@@ -9,6 +9,22 @@ title: Benjamin Sullivan
 
 ---
 
+# Writings
+
+{% for post in site.posts %}
+{% if post.path contains "_drafts" %}
+## <a href="{{ post.url }}" style="color:#f66">{{post.title}}</a>
+{% else %}
+## [{{ post.title }}]({{ post.url }})
+{% endif %}
+{% endfor %}
+
+## [Why I Want an iWatch](/why-i-want-an-iwatch)
+
+## [Expressing the Liar Paradox in Ruby](/expressing-the-liar-paradox-in-ruby)
+
+---
+
 # Projects
 
 <h2>
@@ -58,22 +74,6 @@ title: Benjamin Sullivan
   <br/>
   <span class="lowkey">Cook real food with real people (co-founded, built)</span>
 </h2>
-
----
-
-# Writings
-
-{% for post in site.posts %}
-{% if post.path contains "_drafts" %}
-## <a href="{{ post.url }}" style="color:#f66">{{post.title}}</a>
-{% else %}
-## [{{ post.title }}]({{ post.url }})
-{% endif %}
-{% endfor %}
-
-## [Why I Want an iWatch](/why-i-want-an-iwatch)
-
-## [Expressing the Liar Paradox in Ruby](/expressing-the-liar-paradox-in-ruby)
 
 ---
 
