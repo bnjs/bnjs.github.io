@@ -12,7 +12,7 @@ permalink: modus-operandi
 2. **Specify details for actualization**
 3. **Make this the first item of the outline** (self-reinforcing)
 4. **Review frequently and actualize**
-5. **Make public for transparency**
+5. **Make public for transparency and accountability**
 6. **This is the [BIOS](http://en.wikipedia.org/wiki/BIOS) of your life**
 
 ## High-Level Values
@@ -67,6 +67,20 @@ permalink: modus-operandi
 ## Community
 
 1. **Be involved in community**
-2. **Meet with real people** (meetups, events)
+2. **Connect with people** (Twitter, Facebook, LinkedIn)
+3. **Share information** (Facebook, Twitter, [The Building](http://thebuilding.io))
+2. **Meet in real life** ([meetups](http://www.meetup.com/), events)
 3. **Network and keep in touch**
-4. **Offer your help without expectations**
+4. **Offer help without expectations**
+
+## Work
+
+1. **Be useful**
+2. **Solve problems**
+3. **Express your opinion**
+4. **Think what's best for the team**
+5. **Make a significant contribution**
+6. **Be flexible, thick-skinned, and welcome criticism**
+7. **Reject destructive emotions** (drama, ego, victim mentality)
+8. **Give a shit and be positive**
+9. **Part ways on good terms**
