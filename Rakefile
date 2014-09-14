@@ -6,7 +6,7 @@ require 'yaml'
 
 desc "Serve the site locally"
 task :serve do
-  system "bundle exec jekyll serve -w"
+  system "bundle exec jekyll serve -w --drafts --config _config.yml,_config-dev.yml"
 end
 
 desc "Generate blog files"
@@ -15,7 +15,7 @@ task :build do
 end
 
 desc "Generate and publish"
-task :publish do
+task :publish => :build do
   system "git push origin master"
   system "echo yolo"
 end
