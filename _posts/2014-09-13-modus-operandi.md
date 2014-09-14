@@ -8,50 +8,65 @@ permalink: modus-operandi
 
 ## Constitution
 
-A high-level outline of what you value most, who you intend to be, and what you intend to do. A personal constitution. A document for daily review. A guide for personal growth. A public statement for transparency, accountability.
+1. **Keep a high-level outline of what you value most, who you want to be**
+2. **Specify details for actualization**
+3. **Make this the first item of the outline** (self-reinforcing)
+4. **Review frequently and actualize**
+5. **Make public for transparency**
+6. **This is the [BIOS](http://en.wikipedia.org/wiki/BIOS) of your life**
 
-Self-referential. The first item of the document is the document itself.
+## High-Level Values
 
-## Caring
+1. **Care about reality** (what is objectively true?)
+2. **Care about people** (what do people want?)
+3. **Care about excellence** (what is the best?)
 
-Care about:
+## Goals
 
-* reality (what is necessarily true?)
-* people (what do they want?)
-* goals (what is ideal?)
+1. **Keep an outline of your most important goals**
+2. **Specify strategies for achievement**
+3. **One Metric That Matters for each, and other relevant KPI**
+4. **Review daily**
 
-## Accountability to Self
+## Execution
 
-An effective system for remembering low-level *things I need to do* and *things I want to remember*.
+1. **Get shit done**
+2. **Judge yourself by your KPI**
+3. **Feel bad when you're not executing**
 
-* tasks in [Asana](http://www.asana.com)
-* events in Google Calendar
+## Efficacy
 
-## Reading
+1. **Use a system to remember things**
+2. **Keep tasks** ([Asana](http://www.asana.com))
+3. **Create reminders** (Google Calendar)
 
-Inform yourself. Read:
+## Role Models
 
-* articles/blogs ([Hacker News](http://news.ycombinator.com), [Google News](http://news.google.com), [Reddit World News](http://www.reddit.com/r/worldnews))
-* tweets on Twitter
-* books
+1. **Seek out excellent and admirable people**
+1. **Listen to and learn from them** (Twitter, blogs, YouTube interviews)
+2. **Distill into actionable advice** ([Startup FAQ](http://www.bnjs.co/startup-faq))
+3. **Incorporate into your values, goals, habits**
 
-## Writing
+## Information
 
-Contribute to discussions, express your opinion.
+1. **Read the news** ([Google News](http://news.google.com), [Reddit World News](http://www.reddit.com/r/worldnews))
+2. **Read articles/blogs** ([Hacker News](http://news.ycombinator.com), [Nuzzel](http://www.nuzzel.com), [TechCrunch](http://www.techcrunch.com), [Techmeme](http://www.techmeme.com))
+3. **Read Twitter** (VC's, entrepreneurs, developers, people you admire)
+4. **Read books** ([Lean Analytics](http://amzn.com/1449335675), [The Hard Thing About Hard Things](http://amzn.com/B00DQ845EA), [Zero to One](http://amzn.com/B00KHX0II4))
+5. **Keep a knowledgebase** ([Startup Knowledgebase](http://www.bnjs.co/startup-knowledgebase))
 
-Media:
+## Expression
 
-* Twitter
-* blog
-
-Guidelines:
-
-* Paul Graham: [Writing, Briefly](http://www.paulgraham.com/writing44.html)
-* George Orwell: [Remedy of Six Rules](http://en.wikipedia.org/wiki/Politics_and_the_English_Language#Remedy_of_Six_Rules)
+1. **Express your opinion and contribute to discussions**
+2. **Comment and reply** (articles, Twitter, Hacker News, Reddit)
+3. **Short ideas** ([Twitter](https://twitter.com/bnjs))
+4. **Longer ideas** ([blog](http://www.bnjs.co))
+5. **Improve your ability to express ideas** ([Writing, Briefly](http://www.paulgraham.com/writing44.html), [Remedy of Six Rules](http://en.wikipedia.org/wiki/Politics_and_the_English_Language#Remedy_of_Six_Rules))
 
 
 ## Community
 
-Be involved in community, be a part of the conversation. Talk to people and try to understand them.
-
-* Twitter search feeds for relevant topics, on alert
+1. **Be involved in community**
+2. **Meet with real people** (meetups, events)
+3. **Network and keep in touch**
+4. **Offer your help without expectations**
