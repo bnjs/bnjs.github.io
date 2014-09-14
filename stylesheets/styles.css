@@ -222,10 +222,40 @@ footer {
 
 
 
-/* INDEX STYLES */
 
-h2 a { font-weight: bold; }
+/* THEME OVERRIDES */
+
+code {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+code:before, code:after {
+letter-spacing: -0.2em;
+content: "\00a0";
+}
+
+pre code {
+  background-color: transparent;
+}
+
+pre code:before, pre code:after {
+letter-spacing: 0;
+content: "";
+}
+
+h1 a, h2 a, h3 a, strong a { font-weight: bold; }
+
+
+/* INDEX STYLES */
 
 h2 span.lowkey {
   font-weight: normal;
 }
+
+
