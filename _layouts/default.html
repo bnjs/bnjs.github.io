@@ -35,6 +35,11 @@
         {% for post in site.posts limit:1 %}
         <h2>Latest: <a href="{{post.url}}" style="color:#f66;">{{ post.title }}</a></h2>
         {% endfor %}
+
+        {% if site.host == '0.0.0.0' %}
+        <h2><a href="/modus-operandi">Modus Operandi</a></h2>
+        <h2><a href="/goals">Goals &amp; KPI</a></h2>
+        {% endif %}
       </header>
 
       <section>
