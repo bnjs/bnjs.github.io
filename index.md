@@ -3,7 +3,7 @@ layout: default
 title: Benjamin Sullivan
 ---
 
-## Software developer, working on "<em>entrepreneur</em>."
+## Software developer, working on "<em>make something people want</em>."
 
 ## <span class="lowkey">Say hello on <a href="https://twitter.com/bnjs">Twitter</a> or <a href="http://www.facebook.com/bnjsu">Facebook</a>.</span>
 
