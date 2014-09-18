@@ -62,6 +62,7 @@ permalink: modus-operandi
 3. **Short ideas** ([Twitter](https://twitter.com/bnjs))
 4. **Longer ideas** ([blog](http://www.bnjs.co))
 5. **Improve your ability to express ideas** ([Writing, Briefly](http://www.paulgraham.com/writing44.html), [Remedy of Six Rules](http://en.wikipedia.org/wiki/Politics_and_the_English_Language#Remedy_of_Six_Rules))
+6. **Create blog post drafts for ideas with potential**
 
 
 ## Community
@@ -80,7 +81,17 @@ permalink: modus-operandi
 3. **Express your opinion**
 4. **Think what's best for the team**
 5. **Make a significant contribution**
-6. **Be flexible, thick-skinned, and welcome criticism**
-7. **Reject destructive emotions** (drama, ego, victim mentality)
-8. **Give a shit and be positive**
-9. **Part ways on good terms**
+6. **Be flexible, open-minded**
+7. **Be durable, thick-skinned, welcome criticism**
+8. **Reject destructive emotions** (drama, ego, victim mentality)
+9. **Give a shit and be positive**
+10. **Part ways on good terms**
+
+## Fitness
+
+1. **Basic nutrition** (meat, carbs, eggs, fruit, vegetables, milk, no added sugar)
+2. **Physical fitness** (cardio, weight training)
+
+## Motivation
+
+1. **Put yourself in a position where failure will be public and humiliating** ([How Not to Die](http://www.paulgraham.com/die.html))
