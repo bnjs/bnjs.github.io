@@ -28,18 +28,6 @@ title: Benjamin Sullivan
 # Projects
 
 <h2>
-  <a href="https://twitter.com/bnjs/timelines/509708322434338816" target="_blank">Demand for Apple Watch on Twitter</a>
-  <br/>
-  <span class="lowkey">Sampling of public tweets expressing demand for the Apple Watch, added indiscriminately from <a href="https://twitter.com/search?f=realtime&q=I%20want%20Apple%20Watch&src=typd" target="_blank" style="font-weight:normal;">"I want Apple Watch"</a> search feed.</span>
-</h2>
-
-<h2>
-  <a href="https://twitter.com/bnjs/timelines/510067457717833728" target="_blank">Demand for Moto 360 on Twitter</a>
-  <br/>
-  <span class="lowkey">Sampling of public tweets expressing demand for the Moto 360, added indiscriminately from <a href="https://twitter.com/search?f=realtime&q=I%20want%20Moto%20360&src=typd" target="_blank" style="font-weight:normal;">"I want Moto 360"</a> search feed.</span>
-</h2>
-
-<h2>
   <a href="http://www.thebuilding.io" target="_blank">The Building</a>
   <br/>
   <span class="lowkey">Noteworthy news and articles for startup founders and developers</span>
