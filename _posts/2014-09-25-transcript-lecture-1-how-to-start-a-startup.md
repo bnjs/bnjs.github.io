@@ -196,33 +196,34 @@ And this is probably the thing that we see wrong with Y Combinator apps most fre
 
 ### A great product
 
-so for the next section I'm going to talk about building a great product.
-and here again, I'm going to use a very broad definiton of product.
-it includes customer support and copyright explaining the product.
-anything involved in your customer's interaction with what you built for them.
-to build a really great company you first have to turn a great idea into a great product.
-this is really hard but it's curcially important and fortunately it's pretty fun.
-although great products are always new to the world, and it's hard to give you advice about what to build, there are enough commonalities that we can give you a lot of advice about how to build it.
+So for the next section I'm going to talk about building a great product.
+And here again, I'm going to use a very broad definition of product.
+It includes customer support and copyright explaining the product.
+Anything involved in your customer's interaction with what you built for them.
+To build a really great company you first have to turn a great idea into a great product.
+This is really hard but it's crucially important and fortunately it's pretty fun.
+Although great products are always new to the world, and it's hard to give you advice about what to build, there are enough commonalities that we can give you a lot of advice about how to build it.
 
-one of the most important tasks for a founder is to make sure that the company builds a great product.
-until you built a great product, almost nothing else matters.
-when really successful startup founders tell the story of their early days, it's almost always sitting in front of the computer working on their product or talking to their customers.
-that's pretty much all the time, they do very little else.
-and you should be very skeptical if your time allocation is much diferent.
+One of the most important tasks for a founder is to make sure that the company builds a great product.
+Until you've built a great product, almost nothing else matters.
+When really successful startup founders tell the story of their early days, it's almost always sitting in front of the computer working on their product or talking to their customers.
+That's pretty much all the time, they do very little else.
+And you should be very skeptical if your time allocation is much different.
 
-most other problems that founders are trying to solve, rasiging money, getting more press, hiring, busines development, etc. these are significantly easier when you have a great product.
-it's really improtant to take care of that first.
-step 1 is to build something that users love.
+Most other problems that founders are trying to solve, raising money, getting more press, hiring, business development, etc. These are significantly easier when you have a great product.
+It's really important to take care of that first.
+Step 1 is to build something that users love.
 
-at YC we tell foundres to work on their product, talk to users, exercisee, eat and sleep. and very little else.
-all the other stuff I just mentioned, PR, conferences, recruiting, advisors, doing partnerships, you should ignore all of that and just build the product and then get it as good as possible by talking to your users.
+At YC we tell founders to work on their product, talk to users, exercise, eat, and sleep. And very little else.
+All the other stuff I just mentioned--PR, conferences, recruiting advisors, doing partnerships--you should ignore all of that and just build the product and then get it as good as possible by talking to your users.
 
-your job is to build something that users love. very few companies that go on to be super succesfsul get there without first doing this.
-a lot of good on paper startups fail because they merely make something that people like. making something that people want, but only am edium amount, is a great way to fail and not understand why you're failing.
-so these are the two jobs.
+Your job is to build something that users love. Very few companies that go on to be super successful get there without first doing this.
+A lot of good-on-paper startups fail because they merely make something that people like. Making something that people want, but only a medium amount, is a great way to fail and not understand why you're failing.
+So these are the two jobs.
 
-something that we say at YC a lot is that it's better to build something that a small number of users love, than a large nubmer of users like.
-of course it'd be best to build something that a small [editor's note: I think he means "large'] number of users love, but opportunities to do that for V1 are rare and they're usually not available to startups.
+Something that we say at YC a lot is that it's better to build something that a small number of users love, than a large number of users like.
+Of course it'd be best to build something that a [large] number of users love, but opportunities to do that for version 1 are rare and they're usually not available to startups.
+
 
 so in practice you end up choosing either the gray or the orange. you make something that a lot of users like a little bit, or something that a small number of users love a lot.
 
