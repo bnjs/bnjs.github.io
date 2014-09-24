@@ -4,16 +4,45 @@ title: "Transcript: Lecture 1 - How to Start a Startup"
 ---
 
 
-<div class="fb-like" data-href="http://www.bnjs.co/2014/09/25/transcript-lecture-1-how-to-start-a-startup/" data-width="200" data-layout="button" data-action="like" data-show-faces="false" data-share="true" style="float:left;margin-right:4px;position:relative;top:-1px"></div>
+<style>
+.social { font-size: 1px; }
+.social iframe { vertical-align: middle; }
+.social span {
+  display: inline-block;
+  width: 110px;
+}
+.social .facebook {
+  width: 135px;
+  position: relative;
+  top: 1px;
+}
+.social .twitter { width: 90px; }
+</style>
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="bnjs" data-count="none" data-dnt="true">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<div class="social">
 
-<div style="clear:both"></div>
+  <span class="facebook">
+  <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.bnjs.co%2F2014%2F09%2F25%2Ftranscript-lecture-1-how-to-start-a-startup%2F&amp;width=135&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=35&amp;appId=855604767783223" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:135px; height:21px;" allowTransparency="true"></iframe>
+  </span>
+
+  <span class="twitter">
+  <a href="https://twitter.com/share" class="twitter-share-button" data-via="bnjs" data-dnt="true">Tweet</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </span>
+
+
+  <span class="hnews">
+  <a href="https://news.ycombinator.com/submit" class="hn-button" data-count="horizontal">Vote on Hacker News</a>
+  <script type="text/javascript">var HN=[];HN.factory=function(e){return function(){HN.push([e].concat(Array.prototype.slice.call(arguments,0)))};},HN.on=HN.factory("on"),HN.once=HN.factory("once"),HN.off=HN.factory("off"),HN.emit=HN.factory("emit"),HN.load=function(){var e="hn-button.js";if(document.getElementById(e))return;var t=document.createElement("script");t.id=e,t.src="//hn-button.herokuapp.com/hn-button.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)},HN.load();</script>
+  </span>
+
+</div>
+
+<br/>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/CBYhVcO4WgI" frameborder="0" allowfullscreen></iframe>
 
----
+<br/>
 
 ## Sam Altman
 
