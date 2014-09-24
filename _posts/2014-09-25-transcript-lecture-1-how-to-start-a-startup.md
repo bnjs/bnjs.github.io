@@ -9,6 +9,9 @@ title: "Transcript: Lecture 1 - How to Start a Startup"
 
 ## Sam Altman
 
+* [Official page](http://startupclass.samaltman.com/courses/lec01/)
+* [Slides](https://www.dropbox.com/s/hb854k832ox4p3v/Lecture_1_Sam.pdf?dl=0)
+
 Welcome to CS183B. I'm Sam Altman, President of Y Combinator. Nine years ago I was a Standard student, and then I dropped out to start a company, and then I've been an investor for the last few.
 
 So at YC we've been teaching people how to start startups for 9 years. Most of it's very hands on and specific to the startups, but 30% of it is pretty generally applicable, and so we think that we can teach that 30% in this class and even though that's only 30% of the way there, hopefully it'll still be really helpful.
@@ -121,7 +124,7 @@ This is also a reason why it's not usually dangerous to tell people about your i
 The truly good ideas don't sound like they're worth stealing.
 You want an idea about which you can say, "I know it sounds like a bad idea, but here's specifically why it's actually a great one."
 You want to sound crazy, but you want to actually be right.
-And you want an idea that not many other people are working on, and it's ok if it doesn't sound big at first.
+And you want an idea that not many other people are working on, and it's OK if it doesn't sound big at first.
 A common mistake among founders, especially first-time founders, is they think that the first version of their product, the first version of their idea, needs to sound really big.
 But it doesn't, it needs to take over a small specific market and expand from there.
 That's how most great companies started.
@@ -224,114 +227,104 @@ So these are the two jobs.
 Something that we say at YC a lot is that it's better to build something that a small number of users love, than a large number of users like.
 Of course it'd be best to build something that a [large] number of users love, but opportunities to do that for version 1 are rare and they're usually not available to startups.
 
+So in practice you end up choosing either the gray or the orange [see slides]. You make something that a lot of users like a little bit, or something that a small number of users love a lot.
 
-so in practice you end up choosing either the gray or the orange. you make something that a lot of users like a little bit, or something that a small number of users love a lot.
+And this is a very important piece of advice. Build something that a small number of users love. It's much easier to expand from something that a small number of people love to something that a lot of people love, than from something that a lot of people like to a lot of people love.
 
-and this is a very important piece of advice. build something that a small number of users love. it's much easier to expand from somethning that a small number of people love, to something that al ot of people love, than from something that a lot of people like to a lot of people love.
+If you get this right, you can get a lot of other things wrong.  If you don't get this right, you can get everything else right and you'll probably still fail.
 
-if you get this right, yo ucan get a lot of other things wrong.
-if you don't get this right, you can get everything else right and you'll probably still fail.
+So when you start on a startup, this is the only thing you need to care about until it's working.
 
-so when you start on a startup, this is the only thing you need to care about until it's working.
+[student asks Sam to explain again]
 
-student: "can you explain that again?"
+Sure, so you have a choice in a startup. The best thing of all worlds would be to build a product that a lot of people really love. In practice you can't usually do that, because if there's an opportunity like that, Google or Facebook will do it. So there's a limit to the area under the curve of what you can build. And you can either build something that a lot of users like a little bit, or you can build something that a small number of users love a lot.
+And the total amount of love is the same, it's just a question of how it's distributed. And there's like this law of conservation of how much happinesss you can put into the world with the first product of a startup. And so startups always struggle with which of those two they should go, and they seem equal right? Because the area under the curve is the same. But we've seen this time and again that they're not, and it's so much easier to expand. Once you've got something that some people love, you can expand that to something a lot of other people love. But if you only get ambivalence or sort of like weak enthusiasm, and then try to expand that, you'll never get up to a lot of people loving it.
 
-Sure, so you have a choice in a startup. The best thing of all worlds would be to build a product that a lot of opeople really love. In practice you can't usually do that, because if there's an opportutnity like that, google or facebook will do it. so there's like a limit to the area under the curve of what you can build. and you can either build something that a lot of users like a little bit, or you can build something that a small number of usuers love a lot.
-and the total amount of love is the same, it's just a quesation of how it's distributed. and there's like this law of conservation of how much happinesss you can put into the world with the first product of a startup. and so startups always struggle with which of those two they should go, and they seem equal right? because the area under the curve is the same. but we've seen this time and again that they're not, and it's so much easier to exand. once you've got something that some people love, you can expand that to something a lot of other people love. but if you only get ambivalence or sort of like weak enthusiasm, adnd then try to epxand that, you'll never get up to a lot of people loving it.
+So the advice is, find a small group of users and make them really love what you're doing. Does that make sense?
 
+One way that you know when this is working is that you'll get growth by word of mouth.
+If you make something that people love, people will tell their friends about it.
+This works for consumer products and enterprise products as well.
+When people really love something, they tell their friends about it and you'll see organic growth.
 
-so the advice is, find a small group of users and make them really love what you're doing. does that make sense?
+If you find yourself talking about how it's OK that you're not growing, because there's a big partnership that's going to come save you or something like that, it's almost always a sign of real trouble.
 
-one way that you know when this is working is that you'll get growth by word of mouth.
-if you make something that people love, people will tell their friends about it.
-this works for consumer products and enterprise products as well.
-when poeple relaly love something, they tell their friends about it, and you'll see organic growth.
+Sales and marketing are really important and we're going to have two classes on them later, but if you don't have some early organic growth then you're product probably isn't good enough yet.
 
-if you find yourself talking about how it's ok that you're not growing, because there's a big partnership that's going to come save you or something like that, it's almost always a sign of real trouble.
+A great product is the secret to longterm growth hacking. You should get that right before you worry about anything else. It doesn't get easier to put off making a great product.
 
-sales and marketing are really improtant and we're going to have two classes on them later, but if you don't have some early organic growth then you're product probably isn't good enough yet.
+If you try to build a growth machine before you have a product that some people really love, you're almost certainly going to waste your time.
 
-a great product is the secret to long term growth hacking. you should get that right before you worry about anything else. it doesn't get easier to put off making a great product.
+Break-out companies almost always have a product that's so good that it grows by word of mouth. Over the long run, great products win. Don't worry about your competitors raising a lot of money and what they may do in the future. They probably aren't very good anyway. Very few startups die from competition. Most die because they themselves fail to make something users love. They spend their time on other things. So worry about this above all else.
 
-if you try to build a growth machine before you have a product that some people really love, you're almost certianly going to waste your time.
+Another piece of advice to make something that users love: start with something simple. It's much, much easier to make a great product if you have something simple. Even if your eventual plans are super complex (and hopefully they are), you can almost always start with a smaller subset of the problem than whatever you think is the smallest. And it's hard to build a great product, so you want to start with as little surface area as possible.
 
-break out companies almost always have a product that's so good that it grows by word of mouth. over the long run, great products win. don't worry about your competitors raising a lot of money and what they may do in the future. they probably aren't very good anyway. very few startups die from competition, most die becaus ethey theymselves fail to make something users love. they spend their time on other things.
+Think about the really successful companies and what they started with. Think about products that you really love, they're generally incredibly simple to use and especially to get started using.
 
-so worry about this above all else. another piece of advice to make something that users love, start with something simple. it's much much easier to make a great product if you have something simple, even if you're eventual plans are super complex, and ohpefully they are, you can almost always start with a smaller subset of the problem than whatever you think is the smallest. and it's hard to build a great product so you want to start with as little surface area as possible.
+The first verison of Facebook was almost comically simple.
 
-think about the really successful companies and what they started with. think about products that you really love, they're generally incredibly simple to use and especially to get started using.
+The first version of Google was just an ugly webpage with a textbox and two buttons, but it returned the best results and that's why users loved it.
 
-the first verison of facebook was almost comically simple.
-the first version of google was just an ugly web page with a textbox and two buttons, but it returned the best results and that's why users sloved it.
+The iPhone is far simpler to use than any smartphone that ever came before it, and it was the first one that people really loved.
 
-the iphone is far simpler to use than any smartphone that ever came before it, and it was the first one that people really loved.
+Another reason that simple is good is because it forces you to do one thing extremely well, and you have to do that to make something that people love.
 
-another reason that simple is good is because it forces you to do one thing extremely well, and you have to do that to make something that people love.
+The word fanatical comes up again and again when you listen to successful founders talk about how they think about their product.
+Founders talk about being fanatical in the way they care about the quality of the small details.
+Fanatical in getting the copy that they used to explain their product just right.
+And fanatical in the way they think about customer support.
+In fact one thing that correlates with success among the YC companies is the founders that hook up [PagerDuty](http://www.pagerduty.com/) to their ticketing system so that even if the user emails in the middle of the night when the founders are asleep, [the user] still gets a response within an hour. Companies actually do this in the early days.
 
-the word fanatical comes up again and again when you listen to successful founders talk about how they think about their product.
-founders talk about being fanatical in the way they care about the quality of the small details.
-fanatical in getting the copy that htey used to explain their product just right.
-and fanataical in the way they think about customre support
-in fact one thing that correlates with success among hte YC companies is the founders that hook up pagerduty to their ticketing system so that even if the user email in the middle of hte night when the foundres are asleep, they still get a response iwthin an hour.
+These founders feel physical pain when the product sucks, and they want to wake up and fix it.
+They don't ship crap, and if they do they fix it very, very quickly.
+And it definitely takes some level of fanaticism to build a great product.
 
-companies acutally do this in the early days.
-these founders feel phsyical pain when the product sucks an dthey want to wake up and fix it.
-they don't ship crap, and if they do they fix it very very quickly.
-and it definitely takes some level of fanaticism to build a great product.
+You need some users to help with the feedback cycle, but the way to get those users is manually. You should go recruit them by hand.
+Don't do things like buy Google ads in the early days to get initial users.
+You don't need very many, you just need ones that will give you feedback everyday and eventually love your product.
+So instead of trying to get them on Google AdWords, just find a few people in the world that will be good users, recruit them by hand.
 
-you need some users to help with the feedback cycle, but the way to get those users is manually. you should go recruit them by hand.
-don't do things like buy google ads in the early days, to get initial users.
-you don't need very many, you just need ones that will give you feedback everyday and eventually love your product.
-so instead of trying to get them on google adwords, just find a few people in the world that will be good uesers, recruit them by hand.
+[Ben Silbermann](https://twitter.com/8en), when everyone thought Pinterest was a joke, recruited the initial Pinterest users by chatting up strangers in coffee shops.
+He really did. He just walked around Palo Alto and said, "Will you please use my product?"
+He also used to run around the Apple Store in Palo Alto and he would set all the browsers to the Pinterst homepage real quick before they caught him and kicked him out.
+So then when people walked in there, they were like "Oh what is this?"
+This is an important example of doing things that don't scale.
 
-ben silverman, when everyone thought pinterest was a joke, recruited the intiial pinterest users by chatting up strangers in coffee shops.
-he really did. he just walked around palo alto and said will you please use my product.
-he also used to run around the apple store in palo alto and he would set all the browsers to the pinterst homepage real quick before they caught him and kicked him out.
-so then when people walked in there, they wer like "oh what is this?"
-this is an important example of doing things that don't scale.
+If you haven't read [Paul Graham's essay on that topic](http://paulgraham.com/ds.html), you definitely should.
+So get users manually and remember that the goal is to get a small group of them to love you.
+Understand that group extremely well, get extremely close to them.
+Listen to them and you'll almost always find out that they're very willing to give you feedback.
+Even if you're building the product for yourself, listen to outside users and they'll tell you how to make a product they'll pay for.
+Do whatever you need to make them love you, make [unintelligable] you're doing, because they're also going to be the advocates that help you get your next users.
 
-if you haven't read paul graham's essay on that topic, you definitely should.
-so get users manually and remember that the goal is to get a small group of them to love you.
-undrestand that group extretmrely well, get extremely close to them.
-listen to them and you'll almost always find out that hey're very willing to giev you feedback.
-even if you're building hte product for yourself, listen to outside users and they'll tell you how to make a product they'l pay for.
-do whatever you need to make them love you, make ??? you're doing, because they're also going to be the adcvocates that help you get your next users.
+You want to build an engine in the company that transforms feedback from users into product decisions.
+Then get it back in front of the users and repeat.
+Ask them what they like and what they don't like and watch them use it.
+Ask them what they'd pay for.
+Ask them if they'd be really bummed if your company went away.
+Ask them what would make them recommend the product to their friend.
+And ask them if they've recommended it to any yet.
 
-you want to build an engine in the company that transforms feedback from users into product decisons.
-then get it back in front of hte users and repeat.
-ask them what they like and what they don't like and watch them use it.
-ask them what they'd pay for.
-ask them if they'd be really bummed if your company went away.
-ask them what would make them recommend the product ot their friensd.
-and ask them if they've recommended it to any yet.
+You should make this feedback loop as tight as possible.
+If your product gets 10% better every week, that compounds really, really quickly.
 
-you should make this feedback loop as tight as possible.
-if your product gets 10% better every week, that compounds really really quickly.
+One of the great advantages of software startups is just how short you can make the feedback loop.
+It can be measured in hours, and the best companies usually have the tightest feedback loops.
+You should try to keep this going for all of your company's life, but it's really important in the early days.
 
-one of the great ddvtanges of software startups is just how short you can make the feedback loop.
-it can be measured in hours, and the best companies usually have the tightest feedback loops.
-you should try to keep this going for all of your company's life, but it's really important in the early days.
+The good news is that all of this is doable. It's hard, it takes a lot of effort, but theres's no magic.
+The plan is at least straightforward and you will eventually get to a great product.
 
-the good news is that all of this is doable. it's hard, it takes a lot of effort, but theres's no magic.
-the plan is at least straghtforwarda nd you will eventually get to a great product.
-
-great founders don't put anyone betwen themselves and their users.
-the founders of these companies do things like sales and customer support thesmelves in the early days.
-it's critical to get this loop embedded in the culture.
-in fact a specific product that we always see with Stanford Startups for some reason is that the students try and hire sales and customer supoprt people right away.
-
-and you gotta do this yourself. it's the only way.
+Great founders don't put anyone between themselves and their users.
+The founders of these companies do things like sales and customer support themselves in the early days.
+It's critical to get this loop embedded in the culture.
+In fact a specific problem that we always see with Stanford startups for some reason is that the students try and hire sales and customer support people right away. You gotta do this yourself. It's the only way.
 
 
-you really ened to use metics to keep yourself honest on this.
-it really is true that the company will build whatever the CEO decides to measure.
-if you're building an internet service, ignore things like total registnations. don't talk about them, don't let anyone in the company talk about them, and look at growth in active users, activity levels, cohort retention, revenue, net promoter scores, these things that matter. and then be brutally honest if they aren't going in the right direction. startups live on growth. it's the indicator of a great product.
+You really need to use metrics to keep yourself honest on this.
+It really is true that the company will build whatever the CEO decides to measure.
+If you're building an Internet service, ignore things like total registrations. Don't talk about them, don't let anyone in the company talk about them, and look at growth in active users, activity levels, cohort retention, revenue, net promoter scores, these things that matter. And then be brutally honest if they aren't going in the right direction. Startups live on growth. It's the indicator of a great product.
 
-so this about wraps up the overview on building a great product.
-I want to emphasize again, that if you don't get this right, nothing else we talk about in the class will matter.
-you can basically ignore everything else taht we talk about until this is working well.
+So this about wraps up the overview on building a great product. I want to emphasize again, that if you don't get this right, nothing else we talk about in the class will matter. You can basically ignore everything else that we talk about until this is working well.
 
-on the positive side, this is one of the most fun parts of building a startup.
-so i'm going to pause here, i'll pick back up with the rest of this on thursday.
-and now we're going to have Dustin talk about why you should start a startup.
-thank you for coming Dustin.
+On the positive side, this is one of the most fun parts of building a startup. So I'm going to pause here, I'll pick back up with the rest of this on Thursday. And now we're going to have Dustin [Moskovitz] talk about why you should start a startup. Thank you for coming Dustin.
