@@ -35,93 +35,83 @@ So for the second half of today's lecture, Dustin Moskovitz, the co-founder of F
 
 We were so surprised by the amount of attention that this class got that we want to make sure we spend a lot of time on the why.
 
+
+### A great idea
+
 OK, so the first of the four areas: a great idea.
 
-It's become popular in recent years to say that the idea doesn't matter. in fact it's almost uncool to spend a lot of time thinking about the idea for a startup.
-you're just supposed to start, throw stuff at the wall, see what sticks and not even spend any time thinking about if it will be valuable if it works
-and pivots are supposed to be great, the more pivots the better.
+It's become popular in recent years to say that the idea doesn't matter. In fact it's almost uncool to spend a lot of time thinking about the idea for a startup. You're just supposed to start, throw stuff at the wall, see what sticks and not even spend any time thinking about if it will be valuable if it works. And pivots are supposed to be great, the more pivots the better.
 
-so this isn't totally wrong, things do evolve in ways that are difficult to predict.
-and there's a limit to how much you can figure out withoutactually getting a product in the hands of users
-and great execution is at least 10 times more important and 100 tiems harder than a good idea
-but the pendulum has swung way out of wack here
-a bad idea is still bad, and the pivot happy world that we're in today feels really sub optimal.
-great execution toward a terrible idea will get you nowhere.
-there are exceptions of course but most great companies start with a great idea.
-not a pivot.
-if you look at successful pivots, they almost always are a pivot into something the founders themselves wanted, not a random madeup idea.
-airbnb happened because brian chesky couldn't pay his rent, but he did have some exra space.
+So this isn't totally wrong, things do evolve in ways that are difficult to predict, and there's a limit to how much you can figure out without actually getting a product in the hands of users. And great execution is at least 10 times more important and 100 times harder than a good idea, but the pendulum has swung way out of wack here. A bad idea is still bad, and the pivot-happy world that we're in today feels really sub-optimal. Great execution toward a terrible idea will get you nowhere. There are exceptions of course but most great companies start with a great idea, not a pivot. If you look at successful pivots, they almost always are a pivot into something the founders themselves wanted, not a random made-up idea. Airbnb happened because Brian Chesky couldn't pay his rent, but he did have some extra space.
 
-in general though if you look at the track record of pivots, they don't become big companies.
-i m yself used to believe ideas didn't matter that much, but i am very sure that's wrong now.
-the definition of the idea as we talk about it is very borad.
+In general though if you look at the track record of pivots, they don't become big companies. I myself used to believe ideas didn't matter that much, but I am very sure that's wrong now.
 
-it includes the size and the growth of the market, the growth strategy of the company, the defensibility strategy and so on.
+The definition of the idea as we talk about it is very broad. It includes the size and the growth of the market, the growth strategy of the company, the defensibility strategy and so on.
 
-when you're evaluating an idea you need to think through all of these things, not just the product.
+When you're evaluating an idea you need to think through all of these things, not just the product.
 
-if it works out, you're going to be working on this for 10 years so it's worth some real upfront time to think through the longterm value and the definisibility of the buisiness
+If it works out, you're going to be working on this for 10 years so it's worth some real upfront time to think through the longterm value and the defensibility of the business.
 
-even though plans themselves are worthless, the exercise of planning is really valuable and totally missing in most startups today.
+Even though plans themselves are worthless, the exercise of planning is really valuable and totally missing in most startups today.
 
-longterm thinking is sowhere anywhere but especially in startups, that it's a huge advantage if you do it.
+Longterm thinking is [unintelligible] anywhere but especially in startups, that it's a huge advantage if you do it.
 
-remember that he idea will expand and become more ambitious as you go
+Remember that the idea will expand and become more ambitious as you go.
 
-you certainly don't need to have everything figured out and a path from here to world domination but you really want a nice kernel to start with.
-you want something that can develop in interesting ways.
-as you're thinking through ideas, another thing that we see young founders get wrong all the time is that someday you need to build a business that's difficult to replicate.
-this is an importnat part of a good idea
+You certainly don't need to have everything figured out and a path from here to world domination but you really want a nice kernel to start with.
+You want something that can develop in interesting ways.
+As you're thinking through ideas, another thing that we see young founders get wrong all the time is that someday you need to build a business that's difficult to replicate.
+This is an important part of a good idea.
 
-i want to make this point again because it's so important.
-the idea should come first, and the startup should come second.
-wait to start a startup until you come up with an idea you feel compelled to explore.
-this is also the way to choose between multiple ideas.
-if you have several ideas that all seem pretty good, work on the one that you think about most often when you're not trying to think about work.
-but we hear again and again from founders that they wished they had waited to start a startup until they came up with an idea they really loved.
-another way of looking at this is that the best companies are almost always mission oriented.
-it's dificult to get large groups of people to the extreme levels of focus and productivity that you need for a startup to be successful, unless the company feels like an important mission.
-and it's usually really hard to get that without a great founding idea.
+I want to make this point again because it's so important.
+The idea should come first, and the startup should come second.
+Wait to start a startup until you come up with an idea you feel compelled to explore.
+This is also the way to choose between multiple ideas.
+If you have several ideas that all seem pretty good, work on the one that you think about most often when you're not trying to think about work.
+But we hear again and again from founders that they wished they had waited to start a startup until they came up with an idea they really loved.
+Another way of looking at this is that the best companies are almost always mission oriented.
+It's difficult to get large groups of people to the extreme levels of focus and productivity that you need for a startup to be successful, unless the company feels like an important mission.
+And it's usually really hard to get that without a great founding idea.
 
-a related advantage of mission oriented ideas is that you yourself will be dedicated to them.
-it takes years and years usually a decade to create a great startup.
-if you don't love and believe in what you're building, you're likely to give up at some point along the way
-there's no way i know of to get through thep ain of a startup without belief that the mission really matters
+A related advantage of mission oriented ideas is that you yourself will be dedicated to them.
+It takes years and years, usually a decade, to create a great startup.
+If you don't love and believe in what you're building, you're likely to give up at some point along the way.
+There's no way I know of to get through the pain of a startup without belief that the mission really matters.
 
-a lot of founders especially students believe that their startup's only going to take 2 or 3 years and then after that they'll work on what they're realyl passionate about.
+A lot of founders especially students believe that their startup's only going to take 2 or 3 years and then after that they'll work on what they're really passionate about.
+That almost never works.
+Good startups usually take ten years.
 
-that almost never works.
-good startups usually take ten years.
+A third advantage of mission oriented companies is that people outside the company are more willing to help you.
+You'll get more support on a hard important project than a derivative one.
 
-a third advantage of mission oriented companies is that people outside the company are moer ewilling to help you.
-you';ll get more support on a hard important project than a derivitive one.
+When it comes to starting startups, in many ways it's easier to start a hard startup than an easy startup.
+This is one of those counter-intuitive things, it takes people a long time to understand.
+It's difficut to overstate how important being mission driven is, so I want to emphasize it one last time.
 
-when it comes tos tarting startups, in many ways it's easier to start a hard startup than an easy startup
-this is one of those counter intruititive things, it takes people a long time to understand
-it's difficut to over state how important being mission driven is, so i want to emphasize it one last time.
+Derivitive companies, companies that copy an existing idea with very few new insights, don't excite people and they don't compell the teams to work hard enough to be successful.
 
-derivitive companies, companies that copy an existing idea with very few new insights, don't excite people and they don't compell the teams to work hard enough to be successful.
+Paul Graham is going to talk about how to get startup ideas next week.
+It's something that a lot of founders struggle with but it's something I believe you can get better at with practice, and it's definitely worth trying to get better at.
 
-paul graham is going to talk about how to get startup ideas next week.
-it's something that a lot of ofunders struggle with but it's something i believe you can get better at with practice.
-and it's definitely worth trying to get better at.
+The hardest part about coming up with great ideas is that the best ideas often look terrible at the beginning.
 
-the hardest part about coming up with great ideas is that the best ideas often look terrible at the beginning.
-the thirteenth search engine and without all the features of a web portal.
-most people thought that was pointless.
- search was done and anyway it didn't matter that much.
- portals were where the value was at.
- the 10th social network and limited only to college students with no money, also terrible.
- myspace had won and who wants colleg students as customers?
- or a way to stay on strangers' couches, that just sounds terrible all around.
+The 13th search engine and without all the features of a web portal.
+Most people thought that was pointless.
+Search was done and anyway it didn't matter that much.
+Portals were where the value was at.
+The 10th social network and limited only to college students with no money, also terrible.
+MySpace had won and who wants college students as customers?
+Or a way to stay on strangers' couches, that just sounds terrible all around.
 
-these all sounded really bad but they turned out to be good.
-if they had sounded really good, there would have been too many people working on them
-as peter thiel's going to discuss in the 5th class, you want an idea that turns into a monopoly
-but you can't get a monopoly in a big market right away, too much competition for tha
-you have to find a small amrket in which you can get a monopoly and then quickly expand
-this is why some great startup ideas look really bad ta the beginning
-it's good if you can say something like "Today only this small subset of users are going to use my product, but i'm going to get all of them and in the future almost everyone will use my product"
+These all sounded really bad but they turned out to be good.
+If they had sounded really good, there would have been too many people working on them.
+As Peter Thiel's going to discuss in the 5th class, you want an idea that turns into a monopoly, but you can't get a monopoly in a big market right away, [there's] too much competition for that.
+You have to find a small market in which you can get a monopoly and then quickly expand.
+This is why some great startup ideas look really bad at the beginning.
+It's good if you can say something like, "Today only this small subset of users are going to use my product, but I'm going to get all of them and in the future almost everyone will use my product."
+
+
 
 here's hte theme that's going to come up a lot. you need conviction in your own beliefs, and a willingness to ignore others' naysaying.
 the hard part is that this is a very fine line.
@@ -146,10 +136,10 @@ you also really want to take the time to think about how the market's going to e
 you need a market that's going to be big in ten years.
 most investors are obsessed with the market size today.
 and they don't think at all about how the market's going to evolkve.
-in fact i think this is one of the bigggest systemic mistakes taht investors make.
+in fact I think this is one of the bigggest systemic mistakes taht investors make.
 they think about the growth of the startup itself, they don't think about the growth of the market.
 
-i care much more about the growth rate of the market than it's current size, and I also care if there's any reason that it's going to top out.
+I care much more about the growth rate of the market than it's current size, and I also care if there's any reason that it's going to top out.
 you hsould think about this.
 i'd prefer to invest in a company that's going after a small but radpily growing market, than a big but slow growing one.
 
@@ -192,14 +182,14 @@ like google being a search enginge that worked just really well, and none of the
 any company that's a clone of something else that already exists, with some small or made up differentiator, like we're going to be X beautiful design, or we're going to be Y for people that like red wine instead.
 that usually fails.
 
-so as i mentioned, one of the great things about being a student is that you have a very good perspective on new technology.
+so as I mentioned, one of the great things about being a student is that you have a very good perspective on new technology.
 and learning to get good at having new ideas takes a while. so start working on that right now.
 that's one thing we hear from people all the time, that they wish they had done more when they were a student.
 the other is meeting potential cofounders.
 
 you have no idea how good of an environemtn you're in right now for meeting people that you can start a company with down the road.
 and the one thing that we always tell college students is more importnat than starting any particular startup, is getting to know a lot of potential cofounders.
-so i want to finish this section of my talk with a quote from fifty center. this is from when he was asked about vitamin water. i won't read it, it's up there, but it's about the importance of thinking about what customers want, and thinking about the demands of the market.
+so I want to finish this section of my talk with a quote from fifty center. this is from when he was asked about vitamin water. I won't read it, it's up there, but it's about the importance of thinking about what customers want, and thinking about the demands of the market.
 
 "Most people think first of what they want to express or make, then find the audience for their idea. You must work the opposite angle, thinking first of the public. You need to keep your focus on their changing needs, the trends that are washing through them. Beginning with their demand, you create the appropriate supply." - 50 Cent
 
@@ -207,7 +197,8 @@ Most people don't do this. Most students especially don't do this.
 If you can just do this one thing, if you can just learn to think about the market first, you will have a big leg up on most people starting startups.
 And this is probably the thing that we see wrong with ycombinator apps most frequently, is that people have not thought about the market first, and what people want first.
 
-2. Product
+
+### A great product
 
 so for the next section I'm going to talk about building a great product.
 and here again, I'm going to use a very broad definiton of product.
@@ -228,7 +219,7 @@ it's really improtant to take care of that first.
 step 1 is to build something that users love.
 
 at YC we tell foundres to work on their product, talk to users, exercisee, eat and sleep. and very little else.
-all the other stuff i just mentioned, PR, conferences, recruiting, advisors, doing partnerships, you should ignore all of that and just build the product and then get it as good as possible by talking to your users.
+all the other stuff I just mentioned, PR, conferences, recruiting, advisors, doing partnerships, you should ignore all of that and just build the product and then get it as good as possible by talking to your users.
 
 your job is to build something that users love. very few companies that go on to be super succesfsul get there without first doing this.
 a lot of good on paper startups fail because they merely make something that people like. making something that people want, but only am edium amount, is a great way to fail and not understand why you're failing.
@@ -340,7 +331,7 @@ it really is true that the company will build whatever the CEO decides to measur
 if you're building an internet service, ignore things like total registnations. don't talk about them, don't let anyone in the company talk about them, and look at growth in active users, activity levels, cohort retention, revenue, net promoter scores, these things that matter. and then be brutally honest if they aren't going in the right direction. startups live on growth. it's the indicator of a great product.
 
 so this about wraps up the overview on building a great product.
-i want to emphasize again, that if you don't get this right, nothing else we talk about in the class will matter.
+I want to emphasize again, that if you don't get this right, nothing else we talk about in the class will matter.
 you can basically ignore everything else taht we talk about until this is working well.
 
 on the positive side, this is one of the most fun parts of building a startup.
