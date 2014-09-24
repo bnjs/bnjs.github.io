@@ -179,17 +179,19 @@ Any company that's a clone of something else that already exists, with some smal
 So as I mentioned, one of the great things about being a student is that you have a very good perspective on new technology.
 And learning to get good at having new ideas takes a while. So start working on that right now.
 That's one thing we hear from people all the time, that they wish they had done more when they were a student.
-The other is meeting potential cofounders.
+The other is meeting potential co-founders.
 
-you have no idea how good of an environemtn you're in right now for meeting people that you can start a company with down the road.
-and the one thing that we always tell college students is more importnat than starting any particular startup, is getting to know a lot of potential cofounders.
-so I want to finish this section of my talk with a quote from fifty center. this is from when he was asked about vitamin water. I won't read it, it's up there, but it's about the importance of thinking about what customers want, and thinking about the demands of the market.
+You have no idea how good of an environment you're in right now for meeting people that you can start a company with down the road.
+And the one thing that we always tell college students is more important than starting any particular startup, is getting to know a lot of potential co-founders.
+So I want to finish this section of my talk with a quote from 50 Cent. This is from when he was asked about Vitamin Water.
 
-"Most people think first of what they want to express or make, then find the audience for their idea. You must work the opposite angle, thinking first of the public. You need to keep your focus on their changing needs, the trends that are washing through them. Beginning with their demand, you create the appropriate supply." - 50 Cent
+> "Most people think first of what they want to express or make, then find the audience for their idea. You must work the opposite angle, thinking first of the public. You need to keep your focus on their changing needs, the trends that are washing through them. Beginning with their demand, you create the appropriate supply." - 50 Cent
+
+I won't read it, it's up [on the screen], but it's about the importance of thinking about what customers want, and thinking about the demands of the market.
 
 Most people don't do this. Most students especially don't do this.
 If you can just do this one thing, if you can just learn to think about the market first, you will have a big leg up on most people starting startups.
-And this is probably the thing that we see wrong with ycombinator apps most frequently, is that people have not thought about the market first, and what people want first.
+And this is probably the thing that we see wrong with Y Combinator apps most frequently, is that people have not thought about the market first, and what people want first.
 
 
 ### A great product
