@@ -111,81 +111,75 @@ You have to find a small market in which you can get a monopoly and then quickly
 This is why some great startup ideas look really bad at the beginning.
 It's good if you can say something like, "Today only this small subset of users are going to use my product, but I'm going to get all of them and in the future almost everyone will use my product."
 
+Here's the theme that's going to come up a lot: you need conviction in your own beliefs, and a willingness to ignore others' naysaying.
+The hard part is that this is a very fine line.
+There's "right" on one side of it, and "crazy" on the other.
+But keep in mind that if you do come up with a great idea, most people are going to think it's bad.
+You should be happy about that.
+It means they won't compete with you.
+This is also a reason why it's not usually dangerous to tell people about your idea.
+The truly good ideas don't sound like they're worth stealing.
+You want an idea about which you can say, "I know it sounds like a bad idea, but here's specifically why it's actually a great one."
+You want to sound crazy, but you want to actually be right.
+And you want an idea that not many other people are working on, and it's ok if it doesn't sound big at first.
+A common mistake among founders, especially first-time founders, is they think that the first version of their product, the first version of their idea, needs to sound really big.
+But it doesn't, it needs to take over a small specific market and expand from there.
+That's how most great companies started.
 
+Unpopular but right, is what you're going for.
+You want something that sounds like a bad idea but is a good idea.
+You also really want to take the time to think about how the market's going to evolve.
 
-here's hte theme that's going to come up a lot. you need conviction in your own beliefs, and a willingness to ignore others' naysaying.
-the hard part is that this is a very fine line.
- there's right on one side of it, and crazy on the other.
-but keep in mind that if you do come up with a great idea, most people are going to thinkg it's bad.
-you should be happy about that.
-means they won't compete with you
-this is also a reasopn why it's not usually dangerous to tell people about your idea
-the truly good ideas don't sound like they're worht stealing
-you want an idea about which you can say "I know it sounds like a bad idea, but here's specifically why it's actually a great one"
-you want to sound crazy, but you want to actually be right.
-and you want an idea that not many other people are working on.
-and it's ok if it doesn't sound big at first.
-common mistake among founders especially first time founders is they think that the first viersion of their prdocut, the first version of their idea, needs to sound really big.
-but it doesn't, it needs to take over a small specific market and expand from there.
-that's how most great companies started.
-
-unpopular but right, is what you're going for.
-you want something that sounds like a bad idea but is a good idea.
-you also really want to take the time to think about how the market's going to evolve.
-
-you need a market that's going to be big in ten years.
-most investors are obsessed with the market size today.
-and they don't think at all about how the market's going to evolkve.
-in fact I think this is one of the bigggest systemic mistakes taht investors make.
-they think about the growth of the startup itself, they don't think about the growth of the market.
+You need a market that's going to be big in ten years.
+Most investors are obsessed with the market size today, and they don't think at all about how the market's going to evolve.
+In fact I think this is one of the biggest systemic mistakes that investors make.
+They think about the growth of the startup itself, they don't think about the growth of the market.
 
 I care much more about the growth rate of the market than it's current size, and I also care if there's any reason that it's going to top out.
-you hsould think about this.
-i'd prefer to invest in a company that's going after a small but radpily growing market, than a big but slow growing one.
+You should think about this.
+I'd prefer to invest in a company that's going after a small but rapidly growing market, than a big but slow growing one.
 
-one of the big advantages of these sorts of markets, these small but rapdily gorwoing markets, is that customers are usually prtetty desparate for a solution, and they'll put up with an imperfect but radpipdly imjproving product.
+One of the big advantages of these sorts of markets, these small but rapidly growing markets, is that customers are usually pretty desperate for a solution, and they'll put up with an imperfect but rapidly improving product.
 
-and a big advantage of being a student, one of the two biggest advatnages, is that you probably have better intutition about which markets are liekly to start growing rapidly than older people do.
+And a big advantage of being a student, one of the two biggest advantages, is that you probably have better intuition about which markets are likely to start growing rapidly than older people do.
 
-another thing that students usually don't understand or at least it takes a while, you cannot create a market that doesn't want to exist.
+Another thing that students usually don't understand or at least it takes a while, you cannot create a market that doesn't want to exist.
 
-you can basically change everything in a startup but the market.
-so you should actually do some thinking, to be sure or at least as sure as you can be, that the market you're going after is going to grow and be there.
+You can basically change everything in a startup but the market.
+So you should actually do some thinking, to be sure or at least as sure as you can be, that the market you're going after is going to grow and be there.
 
-there are a lot of different ways to talk about the right kind of market.
-for example surfing someone else's wave, or stepping into an up elevator or being part of a movement.
-but all of this is just a way of saying, you want a market that's going to grow relaly quickly.
-it may seem small today, it may be small today, but you know and other people don't, that it's going to grow really fast.
+There are a lot of different ways to talk about the right kind of market.
+For example surfing someone else's wave, or stepping into an up elevator, or being part of a movement.
+But all of this is just a way of saying, you want a market that's going to grow really quickly.
+It may seem small today, it may be small today, but you know and other people don't, that it's going to grow really fast.
 
-so think about where this is happening in the world.
-you need this sort of a tailwind to make a startup successful.
-the exciting thing is there are probably more of these tailwinds now than ever before.
-as markc andreessen says, software's eating the world. it's just everywhere.
-there are so many great ideas out there.
-and you have to pick one and find one that you really care about.
+So think about where this is happening in the world.
+You need this sort of a tailwind to make a startup successful.
+The exciting thing is there are probably more of these tailwinds now than ever before.
+As Marc Andreessen says, "software's eating the world." It's just everywhere.
+There are so many great ideas out there, and you have to pick one and find one that you really care about.
 
-another version of this that gets down to the same idea is sequoia's famous question, why now.
-why is this the perfect time for this particular idea and to start this particular company.
-why couldn't it haave been done 2 years ago, and why will 2 years in the future be too late.
-for the most successful startups we've been involved with, they all had a great idea, great answer to this question, and if you don't you should be at least somewhat suspicious about it.
+Another version of this that gets down to the same idea is [Sequoia](https://www.sequoiacap.com/)'s famous question, "Why now?"
+Why is this the perfect time for this particular idea and to start this particular company?
+Why couldn't it have been done 2 years ago, and why will 2 years in the future be too late?
+For the most successful startups we've been involved with, they all had a great idea, a great answer to this question, and if you don't you should be at least somewhat suspicious about it.
 
-in general, it's best if you're building something that you yourself need.
-you'll understand  it much better than ify ou have to understand it by talking to a customer to build the very first version.
+In general, it's best if you're building something that you yourself need.
+You'll understand it much better than if you have to understand it by talking to a customer to build the very first version.
 
-if you don't need it yourself and you're building something that someone else needs, realize that you're at a big disadvantage and get very very close to your customers.
-try to work in their office if you can and if not, dtalk to them multiple times a day.
+If you don't need it yourself and you're building something that someone else needs, realize that you're at a big disadvantage and get very, very close to your customers.
+Try to work in their office if you can and if not, talk to them multiple times a day.
 
-another somewhat counterintuititeve thing about googd sdtartup ideas is that they're almost always very easy to explain and very easy to understand.
-if it takes more than a sentence to explain what you're doing, it's almost always a sign that it's too complicated. it should be a clearly articulated vision with a small number of words.
-and the best ideas are usually either very different from existing companies in one important way.
-like google being a search enginge that worked just really well, and none of the other stuff of the portals, or totally new like spacex.
-any company that's a clone of something else that already exists, with some small or made up differentiator, like we're going to be X beautiful design, or we're going to be Y for people that like red wine instead.
-that usually fails.
+Another somewhat counter-intuitive thing about good startup ideas is that they're almost always very easy to explain and very easy to understand.
+If it takes more than a sentence to explain what you're doing, it's almost always a sign that it's too complicated. It should be a clearly articulated vision with a small number of words.
+And the best ideas are usually either very different from existing companies in one important way.
+Like Google being a search engine that worked just really well and none of the other stuff of the portals, or [something] totally new like SpaceX.
+Any company that's a clone of something else that already exists, with some small or made up differentiator, like we're going to be X beautiful design, or we're going to be Y for people that like red wine instead; that usually fails.
 
-so as I mentioned, one of the great things about being a student is that you have a very good perspective on new technology.
-and learning to get good at having new ideas takes a while. so start working on that right now.
-that's one thing we hear from people all the time, that they wish they had done more when they were a student.
-the other is meeting potential cofounders.
+So as I mentioned, one of the great things about being a student is that you have a very good perspective on new technology.
+And learning to get good at having new ideas takes a while. So start working on that right now.
+That's one thing we hear from people all the time, that they wish they had done more when they were a student.
+The other is meeting potential cofounders.
 
 you have no idea how good of an environemtn you're in right now for meeting people that you can start a company with down the road.
 and the one thing that we always tell college students is more importnat than starting any particular startup, is getting to know a lot of potential cofounders.
