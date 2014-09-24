@@ -15,50 +15,29 @@ So at YC we've been teaching people how to start startups for 9 years. Most of i
 
 We've taught a lot of this at YC already but it's all been off the record, and this is the first time that a lot of what we teach at YC is going to be on the record. So we've invited some of our best speakers to come and give the same talks they give at YC.
 
-We've now funded 720 companies, and so we're pretty sure that a lot of this advice is pretty good.
-
-We can't fund every startup yet, but we can hopefully make this advice very generally available. Guest speakers are going to teach 17 of the 20 classes, I'm only teaching 3.
+We've now funded 720 companies, and so we're pretty sure that a lot of this advice is pretty good. We can't fund every startup yet, but we can hopefully make this advice very generally available. Guest speakers are going to teach 17 of the 20 classes, I'm only teaching 3.
 
 Counting YC itself, every guest speaker has been involved in the creation of a one billion plus dollar company, so the advice shouldn't be that theoretical. It's all from people who have done it.
 
-All of the advice in this class is geared towards people starting a business where the goal is hyper-growth and eventually building a very large company. Much of it doesn't apply in other cases and I want to warn people up front that if you try and do these things in a lot of big companies or non-startups, it won't work
-it should still be interesting, I really do think that startups are the way of the future and it's worth trying to understand them, but startups are very different than normal companies
+All of the advice in this class is geared towards people starting a business where the goal is hyper-growth and eventually building a very large company. Much of it doesn't apply in other cases and I want to warn people up front that if you try and do these things in a lot of big companies or non-startups, it won't work. It should still be interesting, I really do think that startups are the way of the future and it's worth trying to understand them, but startups are very different than normal companies.
 
-so over the course of today and thursday I'm going to try and give an overview of the four areas that you need to excel at in order to maximize your chances of success at a startup
+So over the course of today and Thursday I'm going to try and give an overview of the four areas that you need to excel at in order to maximize your chances of success at a startup. And then throughout the course the guest speakers are going to drill in to all of these in more detail.
 
-and then throughout the course the guest speakers are going to drill in to all of these in more detail
+So the four areas. You need a great idea, a great product, a great team, and great execution. These overlap somewhat but I'm going to have to talk about them somewhat individually to make it make sense. You may still fail. The outcome is something like idea &times; product &times; execution &times; team &times; luck, where luck is a random number between 0 and 10,000. Literally that much.
 
-so the four areas. you need a great idea, a great product, a great team, and great execution.
+But if you do really well in the four areas, you can control. You have a good chance of at least some amount of success.
 
-these overlap somewhat but I'm going to have to talk about them somewhat individually to make it make sense
-you may still fail.
-the outcome is something like idea x product x execution x team x luck, where luck is a random number between 0 and 10,000. literally that much
+One of the exciting things about startups is that there's a surprisingly even playing field. Young and inexperienced? You can do this. Old and very experienced? You can do this too. And one of the things that I particularly like about startups is that some of the things that are bad in other work situations, like being poor and uknonwn, are actually huge assets when it comes to starting a startup.
 
-but if you do treally well in the four areas you can control.
-you have a good chance of at least some amount of success
+Before we jump in on the how, I want to talk about why you should start a startup. I'm somewhat hesitant to be doing this class at all, because you should never start a startup just for the sake of doing so. There are much easier ways to get rich, and everyone who starts a startup always says, always, that they couldn't have imagined how hard and painful it was going to be. You should only start a startup if you can feel compelled by a particular problem, and that you think that starting a company is the best way to solve it. The specific passion should come first and the startup second. In fact all of the big successes we have at YC followed this.
 
-one of the exciting things about startups is that they're surprisingly even playing field
-Young and inexperienced? You can do this
-Old and very experienced? You can do this too.
-And one of the things that I particularly like about startups is that some of the things that are bad in other work situations, like being poor and uknonwn. are actually huge assets when it comes to starting a startup.
+So for the second half of today's lecture, Dustin Moskovitz, the co-founder of Facebook and Asana, is going to take over and talk about why to start a startup.
 
-before we jump in on the how, I want to talk about why you should start a startup.
-I'm somewhat hesitant to be doing this class at all, because you should never start a startup just for the sake of doing so.
-there are much easier ways to get rich, and everyone who starts a startup always says, always, that they couldn't have imagined how hard and painful it was going to be.
+We were so surprised by the amount of attention that this class got that we want to make sure we spend a lot of time on the why.
 
-you should only start a startup if you can feel compelled by a particular problem, and that you think that starting a company is the best way to solve it.
+OK, so the first of the four areas: a great idea.
 
-the specific passion should come first and the startup second.
-
-in fact all of the big successes we have at YC followed this
-
-so for the second half of today's lecture, Dustin Moskovitz, the cofounder of facebook and asana, is going to take over and talk about why to start a startup.
-
-We were so surprised by the amount of attention that this class got that we want to make sure we spend a lot of time on the why
-
-ok, so the first of the four areas, a great idea.
-
-it's become popular in recent years to say that the idea doesn't matter. in fact it's almost uncool to spend a lot of time thinking about the idea for a startup.
+It's become popular in recent years to say that the idea doesn't matter. in fact it's almost uncool to spend a lot of time thinking about the idea for a startup.
 you're just supposed to start, throw stuff at the wall, see what sticks and not even spend any time thinking about if it will be valuable if it works
 and pivots are supposed to be great, the more pivots the better.
 
