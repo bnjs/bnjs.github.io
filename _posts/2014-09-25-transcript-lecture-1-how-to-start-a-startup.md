@@ -3,6 +3,14 @@ layout: post
 title: "Transcript: Lecture 1 - How to Start a Startup"
 ---
 
+
+<div class="fb-like" data-href="http://www.bnjs.co/2014/09/25/transcript-lecture-1-how-to-start-a-startup/" data-width="200" data-layout="button" data-action="like" data-show-faces="false" data-share="true" style="float:left;margin-right:4px;position:relative;top:-1px"></div>
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="bnjs" data-count="none" data-dnt="true">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<div style="clear:both"></div>
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/CBYhVcO4WgI" frameborder="0" allowfullscreen></iframe>
 
 ---
