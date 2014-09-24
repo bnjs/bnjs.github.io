@@ -13,20 +13,15 @@ Welcome to CS183B. I'm Sam Altman, President of Y Combinator. Nine years ago I w
 
 So at YC we've been teaching people how to start startups for 9 years. Most of it's very hands on and specific to the startups, but 30% of it is pretty generally applicable, and so we think that we can teach that 30% in this class and even though that's only 30% of the way there, hopefully it'll still be really helpful.
 
-We've taught a lot of this at YC already but it's all been off the record, and this is the first time that a lot of what we teach at YC is going to be on the record
-so we've invited some of our best speakers to come and give the same talks they give at YC
+We've taught a lot of this at YC already but it's all been off the record, and this is the first time that a lot of what we teach at YC is going to be on the record. So we've invited some of our best speakers to come and give the same talks they give at YC.
 
-we've now funded 720 companies. And so we're pretty sure that a lot of this advice is pretty good
+We've now funded 720 companies, and so we're pretty sure that a lot of this advice is pretty good.
 
-we can't fund every startup yet, but we can hopefully make this advice very generally available
-guest speakers are going to teach 17 of the 20 classes, I'm only teaching 3.
-Counting YC itself, every guest speaker has been involved in the creation of a one-billion plus dollar company.
+We can't fund every startup yet, but we can hopefully make this advice very generally available. Guest speakers are going to teach 17 of the 20 classes, I'm only teaching 3.
 
-so the advice shouldn't be that theoretical.
-it's all from people who have done it.
+Counting YC itself, every guest speaker has been involved in the creation of a one billion plus dollar company, so the advice shouldn't be that theoretical. It's all from people who have done it.
 
-all of the advice in this class is geared towards people starting a business where the goal is hypergrowth and eventually building a very large company
-much of it doesn't apply in other cases and I wanna warn people up front that if you try and do these things in a lot of big companies or non-startups, it won't work
+All of the advice in this class is geared towards people starting a business where the goal is hyper-growth and eventually building a very large company. Much of it doesn't apply in other cases and I want to warn people up front that if you try and do these things in a lot of big companies or non-startups, it won't work
 it should still be interesting, I really do think that startups are the way of the future and it's worth trying to understand them, but startups are very different than normal companies
 
 so over the course of today and thursday I'm going to try and give an overview of the four areas that you need to excel at in order to maximize your chances of success at a startup
@@ -47,7 +42,7 @@ Young and inexperienced? You can do this
 Old and very experienced? You can do this too.
 And one of the things that I particularly like about startups is that some of the things that are bad in other work situations, like being poor and uknonwn. are actually huge assets when it comes to starting a startup.
 
-before we jump in on the how, I wanna talk about why you should start a startup.
+before we jump in on the how, I want to talk about why you should start a startup.
 I'm somewhat hesitant to be doing this class at all, because you should never start a startup just for the sake of doing so.
 there are much easier ways to get rich, and everyone who starts a startup always says, always, that they couldn't have imagined how hard and painful it was going to be.
 
@@ -59,7 +54,7 @@ in fact all of the big successes we have at YC followed this
 
 so for the second half of today's lecture, Dustin Moskovitz, the cofounder of facebook and asana, is going to take over and talk about why to start a startup.
 
-We were so surprised by the amount of attention that this class got that we wanna make sure we spend a lot of time on the why
+We were so surprised by the amount of attention that this class got that we want to make sure we spend a lot of time on the why
 
 ok, so the first of the four areas, a great idea.
 
@@ -99,7 +94,7 @@ you want something that can develop in interesting ways.
 as you're thinking through ideas, another thing that we see young founders get wrong all the time is that someday you need to build a business that's difficult to replicate.
 this is an importnat part of a good idea
 
-i wanna make this point again because it's so important.
+i want to make this point again because it's so important.
 the idea should come first, and the startup should come second.
 wait to start a startup until you come up with an idea you feel compelled to explore.
 this is also the way to choose between multiple ideas.
@@ -225,7 +220,7 @@ the other is meeting potential cofounders.
 
 you have no idea how good of an environemtn you're in right now for meeting people that you can start a company with down the road.
 and the one thing that we always tell college students is more importnat than starting any particular startup, is getting to know a lot of potential cofounders.
-so i wanna finish this section of my talk with a quote from fifty center. this is from when he was asked about vitamin water. i won't read it, it's up there, but it's about the importance of thinking about what customers want, and thinking about the demands of the market.
+so i want to finish this section of my talk with a quote from fifty center. this is from when he was asked about vitamin water. i won't read it, it's up there, but it's about the importance of thinking about what customers want, and thinking about the demands of the market.
 
 "Most people think first of what they want to express or make, then find the audience for their idea. You must work the opposite angle, thinking first of the public. You need to keep your focus on their changing needs, the trends that are washing through them. Beginning with their demand, you create the appropriate supply." - 50 Cent
 
@@ -313,7 +308,7 @@ and fanataical in the way they think about customre support
 in fact one thing that correlates with success among hte YC companies is the founders that hook up pagerduty to their ticketing system so that even if the user email in the middle of hte night when the foundres are asleep, they still get a response iwthin an hour.
 
 companies acutally do this in the early days.
-these founders feel phsyical pain when the product sucks an dthey wanna wake up and fix it.
+these founders feel phsyical pain when the product sucks an dthey want to wake up and fix it.
 they don't ship crap, and if they do they fix it very very quickly.
 and it definitely takes some level of fanaticism to build a great product.
 
@@ -366,7 +361,7 @@ it really is true that the company will build whatever the CEO decides to measur
 if you're building an internet service, ignore things like total registnations. don't talk about them, don't let anyone in the company talk about them, and look at growth in active users, activity levels, cohort retention, revenue, net promoter scores, these things that matter. and then be brutally honest if they aren't going in the right direction. startups live on growth. it's the indicator of a great product.
 
 so this about wraps up the overview on building a great product.
-i wanna emphasize again, that if you don't get this right, nothing else we talk about in the class will matter.
+i want to emphasize again, that if you don't get this right, nothing else we talk about in the class will matter.
 you can basically ignore everything else taht we talk about until this is working well.
 
 on the positive side, this is one of the most fun parts of building a startup.
