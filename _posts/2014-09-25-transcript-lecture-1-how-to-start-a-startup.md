@@ -3,21 +3,23 @@ layout: post
 title: "Transcript: Lecture 1 - How to Start a Startup"
 ---
 
-Welcome to CS183B. I'm Sam Altman, President of Y Combinator.
-9 years ago I was a Standard student, and then I dropped out to start a company. ANd then I've been an investor for the last few
+<iframe width="560" height="315" src="//www.youtube.com/embed/CBYhVcO4WgI" frameborder="0" allowfullscreen></iframe>
 
-So at YC we've been teaching people how to start startups for 9 years.
-Most of it's very hands on and specific to the startups, but 30% of it is pretty generally applicable
-and so we think that we can teach that 30% in this class and even though that's only 30% of the way there, hopefully it'll still be really helpful
+---
 
-we've taught a lot of this at YC already but it's all been off the record
-and this is the first time that a lot of what we teach at YC is gonna be on the record
+## Sam Altman
+
+Welcome to CS183B. I'm Sam Altman, President of Y Combinator. Nine years ago I was a Standard student, and then I dropped out to start a company, and then I've been an investor for the last few.
+
+So at YC we've been teaching people how to start startups for 9 years. Most of it's very hands on and specific to the startups, but 30% of it is pretty generally applicable, and so we think that we can teach that 30% in this class and even though that's only 30% of the way there, hopefully it'll still be really helpful.
+
+We've taught a lot of this at YC already but it's all been off the record, and this is the first time that a lot of what we teach at YC is going to be on the record
 so we've invited some of our best speakers to come and give the same talks they give at YC
 
 we've now funded 720 companies. And so we're pretty sure that a lot of this advice is pretty good
 
 we can't fund every startup yet, but we can hopefully make this advice very generally available
-guest speakers are gonna teach 17 of the 20 classes, I'm only teaching 3.
+guest speakers are going to teach 17 of the 20 classes, I'm only teaching 3.
 Counting YC itself, every guest speaker has been involved in the creation of a one-billion plus dollar company.
 
 so the advice shouldn't be that theoretical.
@@ -27,13 +29,13 @@ all of the advice in this class is geared towards people starting a business whe
 much of it doesn't apply in other cases and I wanna warn people up front that if you try and do these things in a lot of big companies or non-startups, it won't work
 it should still be interesting, I really do think that startups are the way of the future and it's worth trying to understand them, but startups are very different than normal companies
 
-so over the course of today and thursday I'm gonna try and give an overview of the four areas that you need to excel at in order to maximize your chances of success at a startup
+so over the course of today and thursday I'm going to try and give an overview of the four areas that you need to excel at in order to maximize your chances of success at a startup
 
 and then throughout the course the guest speakers are going to drill in to all of these in more detail
 
 so the four areas. you need a great idea, a great product, a great team, and great execution.
 
-these overlap somewhat but I'm gonna have to talk about them somewhat individually to make it make sense
+these overlap somewhat but I'm going to have to talk about them somewhat individually to make it make sense
 you may still fail.
 the outcome is something like idea x product x execution x team x luck, where luck is a random number between 0 and 10,000. literally that much
 
@@ -84,7 +86,7 @@ it includes the size and the growth of the market, the growth strategy of the co
 
 when you're evaluating an idea you need to think through all of these things, not just the product.
 
-if it works out, you're gonna be working on this for 10 years so it's worth some real upfront time to think through the longterm value and the definisibility of the buisiness
+if it works out, you're going to be working on this for 10 years so it's worth some real upfront time to think through the longterm value and the definisibility of the buisiness
 
 even though plans themselves are worthless, the exercise of planning is really valuable and totally missing in most startups today.
 
@@ -126,7 +128,7 @@ it's difficut to over state how important being mission driven is, so i want to 
 
 derivitive companies, companies that copy an existing idea with very few new insights, don't excite people and they don't compell the teams to work hard enough to be successful.
 
-paul graham is gonna talk about how to get startup ideas next week.
+paul graham is going to talk about how to get startup ideas next week.
 it's something that a lot of ofunders struggle with but it's something i believe you can get better at with practice.
 and it's definitely worth trying to get better at.
 
@@ -141,13 +143,13 @@ most people thought that was pointless.
 
 these all sounded really bad but they turned out to be good.
 if they had sounded really good, there would have been too many people working on them
-as peter thiel's gonna discuss in the 5th class, you want an idea that turns into a monopoly
+as peter thiel's going to discuss in the 5th class, you want an idea that turns into a monopoly
 but you can't get a monopoly in a big market right away, too much competition for tha
 you have to find a small amrket in which you can get a monopoly and then quickly expand
 this is why some great startup ideas look really bad ta the beginning
 it's good if you can say something like "Today only this small subset of users are going to use my product, but i'm going to get all of them and in the future almost everyone will use my product"
 
-here's hte theme that's gonna come up a lot. you need conviction in your own beliefs, and a willingness to ignore others' naysaying.
+here's hte theme that's going to come up a lot. you need conviction in your own beliefs, and a willingness to ignore others' naysaying.
 the hard part is that this is a very fine line.
  there's right on one side of it, and crazy on the other.
 but keep in mind that if you do come up with a great idea, most people are going to thinkg it's bad.
@@ -213,7 +215,7 @@ another somewhat counterintuititeve thing about googd sdtartup ideas is that the
 if it takes more than a sentence to explain what you're doing, it's almost always a sign that it's too complicated. it should be a clearly articulated vision with a small number of words.
 and the best ideas are usually either very different from existing companies in one important way.
 like google being a search enginge that worked just really well, and none of the other stuff of the portals, or totally new like spacex.
-any company that's a clone of something else that already exists, with some small or made up differentiator, like we're gonna be X beautiful design, or we're gonna be Y for people that like red wine instead.
+any company that's a clone of something else that already exists, with some small or made up differentiator, like we're going to be X beautiful design, or we're going to be Y for people that like red wine instead.
 that usually fails.
 
 so as i mentioned, one of the great things about being a student is that you have a very good perspective on new technology.
@@ -234,7 +236,7 @@ And this is probably the thing that we see wrong with ycombinator apps most freq
 2. Product
 
 so for the next section I'm going to talk about building a great product.
-and here again, I'm gonna use a very broad definiton of product.
+and here again, I'm going to use a very broad definiton of product.
 it includes customer support and copyright explaining the product.
 anything involved in your customer's interaction with what you built for them.
 to build a really great company you first have to turn a great idea into a great product.
@@ -283,9 +285,9 @@ if you make something that people love, people will tell their friends about it.
 this works for consumer products and enterprise products as well.
 when poeple relaly love something, they tell their friends about it, and you'll see organic growth.
 
-if you find yourself talking about how it's ok that you're not growing, because there's a big partnership that's gonna come save you or something like that, it's almost always a sign of real trouble.
+if you find yourself talking about how it's ok that you're not growing, because there's a big partnership that's going to come save you or something like that, it's almost always a sign of real trouble.
 
-sales and marketing are really improtant and we're gonna have two classes on them later, but if you don't have some early organic growth then you're product probably isn't good enough yet.
+sales and marketing are really improtant and we're going to have two classes on them later, but if you don't have some early organic growth then you're product probably isn't good enough yet.
 
 a great product is the secret to long term growth hacking. you should get that right before you worry about anything else. it doesn't get easier to put off making a great product.
 
@@ -368,6 +370,6 @@ i wanna emphasize again, that if you don't get this right, nothing else we talk 
 you can basically ignore everything else taht we talk about until this is working well.
 
 on the positive side, this is one of the most fun parts of building a startup.
-so i'm gonna pause here, i'll pick back up with the rest of this on thursday.
-and now we're gonna have Dustin talk about why you should start a startup.
+so i'm going to pause here, i'll pick back up with the rest of this on thursday.
+and now we're going to have Dustin talk about why you should start a startup.
 thank you for coming Dustin.
