@@ -12,7 +12,8 @@ title: Benjamin Sullivan
 # Writings
 
 {% for post in site.posts %}
-{% if post.path contains "_drafts" %}
+{% if post.transcript == 'true' %}
+{% elsif post.path contains "_drafts" %}
 ## <a href="{{ post.url }}" style="color:#f66">{{post.title}}</a>
 {% else %}
 ## [{{ post.title }}]({{ post.url }})
@@ -66,6 +67,8 @@ title: Benjamin Sullivan
 ---
 
 # Transcripts
+
+## [Transcript: Lecture 1 - How to Start a Startup](/2014/09/25/transcript-lecture-1-how-to-start-a-startup/)
 
 ## [Transcript: Paul Graham in Conversation with Nathan Blecharczyk](/transcript-paul-graham-in-conversation-with-nathan-blecharczyk)
 

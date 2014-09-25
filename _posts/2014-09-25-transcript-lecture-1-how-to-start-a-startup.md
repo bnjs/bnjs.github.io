@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Transcript: Lecture 1 - How to Start a Startup"
+transcript: 'true'
+permalink: "2014/09/25/transcript-lecture-1-how-to-start-a-startup/"
 ---
 
 
