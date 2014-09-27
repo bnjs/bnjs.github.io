@@ -12,9 +12,7 @@ title: Benjamin Sullivan
 # Writings
 
 {% for post in site.posts %}
-{% if post.transcript == 'true' %}
-{% elsif post.path contains "_drafts" %}
-## <a href="{{ post.url }}" style="color:#f66">{{post.title}}</a>
+{% if post.path contains "_drafts" %}
 {% else %}
 ## [{{ post.title }}]({{ post.url }})
 {% endif %}
@@ -23,6 +21,16 @@ title: Benjamin Sullivan
 ## [Why I Want an iWatch](/why-i-want-an-iwatch)
 
 ## [Expressing the Liar Paradox in Ruby](/expressing-the-liar-paradox-in-ruby)
+
+{% if site.base_url == 'http://localhost:4000' %}
+{% for post in site.posts %}
+{% if post.path contains "_drafts" %}
+## <a href="{{ post.url }}" style="color:#f66">{{post.title}}</a>
+{% else %}
+{% endif %}
+{% endfor %}
+{% endif %}
+
 
 ---
 
