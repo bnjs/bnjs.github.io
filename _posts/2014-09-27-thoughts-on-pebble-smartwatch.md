@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: share-post
 title: Thoughts on Pebble Smartwatch
 ---
 
