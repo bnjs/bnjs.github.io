@@ -254,7 +254,7 @@ h1 a, h2 a, h3 a, strong a { font-weight: bold; }
 
 /* INDEX STYLES */
 
-h2 span.lowkey {
+.lowkey {
   font-weight: normal;
 }
 

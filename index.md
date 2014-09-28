@@ -3,9 +3,8 @@ layout: default
 title: Benjamin Sullivan
 ---
 
-## Software developer, working on "<em>make something people want</em>."
-
-## <span class="lowkey">Say hello on <a href="https://twitter.com/bnjs">Twitter</a> or <a href="http://www.facebook.com/bnjsu">Facebook</a>.</span>
+<h2>Hi there. I'm Ben. <span class="lowkey">I build web apps, and help build products, teams, startups, communities.</span></h2>
+<h2 class="lowkey">More <a href="/about-me">about me</a></h2>
 
 ---
 
