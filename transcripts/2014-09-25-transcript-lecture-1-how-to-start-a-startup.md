@@ -159,8 +159,7 @@ Another somewhat counter-intuitive thing about good startup ideas is that they'r
 If it takes more than a sentence to explain what you're doing, it's almost always a sign that it's too complicated.
 It should be a clearly articulated vision with a small number of words.
 
-And the best ideas are usually either very different from existing companies in one important way.
-Like Google being a search engine that worked just really well and none of the other stuff of the portals, or [something] totally new like SpaceX.
+And the best ideas are usually either very different from existing companies in one important way, like Google being a search engine that worked just really well and none of the other stuff of the portals, or totally new like SpaceX.
 Any company that's a clone of something else that already exists, with some small or made up differentiator, like we're going to be X beautiful design, or we're going to be Y for people that like red wine instead; that usually fails.
 
 So as I mentioned, one of the great things about being a student is that you have a very good perspective on new technology.
