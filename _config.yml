@@ -1,4 +1,4 @@
 permalink: pretty
-exclude: ['Gemfile','Gemfile.lock','Rakefile']
+exclude: ['Gemfile','Gemfile.lock','Rakefile','_local']
 defaults:
   layout: "default"

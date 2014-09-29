@@ -1,2 +1,4 @@
 _site/*
 _config-dev.yml
+_drafts/*
+_local/*
