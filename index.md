@@ -33,6 +33,12 @@ title: Benjamin Sullivan
 
 ---
 
+# Notes
+
+## [Sam Altman "Ideas, Products, Teams and Execution" Highlights](/notes/sam-altman-ideas-products-teams-and-execution-highlights/)
+
+---
+
 # Projects
 
 <h2>
