@@ -18,7 +18,7 @@ This is a work in progress.
 
 # Introduction
 
-### <span>30%</span> of startup advice is generally applicable
+### <span>30%</span> of YC startup advice is generally applicable
 
 ### YC startup advice is for startups aiming for <span>hyper growth<span>
 
@@ -36,6 +36,8 @@ This is a work in progress.
 
 # Idea
 
+## IDEAS MATTER
+
 ### Great execution towards <span>a terrible idea</span> will get you nowhere.
 
 ### Most great companies start with a great idea, <span>not a pivot</span>.
@@ -46,13 +48,15 @@ This is a work in progress.
 
 ### Plans may become worthless, but <span>the exercise of planning is really valuable</span>
 
-### <span>Long-term thinking</span> is important
+## LONG-TERM THINKING IS IMPORTANT
 
 ### You want <span>something that can develop</span> in interesting ways.
 
 ### Someday you need to build a business that is <span>difficult to replicate</span>
 
 ### <span>Idea first</span>, startup second.
+
+## BE MISSION-ORIENTED
 
 ### The best companies are almost always <span>mission oriented</span>
 
@@ -68,6 +72,8 @@ This is a work in progress.
 
 ### <span>Companies that copy an existing idea</span> with very few new insights don’t excite people and they don’t compell the teams to work hard enough to be successful.
 
+## GREAT IDEAS SOUND BAD
+
 ### The best ideas <span>often look terrible</span> at the beginning.
 
 ### You want an idea that turns into a <span>monopoly</span>, but you can’t get a monopoly in a big market right away, there’s too much competition for that.
@@ -78,7 +84,7 @@ This is a work in progress.
 
 ### It’s good if you can say something like, “Today only this small subset of users are going to use my product, but I’m going to get all of them and in the future almost everyone will use my product.”
 
-### You need conviction in your own beliefs, and a willingness to ignore others’ naysaying.
+### You need conviction in your own beliefs, and a willingness to ignore others' naysaying.
 
 ### If you do come up with a great idea, most people are going to think it’s bad, and that's a good sign.
 
@@ -93,6 +99,8 @@ This is a work in progress.
 ### You need to take over a small specific market and expand from there.
 
 ### Unpopular but right, is what you’re going for.
+
+## SMALL BUT RAPIDLY GROWING MARKETS
 
 ### You really want to take the time to think about how the market’s going to evolve.
 
@@ -116,30 +124,37 @@ This is a work in progress.
 
 ### The most successful YC startups all had a great idea and a great answer to "Why now?", and if you don’t you should be at least somewhat suspicious about it.
 
+## BUILD SOMETHING YOU NEED, OR GET VERY CLOSE TO YOUR CUSTOMERS
+
 ### In general, it’s best if you’re building something that you yourself need.
 
 ### If you don’t need it yourself and you’re building something that someone else needs, realize that you’re at a big disadvantage and get very, very close to your customers.
+
+## GOOD IDEAS ARE EASY TO EXPLAIN
 
 ### Good startup ideas are almost always very easy to explain and very easy to understand.
 
 ### If it takes more than a sentence to explain what you’re doing, it’s almost always a sign that it’s too complicated.
 
+## CLONE IDEAS USUALLY FAIL
+
 ### The best ideas are usually either very different from existing companies in one important way, or totally new.
 
 ### A company that's a clone of something else that already exists, with some small or made up differentiator; usually fails.
 
-### In college getting to know a lot of potential co-founders is more important than starting any particular startup.
+## THINK MARKET FIRST, WHAT PEOPLE WANT
 
 ### If you can just learn to think about the market first, you will have a big leg up on most people starting startups.
 
 ### One of the most common mistakes is that people have not thought about the market first, and what people want first.
 
-
-
+---
 
 # Product
 
 ### Product is anything involved in your customer's interaction with what you built for them, including customer support and copywrite explaining the product.
+
+## BUILD A GREAT PRODUCT
 
 ### To build a really great company you first have to turn a great idea into a great product.
 
@@ -148,6 +163,8 @@ This is a work in progress.
 ### Most of your time should be spent either sitting in front of the computer working on the product or talking to customers.
 
 ### Other problems like raising money, getting more press, hiring, business development, etc. are significantly easier when you have a great product.
+
+## MAKE SOMETHING USERS LOVE
 
 ### Step 1 is to build something that users love.
 
@@ -165,6 +182,8 @@ This is a work in progress.
 
 ### If you get this right, you can get a lot of other things wrong, but if you get this wrong, you can get everything else right and you’ll probably still fail.
 
+## LOVE CREATES ORGANIC GROWTH
+
 ### One way that you know when this is working is that you’ll get growth by word of mouth.
 
 ### When people really love something, they tell their friends about it and you’ll see organic growth.
@@ -181,9 +200,13 @@ This is a work in progress.
 
 ### Very few startups die from competition. Most die because they themselves fail to make something users love.
 
+## START SIMPLE
+
 ### Start with something simple, it's much easier to make a great product that way.
 
 ### Starting simple forces you to do one thing extremely well, and you have to do that to make something that people love.
+
+## BE FANATICAL
 
 ### Successful founders are often fanatical about their products, the quality of small details, customer support, etc.
 
@@ -193,6 +216,8 @@ This is a work in progress.
 
 ### And it definitely takes some level of fanaticism to build a great product.
 
+## DO THINGS THAT DON'T SCALE
+
 ### You need some users to help with the feedback cycle, but the way to get those users is manually. You should go recruit them by hand.
 
 ### Do things that don't scale.
@@ -200,6 +225,8 @@ This is a work in progress.
 ### Get users manually and remember that the goal is to get a small group of them to love you.
 
 ### Understand that group extremely well, get extremely close to them.
+
+## TIGHT FEEDBACK LOOP
 
 ### You want to build an engine in the company that transforms feedback from users into product decisions, then get it back in front of the users and repeat.
 
@@ -214,6 +241,8 @@ This is a work in progress.
 ### Great founders don’t put anyone between themselves and their users.
 
 ### It’s critical to get this loop embedded in the culture.
+
+## ANSWER TO YOUR METRICS
 
 ### You really need to use metrics to keep yourself honest on this.
 
