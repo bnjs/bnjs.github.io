@@ -65,81 +65,81 @@ Sources:
 
 ### The best companies are almost always <span>mission oriented</span>
 
-### It’s difficult to get large groups of people to the <span>extreme levels of focus and productivity</span> that you need for a startup to be successful
+### It's difficult to get large groups of people to the <span>extreme levels of focus and productivity</span> that you need for a startup to be successful
 
 ### For that you need <span>an important mission</span> and <span>a great founding idea</span>.
 
 ### Good startups usually take <span>ten years</span>.
 
-### If you don’t <span>love and believe in what you’re building</span>, you’re likely to give up at some point along the way.
+### If you don't <span>love and believe in what you're building</span>, you're likely to give up at some point along the way.
 
-### In many ways it’s <span>easier to start a hard startup</span> than an easy startup.
+### In many ways it's <span>easier to start a hard startup</span> than an easy startup.
 
-### <span>Companies that copy an existing idea</span> with very few new insights don’t excite people and they don’t compell the teams to work hard enough to be successful.
+### <span>Companies that copy an existing idea</span> with very few new insights don't excite people and they don't compell the teams to work hard enough to be successful.
 
 ## GREAT IDEAS SOUND BAD
 
 ### The best ideas <span>often look terrible</span> at the beginning.
 
-### You want an idea that turns into a <span>monopoly</span>, but you can’t get a monopoly in a big market right away, there’s too much competition for that.
+### You want an idea that turns into a <span>monopoly</span>, but you can't get a monopoly in a big market right away, there's too much competition for that.
 
 ### You have to <span>find a small market</span> in which you can get a monopoly and then <span>quickly expand</span>.
 
 ### This is why some great startup ideas look really bad at the beginning.
 
-### It’s good if you can say something like, “Today only this small subset of users are going to use my product, but I’m going to get all of them and in the future almost everyone will use my product.”
+### It's good if you can say something like, “Today only this small subset of users are going to use my product, but I'm going to get all of them and in the future almost everyone will use my product.”
 
 ### You need conviction in your own beliefs, and a willingness to ignore others' naysaying.
 
-### If you do come up with a great idea, most people are going to think it’s bad, and that's a good sign.
+### If you do come up with a great idea, most people are going to think it's bad, and that's a good sign.
 
-### The truly good ideas don’t sound like they’re worth stealing.
+### The truly good ideas don't sound like they're worth stealing.
 
-### You want an idea about which you can say, “I know it sounds like a bad idea, but here’s specifically why it’s actually a great one.”
+### You want an idea about which you can say, “I know it sounds like a bad idea, but here's specifically why it's actually a great one.”
 
 ### You want to sound crazy, but you want to actually be right.
 
-### You want an idea that not many other people are working on, and it’s OK if it doesn’t sound big at first.
+### You want an idea that not many other people are working on, and it's OK if it doesn't sound big at first.
 
 ### You need to take over a small specific market and expand from there.
 
-### Unpopular but right, is what you’re going for.
+### Unpopular but right, is what you're going for.
 
 ## SMALL BUT RAPIDLY GROWING MARKETS
 
-### You really want to take the time to think about how the market’s going to evolve.
+### You really want to take the time to think about how the market's going to evolve.
 
-### You need a market that’s going to be big in ten years.
+### You need a market that's going to be big in ten years.
 
-### Think about the growth rate of the market rather than it’s current size, and think about if there’s any reason that it’s going to top out.
+### Think about the growth rate of the market rather than it's current size, and think about if there's any reason that it's going to top out.
 
-### A company that’s going after a small but rapidly growing market is a more attractive investment than a big but slow growing one.
+### A company that's going after a small but rapidly growing market is a more attractive investment than a big but slow growing one.
 
-### One of the big advantages of these small but rapidly growing markets, is that customers are usually pretty desperate for a solution, and they’ll put up with an imperfect but rapidly improving product.
+### One of the big advantages of these small but rapidly growing markets, is that customers are usually pretty desperate for a solution, and they'll put up with an imperfect but rapidly improving product.
 
 ### Student probably have better intuition about which markets are likely to start growing rapidly than older people do.
 
-### You cannot create a market that doesn’t want to exist.
+### You cannot create a market that doesn't want to exist.
 
 ### You can basically change everything in a startup but the market.
 
-### You want a market that’s going to grow really quickly.
+### You want a market that's going to grow really quickly.
 
-### Why is this the perfect time for this particular idea and to start this particular company? Why couldn’t it have been done 2 years ago, and why will 2 years in the future be too late?
+### Why is this the perfect time for this particular idea and to start this particular company? Why couldn't it have been done 2 years ago, and why will 2 years in the future be too late?
 
-### The most successful YC startups all had a great idea and a great answer to "Why now?", and if you don’t you should be at least somewhat suspicious about it.
+### The most successful YC startups all had a great idea and a great answer to "Why now?", and if you don't you should be at least somewhat suspicious about it.
 
 ## BUILD SOMETHING YOU NEED, OR GET VERY CLOSE TO YOUR CUSTOMERS
 
-### In general, it’s best if you’re building something that you yourself need.
+### In general, it's best if you're building something that you yourself need.
 
-### If you don’t need it yourself and you’re building something that someone else needs, realize that you’re at a big disadvantage and get very, very close to your customers.
+### If you don't need it yourself and you're building something that someone else needs, realize that you're at a big disadvantage and get very, very close to your customers.
 
 ## GOOD IDEAS ARE EASY TO EXPLAIN
 
 ### Good startup ideas are almost always very easy to explain and very easy to understand.
 
-### If it takes more than a sentence to explain what you’re doing, it’s almost always a sign that it’s too complicated.
+### If it takes more than a sentence to explain what you're doing, it's almost always a sign that it's too complicated.
 
 ## CLONE IDEAS USUALLY FAIL
 
@@ -163,7 +163,7 @@ Sources:
 
 ### To build a really great company you first have to turn a great idea into a great product.
 
-### Until you’ve built a great product, almost nothing else matters.
+### Until you've built a great product, almost nothing else matters.
 
 ### Most of your time should be spent either sitting in front of the computer working on the product or talking to customers.
 
@@ -179,29 +179,29 @@ Sources:
 
 ### A lot of good-on-paper startups fail because they merely make something that people like.
 
-### Making something that people want, but only a medium amount, is a great way to fail and not understand why you’re failing.
+### Making something that people want, but only a medium amount, is a great way to fail and not understand why you're failing.
 
-### It’s better to build something that a small number of users love, than a large number of users like.
+### It's better to build something that a small number of users love, than a large number of users like.
 
-### It’s much easier to expand from something that a small number of people love to something that a lot of people love, than from something that a lot of people like to a lot of people love.
+### It's much easier to expand from something that a small number of people love to something that a lot of people love, than from something that a lot of people like to a lot of people love.
 
-### If you get this right, you can get a lot of other things wrong, but if you get this wrong, you can get everything else right and you’ll probably still fail.
+### If you get this right, you can get a lot of other things wrong, but if you get this wrong, you can get everything else right and you'll probably still fail.
 
 ## LOVE CREATES ORGANIC GROWTH
 
-### One way that you know when this is working is that you’ll get growth by word of mouth.
+### One way that you know when this is working is that you'll get growth by word of mouth.
 
-### When people really love something, they tell their friends about it and you’ll see organic growth.
+### When people really love something, they tell their friends about it and you'll see organic growth.
 
-### If you think it’s OK that you’re not growing, it’s almost always a sign of real trouble.
+### If you think it's OK that you're not growing, it's almost always a sign of real trouble.
 
-### Sales and marketing are really important, but if you don’t have some early organic growth then your product probably isn’t good enough yet.
+### Sales and marketing are really important, but if you don't have some early organic growth then your product probably isn't good enough yet.
 
 ### A great product is the secret to longterm growth hacking.
 
-### If you try to build a growth machine before you have a product that some people really love, you’re almost certainly going to waste your time.
+### If you try to build a growth machine before you have a product that some people really love, you're almost certainly going to waste your time.
 
-### Don’t worry about your competitors raising a lot of money and what they may do in the future, they probably aren’t very good anyway.
+### Don't worry about your competitors raising a lot of money and what they may do in the future, they probably aren't very good anyway.
 
 ### Very few startups die from competition. Most die because they themselves fail to make something users love.
 
@@ -217,7 +217,7 @@ Sources:
 
 ### These founders feel physical pain when the product sucks, and they want to wake up and fix it.
 
-### They don’t ship crap, and if they do they fix it very, very quickly.
+### They don't ship crap, and if they do they fix it very, very quickly.
 
 ### And it definitely takes some level of fanaticism to build a great product.
 
@@ -235,17 +235,17 @@ Sources:
 
 ### You want to build an engine in the company that transforms feedback from users into product decisions, then get it back in front of the users and repeat.
 
-### Ask users what they like and what they don’t like and watch them use the product.
+### Ask users what they like and what they don't like and watch them use the product.
 
-### Ask users what they’d pay for, if they’d be really bummed if your company went away, what would make them recommend the product to their friend, if they’ve recommended it to any yet.
+### Ask users what they'd pay for, if they'd be really bummed if your company went away, what would make them recommend the product to their friend, if they've recommended it to any yet.
 
 ### You should make this feedback loop as tight as possible.
 
-### You should try to keep this going for all of your company’s life, but it’s really important in the early days.
+### You should try to keep this going for all of your company's life, but it's really important in the early days.
 
-### Great founders don’t put anyone between themselves and their users.
+### Great founders don't put anyone between themselves and their users.
 
-### It’s critical to get this loop embedded in the culture.
+### It's critical to get this loop embedded in the culture.
 
 ## ANSWER TO YOUR METRICS
 
@@ -253,13 +253,13 @@ Sources:
 
 ### It really is true that the company will build whatever the CEO decides to measure.
 
-### If you’re building an Internet service, ignore things like total registrations.
+### If you're building an Internet service, ignore things like total registrations.
 
 ### Look at growth in active users, activity levels, cohort retention, revenue, net promoter scores, these things that matter.
 
-### Be brutally honest if your metrics aren’t going in the right direction.
+### Be brutally honest if your metrics aren't going in the right direction.
 
-### Startups live on growth, it’s the indicator of a great product.
+### Startups live on growth, it's the indicator of a great product.
 
 
 ---
@@ -393,11 +393,11 @@ Sources:
 
 ### Experience matters for some roles and not for others. When you're hiring someone that is going to run a large part of your organization experience probably matters a lot.
 
-### For most of the early hires that you make at a startup, experience probably doesn't matter that much and you should go for aptitude and belief in what you’re doing.
+### For most of the early hires that you make at a startup, experience probably doesn't matter that much and you should go for aptitude and belief in what you're doing.
 
 ### Most of the best hires that I've made in my entire life have never done that thing before.
 
-### So it's really worth thinking, is this a role where I care about experience or not. And you'll often find you don’t, especially in the early days.
+### So it's really worth thinking, is this a role where I care about experience or not. And you'll often find you don't, especially in the early days.
 
 
 ## SMART, GET THINGS DONE, WANT TO SPEND A LOT OF TIME AROUND THEM
@@ -443,7 +443,7 @@ Sources:
 
 ## COMFORTABLE HANGING WITH SOCIALLY, COMFORTABLE REPORTING TO
 
-### Mark Zuckerberg once said that he tries to hire people that A. he'd be comfortable hanging with socially and B. he’d be comfortable reporting to if the roles were reversed. You don't have to be friends with everybody, but you should at least enjoy working with them. And if you don't have that, you should at least deeply respect them. But again, if you don't want to spend a lot of time around people you should trust your instincts about that.
+### Mark Zuckerberg once said that he tries to hire people that A. he'd be comfortable hanging with socially and B. he'd be comfortable reporting to if the roles were reversed. You don't have to be friends with everybody, but you should at least enjoy working with them. And if you don't have that, you should at least deeply respect them. But again, if you don't want to spend a lot of time around people you should trust your instincts about that.
 
 
 ## GIVE ABOUT 10% OF COMPANY TO FIRST TEN EMPLOYEES
@@ -466,7 +466,7 @@ Sources:
 
 ### Learning just a little bit of management skills, which first-time CEOs are usually terrible at, goes a long way. One of the speakers at YC this summer, who is now extremely successful, struggled early on and had his team turn over a few times. Someone asked him what his biggest struggle was and he said, turns out you shouldn't tell your employees they're fucking up every day unless you want them all to leave because they will.
 
-### But as a founder, this is a very natural instinct. You think you can do everything the best and it’s easy to tell people when they’re not doing it well. So learning just a little bit here will prevent this massive team churn.
+### But as a founder, this is a very natural instinct. You think you can do everything the best and it's easy to tell people when they're not doing it well. So learning just a little bit here will prevent this massive team churn.
 
 
 ## PRAISE YOUR EMPLOYEES
@@ -550,9 +550,9 @@ Sources:
 
 ### So then there's this question of how do you figure out what to focus on each day. Each day it's really important to have goals. Most good founders I know have a set of small overarching goals for the company that everybody in the company knows. You know it could be something like ship a product by this date, get this certain growth rate, get this engagement rate, hire for these key roles, those are some of them but everyone in the company can tell you each week what are our key goals. And then everybody executes based off of that.
 
-### The founders really set the focus. Whatever the founders care about, whatever the founders focus on, that's going to set the goals for the whole company. The best founders repeat these goals over and over, far more often than they think they should need to. They put them up on the walls they talk about them in one on ones and at all-hands meetings each week. And it keeps the company focus. One of the keys to focus, and why I said cofounders that aren't friends really struggle, is that you can't be focused without good communication. Even if you have only four or five people at a company, a small communication breakdown is enough for people to be working on slightly different things. And then you lose focus and the company just scrambles.
+### The founders really set the focus. Whatever the founders care about, whatever the founders focus on, that's going to set the goals for the whole company. The best founders repeat these goals over and over, far more often than they think they should need to. They put them up on the walls they talk about them in one on ones and at all-hands meetings each week. And it keeps the company focus. One of the keys to focus, and why I said co-founders that aren't friends really struggle, is that you can't be focused without good communication. Even if you have only four or five people at a company, a small communication breakdown is enough for people to be working on slightly different things. And then you lose focus and the company just scrambles.
 
-### I'm going to talk about this a little bit later, but growth and momentum are something you can never lose focus on. Growth and momentum are what a startup lives on and you always have to focus on maintaining these. You should always know how you're doing against your metrics, you should have a weekly review meeting every week, and you should be extremely suspicious if you’re ever talking about, we’re not focused on growth right now, we’re not growing that well right now but we're doing this other thing, we don't have a timeline for when we are going to ship this because we're focused on this other thing, we’re doing a re-brand, whatever, almost always a disaster.
+### I'm going to talk about this a little bit later, but growth and momentum are something you can never lose focus on. Growth and momentum are what a startup lives on and you always have to focus on maintaining these. You should always know how you're doing against your metrics, you should have a weekly review meeting every week, and you should be extremely suspicious if you're ever talking about, we're not focused on growth right now, we're not growing that well right now but we're doing this other thing, we don't have a timeline for when we are going to ship this because we're focused on this other thing, we're doing a re-brand, whatever, almost always a disaster.
 
 ### So you want to have the right metrics and you want to be focused on growing those metrics and having momentum. Don't let the company get distracted or excited about other things. A common mistake is that companies get excited by their own PR. It's really easy to get PR with no results and it actually feels like you're really cool. But in a year you'll have nothing, and at that point you won't be cool anymore, and you'll just be talking about these articles from a year ago that, Oh you know these Stanford students start a new start up, it's going to be the next big thing and now you have nothing and that sucks.
 
@@ -576,27 +576,27 @@ Sources:
 
 ### They also show up a lot.
 
-### They come to meetings, they come in, they meet us in person. One piece of advice that I have that’s always worked for me: they get on planes in marginal situations. I’ll tell a quick story here.
+### They come to meetings, they come in, they meet us in person. One piece of advice that I have that's always worked for me: they get on planes in marginal situations. I'll tell a quick story here.
 
-### When I was running my own company, we found out we were about to lose a deal. It was sort of this critical deal from the first big customer in the space. And it was going to go to this company that had been around for year before we were. And they had this like all locked up. And we called and said “we have this better product you have to meet with us” and they said “well we’re signing this deal tomorrow. sorry.” We drove to the airport, we got on a plane, we were at their office at 6am the next morning. We just sat there, they told us to go away, we just kept sitting there. Finally once of the junior guys decided to meet with us, after that, finally one of the senior guys decided to meet with us. They ended up ripping up the contract with the other company, and we closed the deal with them about a week later. And I’m sure, that had we not gotten on a plane, had we not shown up in person, that would not have worked out.
+### When I was running my own company, we found out we were about to lose a deal. It was sort of this critical deal from the first big customer in the space. And it was going to go to this company that had been around for year before we were. And they had this like all locked up. And we called and said “we have this better product you have to meet with us” and they said “well we're signing this deal tomorrow. sorry.” We drove to the airport, we got on a plane, we were at their office at 6am the next morning. We just sat there, they told us to go away, we just kept sitting there. Finally once of the junior guys decided to meet with us, after that, finally one of the senior guys decided to meet with us. They ended up ripping up the contract with the other company, and we closed the deal with them about a week later. And I'm sure, that had we not gotten on a plane, had we not shown up in person, that would not have worked out.
 
-### And so, you just sort of show and and do these things, when people say get on plane in marginal situations, they actually mean it, but they don’t mean it literally. But I actually think it’s good, literal advice.
+### And so, you just sort of show and and do these things, when people say get on plane in marginal situations, they actually mean it, but they don't mean it literally. But I actually think it's good, literal advice.
 
-### So I mentioned this momentum and growth earlier. Once more: the momentum and growth are the lifeblood of startups. This is probably in the top three secrets of executing well. You want a company to be winning all the time. If you ever take your foot off the gas pedal, things will spiral out of control, snowball downwards. A winning team feels good and keeps winning. A team that hasn’t won in a while gets demotivated and keeps losing. So always keep momentum, it’s this prime directive for managing a startup. If I can only tell founders one thing about how to run a company, it would be this.
+### So I mentioned this momentum and growth earlier. Once more: the momentum and growth are the lifeblood of startups. This is probably in the top three secrets of executing well. You want a company to be winning all the time. If you ever take your foot off the gas pedal, things will spiral out of control, snowball downwards. A winning team feels good and keeps winning. A team that hasn't won in a while gets demotivated and keeps losing. So always keep momentum, it's this prime directive for managing a startup. If I can only tell founders one thing about how to run a company, it would be this.
 
-### For most software startups, this translates to keep growing. For hardware startups it translates to: don’t let your ship dates slip. This is what we tell people during YC, and they usually listen and everything is good. What happens at the end of YC is that they get distracted on other things, and then growth slows down. And somehow, after that happens, people start getting unhappy and quitting and everything falls apart. It’s hard to figure out a growth engine because most companies grow in new ways, but there’s this thing: if you build a good product it will grow. So getting this product right at the beginning is the best way not to lose momentum later.
+### For most software startups, this translates to keep growing. For hardware startups it translates to: don't let your ship dates slip. This is what we tell people during YC, and they usually listen and everything is good. What happens at the end of YC is that they get distracted on other things, and then growth slows down. And somehow, after that happens, people start getting unhappy and quitting and everything falls apart. It's hard to figure out a growth engine because most companies grow in new ways, but there's this thing: if you build a good product it will grow. So getting this product right at the beginning is the best way not to lose momentum later.
 
-### If you do lose momentum, most founders try to get it back in the wrong way. They give these long speeches about vision for the company and try to rally the troops with speeches. But employees in a company where momentum has sagged, don’t want to hear that. You have to save the vision speeches for when the company is winning. When you’re not winning, you just have to get momentum back in small wins. A board member of mine used to say that sales fix everything in a startup. And that is really true. So you figure out where you can get these small wins and you get that done. And then you’ll be amazed at how all the other problems in a startup disappear.
+### If you do lose momentum, most founders try to get it back in the wrong way. They give these long speeches about vision for the company and try to rally the troops with speeches. But employees in a company where momentum has sagged, don't want to hear that. You have to save the vision speeches for when the company is winning. When you're not winning, you just have to get momentum back in small wins. A board member of mine used to say that sales fix everything in a startup. And that is really true. So you figure out where you can get these small wins and you get that done. And then you'll be amazed at how all the other problems in a startup disappear.
 
-### Another thing that you’ll notice if you have momentum sag, is that everyone starts disagreeing about what to do. Fights come out when a company loses momentum. And so a framework for that that I think works is that when there’s disagreement among the team about what to do, then you ask your users and you do whatever your users tell you. And you have to remind people: “hey, stuff’s not working right now we don’t actually hate each other, we just need to get back on track and everything will work.” If you just call it out, if you just acknowledge that, you’ll find that things get way better.
+### Another thing that you'll notice if you have momentum sag, is that everyone starts disagreeing about what to do. Fights come out when a company loses momentum. And so a framework for that that I think works is that when there's disagreement among the team about what to do, then you ask your users and you do whatever your users tell you. And you have to remind people: “hey, stuff's not working right now we don't actually hate each other, we just need to get back on track and everything will work.” If you just call it out, if you just acknowledge that, you'll find that things get way better.
 
-### To use a Facebook example again, when Facebook’s growth slowed in 2008, mark instituted a “growth group.” They worked on very small things to make Facebook grow faster. All of these by themselves seemed really small, but they got the curve of Facebook back up. It quickly became the most prestigious group there. Mark has said that it’s been one of Facebook’s best innovations. According to friends of mine that worked at Facebook at the time, it really turned around the dynamic of the company. And it went from this thing where everyone was feeling bad, and momentum was gone, back to a place that was winning.
+### To use a Facebook example again, when Facebook's growth slowed in 2008, mark instituted a “growth group.” They worked on very small things to make Facebook grow faster. All of these by themselves seemed really small, but they got the curve of Facebook back up. It quickly became the most prestigious group there. Mark has said that it's been one of Facebook's best innovations. According to friends of mine that worked at Facebook at the time, it really turned around the dynamic of the company. And it went from this thing where everyone was feeling bad, and momentum was gone, back to a place that was winning.
 
-### So a good way to keep momentum is to establish an operating rhythm at the company early. Where you ship product and launch new features on a regular basis. Where you’re reviewing metrics every week with the entire company. This is actually one of the best things your board can do for you. Boards add value to business strategy only rarely. But very frequently you can use them as a forcing function to get the company to care about metrics and milestones.
+### So a good way to keep momentum is to establish an operating rhythm at the company early. Where you ship product and launch new features on a regular basis. Where you're reviewing metrics every week with the entire company. This is actually one of the best things your board can do for you. Boards add value to business strategy only rarely. But very frequently you can use them as a forcing function to get the company to care about metrics and milestones.
 
-### One thing that often disrupts momentum and really shouldn’t is competitors. Competitors making noise in the press I think probably crushes a company’s momentum more often than any other external factor.
+### One thing that often disrupts momentum and really shouldn't is competitors. Competitors making noise in the press I think probably crushes a company's momentum more often than any other external factor.
 
-### So here’s a good rule of thumb: don’t worry about a competitor at all, until they’re actually beating you with a real, shipped product. Press releases are easier to write than code, and that is still easier than making a great product. So remind your company of this, and this is sort of a founder’s role, is not to let the company get down because of the competitors in the press.
+### So here's a good rule of thumb: don't worry about a competitor at all, until they're actually beating you with a real, shipped product. Press releases are easier to write than code, and that is still easier than making a great product. So remind your company of this, and this is sort of a founder's role, is not to let the company get down because of the competitors in the press.
 
 ### This great quote from Henry Ford that I love: “The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.”
 
