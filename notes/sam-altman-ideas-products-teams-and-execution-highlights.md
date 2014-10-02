@@ -532,69 +532,176 @@ Sources:
 
 # Execution
 
-### Alright, so now we're going to talk about execution. Execution for most founders is not the most fun part of running the company, but it is the most critical. Many cofounders think they're just signing up to this beautiful idea and then they're going to go be on magazine covers and go to parties. But really what it’s about more than anything else, what being a cofounder really means, is signing up for this years long grind on execution and you can’t outsource this.
 
-### The way to have a company that executes well is you have to execute well yourself. Every thing at a startup gets modeled after the founders. Whatever the founders do becomes the culture. So if you want a culture where people work hard, pay attention to detail, manage the customers, are frugal, you have to do it yourself. There is no other way. You cannot hire a COO to do that while you go off to conferences. The company just needs to see you as this maniacal execution machine. As I said in the first lecture, there’s at least a hundred times more people with great ideas than people who are willing to put in the effort to execute them well. Ideas by themselves are not worth anything, only executing well is what adds and creates value.
+## EXECUTION IS MOST CRITICAL
 
-### A big part of execution is just putting in the effort, but there is a lot you can learn about how to be good at it. And so we’re going to have three classes that just talk about this.
+### Execution for most founders is not the most fun part of running the company, but it is the most critical.
 
-### The CEO, people ask me all the time about the jobs of the CEO. There are probably more than five, here are five that come up a lot in the early days. The first four everyone thinks of as CEO jobs: set the vision, raise money, evangelize the mission to people you’re trying to recruit, executives, partners, press, everybody, hire and manage the team. But the fifth one is setting the execution bar and this is not the one that most founders get excited about or envision themselves doing but I think it is actually one of the critical CEO roles and no one but the CEO can do this.
+### What being a co-founder really means, is signing up for this years long grind on execution and you can't outsource this.
 
-### Execution gets divided into two key questions. One, can you figure out what to do and two, can you get it done. So I want to talk about two parts of getting it done, assuming that you’ve already figured out what to do. And those are focus and intensity. So focus is critical. One of my favorite questions to ask founders about what they’re spending their time and their money on. This reveals almost everything about what founders think is important.
 
-### One of the hardest parts about being a founder is that there are a hundred important things competing for your attention every day. And you have to identify the right two or three, work on those, and then ignore, delegate, or defer the rest. And a lot of these things that founders think are important, interviewing a lot at different law firms, going to conferences, recruiting advisers, whatever, they just don’t matter. What really does matter varies with time, but it’s an important piece of advice. You need to figure out what the one or two most important things are, and then just do those.
+## THE COMPANY NEEDS TO SEE YOU AS THIS MANIACAL EXECUTION MACHINE
 
-### And you can only have two or three things every day, because everything else will just come at you. There will be fires every day and if you don't get good at setting what those two or three things are, you'll never be good at getting stuff done. This is really hard for founders. Founders get excited about starting new things.
+### The way to have a company that executes well is you have to execute well yourself. Everything at a startup gets modeled after the founders. Whatever the founders do becomes the culture. So if you want a culture where people work hard, pay attention to detail, manage the customers, are frugal, you have to do it yourself. There is no other way. You cannot hire a COO to do that while you go off to conferences. The company just needs to see you as this maniacal execution machine.
 
-### Unfortunately the trick to great execution is to say no a lot. You’re saying no ninety-seven times out of a hundred, and most founders find they have to make a very conscious effort to do this. Most startups are nowhere near focused enough. They work really hard-maybe-but they don’t work really hard at the right things, so they'll still fail. One of the great and terrible things about starting a start up is that you get no credit for trying. You only get points when you make something the market wants. So if you work really hard on the wrong things, no one will care.
 
-### So then there's this question of how do you figure out what to focus on each day. Each day it's really important to have goals. Most good founders I know have a set of small overarching goals for the company that everybody in the company knows. You know it could be something like ship a product by this date, get this certain growth rate, get this engagement rate, hire for these key roles, those are some of them but everyone in the company can tell you each week what are our key goals. And then everybody executes based off of that.
+## ONLY EXECUTING WELL CONVERTS IDEAS INTO VALUE
 
-### The founders really set the focus. Whatever the founders care about, whatever the founders focus on, that's going to set the goals for the whole company. The best founders repeat these goals over and over, far more often than they think they should need to. They put them up on the walls they talk about them in one on ones and at all-hands meetings each week. And it keeps the company focus. One of the keys to focus, and why I said co-founders that aren't friends really struggle, is that you can't be focused without good communication. Even if you have only four or five people at a company, a small communication breakdown is enough for people to be working on slightly different things. And then you lose focus and the company just scrambles.
+### There's at least a hundred times more people with great ideas than people who are willing to put in the effort to execute them well. Ideas by themselves are not worth anything, only executing well is what adds and creates value.
 
-### I'm going to talk about this a little bit later, but growth and momentum are something you can never lose focus on. Growth and momentum are what a startup lives on and you always have to focus on maintaining these. You should always know how you're doing against your metrics, you should have a weekly review meeting every week, and you should be extremely suspicious if you're ever talking about, we're not focused on growth right now, we're not growing that well right now but we're doing this other thing, we don't have a timeline for when we are going to ship this because we're focused on this other thing, we're doing a re-brand, whatever, almost always a disaster.
+### A big part of execution is just putting in the effort, but there is a lot you can learn about how to be good at it.
 
-### So you want to have the right metrics and you want to be focused on growing those metrics and having momentum. Don't let the company get distracted or excited about other things. A common mistake is that companies get excited by their own PR. It's really easy to get PR with no results and it actually feels like you're really cool. But in a year you'll have nothing, and at that point you won't be cool anymore, and you'll just be talking about these articles from a year ago that, Oh you know these Stanford students start a new start up, it's going to be the next big thing and now you have nothing and that sucks.
 
-### As I mentioned already, be in the same space. I think this is pretty much a nonstarter. Remote confounding teams is just really really hard. It slows down the cycle time more than anybody ever thinks it's going to.
+## CEO: SET THE VISION, RAISE MONEY, EVANGELIZE THE MISSION, HIRE/MANAGE TEAM, SET THE EXECUTION BAR
 
-### The other piece for focus besides execution is intensity. Startups only work at a fairly intense level. A friend of mine says the secret to start up success is extreme focus and extreme dedication. You can have a startup and one other thing, you can have a family, but you probably can't have many other things. Startups are not the best choice for work life balance and that's sort of just the sad reality. There's a lot of great things about a startup, but this is not one of them. Startups are all-consuming in a way that is generally difficult to explain. You basically need to be willing to outwork your competitors.
+### The jobs of the CEO. There are probably more than five, here are five that come up a lot in the early days. The first four everyone thinks of as CEO jobs: set the vision, raise money, evangelize the mission to people you're trying to recruit (executives, partners, press, everybody), hire and manage the team. But the fifth one is setting the execution bar and this is not the one that most founders get excited about or envision themselves doing but I think it is actually one of the critical CEO roles and no one but the CEO can do this.
+
+
+## FIGURE OUT WHAT TO DO AND GET IT DONE; FOCUS AND INTENSITY
+
+### Execution gets divided into two key questions. One, can you figure out what to do and two, can you get it done. Assuming that you've already figured out what to do, here are the two parts of getting it done: focus and intensity.
+
+### One of the hardest parts about being a founder is that there are a hundred important things competing for your attention every day. And you have to identify the right two or three, work on those, and then ignore, delegate, or defer the rest.
+
+
+## FIGURE OUT THE ONE OR TWO MOST IMPORTANT THINGS AND JUST DO THOSE
+
+### A lot of things that founders think are important -- interviewing a lot at different law firms, going to conferences, recruiting advisers, whatever -- they just don't matter. What really does matter varies with time, but it's an important piece of advice. You need to figure out what the one or two most important things are, and then just do those.
+
+### You can only have two or three things every day, because everything else will just come at you. There will be fires every day and if you don't get good at setting what those two or three things are, you'll never be good at getting stuff done. This is really hard for founders. Founders get excited about starting new things.
+
+
+## GREAT EXECUTION MEANS SAYING NO A LOT
+
+### Unfortunately the trick to great execution is to say no a lot. You're saying no ninety-seven times out of a hundred, and most founders find they have to make a very conscious effort to do this.
+
+
+## THERE'S A DIFFERENCE BETWEEN WORKING REALLY HARD AND WORKING REALLY HARD ON THE RIGHT THINGS
+
+### Most startups are nowhere near focused enough. They work really hard, maybe, but they don't work really hard at the right things, so they'll still fail.
+
+### One of the great and terrible things about starting a start up is that you get no credit for trying. You only get points when you make something the market wants. So if you work really hard on the wrong things, no one will care.
+
+
+## IT'S REALLY IMPORTANT TO HAVE GOALS
+
+### How do you figure out what to focus on each day? Each day it's really important to have goals. Most good founders I know have a set of small overarching goals for the company that everybody in the company knows. It could be something like ship a product by this date, get this certain growth rate, get this engagement rate, hire for these key roles, those are some of them but everyone in the company can tell you each week what are our key goals. And then everybody executes based off of that.
+
+
+## FOUNDERS SET THE FOCUS
+
+### The founders really set the focus. Whatever the founders care about, whatever the founders focus on, that's going to set the goals for the whole company. The best founders repeat these goals over and over, far more often than they think they should need to. They put them up on the walls they talk about them in one on ones and at all-hands meetings each week. It keeps the company focus.
+
+
+## YOU CAN'T BE FOCUSED WITHOUT GOOD COMMUNICATION
+
+### One of the keys to focus, and why co-founders that aren't friends struggle, is that you can't be focused without good communication. Even if you have only four or five people at a company, a small communication breakdown is enough for people to be working on slightly different things. And then you lose focus and the company just scrambles.
+
+
+## NEVER LOSE FOCUS ON GROWTH AND MOMENTUM
+
+### Growth and momentum are something you can never lose focus on. Growth and momentum are what a startup lives on and you always have to focus on maintaining these. You should always know how you're doing against your metrics, you should have a weekly review meeting every week, and you should be extremely suspicious if you're ever talking about, "We're not focused on growth right now, we're not growing that well right now but we're doing this other thing, we don't have a timeline for when we are going to ship this because we're focused on this other thing, we're doing a re-brand," whatever, almost always a disaster.
+
+### So you want to have the right metrics and you want to be focused on growing those metrics and having momentum. Don't let the company get distracted or excited about other things.
+
+
+## DON'T BE FOOELD BY YOUR OWN PR
+
+### A common mistake is that companies get excited by their own PR. It's really easy to get PR with no results and it actually feels like you're really cool. But in a year you'll have nothing, and at that point you won't be cool anymore, and you'll just be talking about these articles from a year ago that.
+
+
+## BE IN THE SAME SPACE
+
+### Be in the same space. I think this is pretty much a nonstarter. Remote co-founding teams is just really really hard. It slows down the cycle time more than anybody ever thinks it's going to.
+
+
+## STARTUPS ONLY WORK AT A FAIRLY INTENSE LEVEL
+
+### The other piece for focus besides execution is intensity. Startups only work at a fairly intense level. A friend of mine says the secret to start up success is extreme focus and extreme dedication. You can have a startup and one other thing. You can have a family, but you probably can't have many other things. Startups are not the best choice for work life balance and that's sort of just the sad reality. Startups are all-consuming in a way that is generally difficult to explain. You basically need to be willing to outwork your competitors.
+
+
+## A SMALL AMOUNT OF EXTRA WORK ON THE RIGHT THINGS MAKES A HUGE DIFFERENCE
 
 ### The good news here is that a small amount of extra work on the right thing makes a huge difference. One example that I like to give is thinking about the viral coefficient for a consumer web product. How many new users each existing user brings in. If it's .99 the company will eventually flatline and die. And if it's 1.01 you'll be in this happy place of exponential growth forever.
 
 ### So this is one concrete example of where a tiny extra bit of work is the difference between success and failure. When we talk to successful founders they tell stories like this all the time. Just outworking their competitors by a little bit was what made them successful.
 
-### So you have to be really intense. This only comes from the CEO, this only comes from the founders. One of the biggest advantages that start ups have is execution speed and you have to have this relentless operating rhythm. Facebook has this famous poster that says move fast and break things. But at the same time they manage to be obsessed with quality. And this is why it's hard. It's easy to move fast or be obsessed with quality, but the trick is to do both at a startup. You need to have a culture where the company has really high standards for everything everyone does, but you still move quickly.
 
-### Apple, Google, and Facebook have each done this extremely well. It's not about the product, it's about everything they do. They move fast and they break things, they're frugal in the right places, but they care about quality everywhere. You don't buy people shitty computers if you don't want them to write shitty code. You have to set a quality bar that runs through the entire company. Related to this is that you have to be decisive. Indecisiveness is a startup killer. Mediocre founders spend a lot of time talking about grand plans, but they never make a decision. They're talking about you know I could do this thing, or I could do that other thing, and they're going back and forth and they never act. And what you actually need is this bias towards action.
+## INTENSITY, EXECUTION SPEED, RELENTLESS OPERATING RHYTHM
 
-### The best founders work on things that seem small but they move really quickly. But they get things done really quickly. Avery time you talk to the best founders they've gotten new things done. In fact, this is the one thing that we learned best predicts a success of founders in YC. If every time we talk to a team they've gotten new things done, that's the best predictor we have that a company will be successful. Part of this is that you can do huge things in incremental pieces. If you keep knocking down small chunks one at a time, in a year you look back and you've done this amazing thing. On the other hand, if you disappear for a year and you expect to come back with something amazing all at once, it usually never happens.
+### So you have to be really intense. This only comes from the CEO, this only comes from the founders. One of the biggest advantages that start ups have is execution speed and you have to have this relentless operating rhythm.
+
+
+## MOVE FAST AND BE OBSESSED WITH QUALITY
+
+### Facebook has this famous poster that says move fast and break things. But at the same time they manage to be obsessed with quality. And this is why it's hard. It's easy to move fast or be obsessed with quality, but the trick is to do both at a startup. You need to have a culture where the company has really high standards for everything everyone does, but you still move quickly.
+
+### Apple, Google, and Facebook have each done this extremely well. It's not about the product, it's about everything they do. They move fast and they break things, they're frugal in the right places, but they care about quality everywhere. You don't buy people shitty computers if you don't want them to write shitty code. You have to set a quality bar that runs through the entire company.
+
+
+## BE DECISIVE, HAVE A BIAS TOWARDS ACTION
+
+### Related to this is that you have to be decisive. Indecisiveness is a startup killer. Mediocre founders spend a lot of time talking about grand plans, but they never make a decision. They're talking about you know I could do this thing, or I could do that other thing, and they're going back and forth and they never act. And what you actually need is this bias towards action.
+
+
+## SUCCESSFUL FOUNDERS MOVE REALLY QUICKLY
+
+### The best founders work on things that seem small but they move really quickly. They get things done really quickly. Every time you talk to the best founders they've gotten new things done. In fact, this is the one thing that we learned best predicts a success of founders in YC. If every time we talk to a team they've gotten new things done, that's the best predictor we have that a company will be successful.
+
+
+## DO BIG THINGS IN INCREMENTAL PIECES
+
+### Part of this is that you can do huge things in incremental pieces. If you keep knocking down small chunks one at a time, in a year you look back and you've done this amazing thing. On the other hand, if you disappear for a year and you expect to come back with something amazing all at once, it usually never happens.
 
 ### So you have to pick these right size projects. Even if you're building this crazy biosynthetic company and you say well I have to go away for a year, there's no way to do this incrementally, you can still usually break it into smaller projects.
 
-### So speed is this huge premium. The best founders usually respond to e-mail the most quickly, make decisions most quickly, they're generally quick in all of these ways. And they had this do what ever it takes attitude.
 
-### They also show up a lot.
+## THE BEST FOUNDERS ARE QUICK, "DO WHATEVER IT TAKES" ATTITUDE
 
-### They come to meetings, they come in, they meet us in person. One piece of advice that I have that's always worked for me: they get on planes in marginal situations. I'll tell a quick story here.
+### So speed is this huge premium. The best founders usually respond to e-mail the most quickly, make decisions most quickly, they're generally quick in all of these ways. And they have this "do whatever it takes" attitude.
 
-### When I was running my own company, we found out we were about to lose a deal. It was sort of this critical deal from the first big customer in the space. And it was going to go to this company that had been around for year before we were. And they had this like all locked up. And we called and said “we have this better product you have to meet with us” and they said “well we're signing this deal tomorrow. sorry.” We drove to the airport, we got on a plane, we were at their office at 6am the next morning. We just sat there, they told us to go away, we just kept sitting there. Finally once of the junior guys decided to meet with us, after that, finally one of the senior guys decided to meet with us. They ended up ripping up the contract with the other company, and we closed the deal with them about a week later. And I'm sure, that had we not gotten on a plane, had we not shown up in person, that would not have worked out.
 
-### And so, you just sort of show and and do these things, when people say get on plane in marginal situations, they actually mean it, but they don't mean it literally. But I actually think it's good, literal advice.
+## THE BEST FOUNDERS SHOW UP A LOT
 
-### So I mentioned this momentum and growth earlier. Once more: the momentum and growth are the lifeblood of startups. This is probably in the top three secrets of executing well. You want a company to be winning all the time. If you ever take your foot off the gas pedal, things will spiral out of control, snowball downwards. A winning team feels good and keeps winning. A team that hasn't won in a while gets demotivated and keeps losing. So always keep momentum, it's this prime directive for managing a startup. If I can only tell founders one thing about how to run a company, it would be this.
+### They also show up a lot. They come to meetings, they come in, they meet us in person. One piece of advice that I have that's always worked for me: they get on planes in marginal situations.
 
-### For most software startups, this translates to keep growing. For hardware startups it translates to: don't let your ship dates slip. This is what we tell people during YC, and they usually listen and everything is good. What happens at the end of YC is that they get distracted on other things, and then growth slows down. And somehow, after that happens, people start getting unhappy and quitting and everything falls apart. It's hard to figure out a growth engine because most companies grow in new ways, but there's this thing: if you build a good product it will grow. So getting this product right at the beginning is the best way not to lose momentum later.
+
+## YOU WANT A COMPANY TO BE WINNING ALL THE TIME
+
+### The momentum and growth are the lifeblood of startups. This is probably in the top three secrets of executing well. You want a company to be winning all the time. If you ever take your foot off the gas pedal, things will spiral out of control, snowball downwards.
+
+
+## ALWAYS KEEP MOMENTUM: THE PRIME DIRECTIVE FOR MANAGING A STARTUP
+
+### A winning team feels good and keeps winning. A team that hasn't won in a while gets demotivated and keeps losing. So always keep momentum, it's this prime directive for managing a startup. If I can only tell founders one thing about how to run a company, it would be this.
+
+### For most software startups, this translates to keep growing. For hardware startups it translates to: don't let your ship dates slip.
+
+### This is what we tell people during YC, and they usually listen and everything is good. What happens at the end of YC is that they get distracted on other things, and then growth slows down. And somehow, after that happens, people start getting unhappy and quitting and everything falls apart.
+
+### It's hard to figure out a growth engine because most companies grow in new ways, but there's this thing: if you build a good product it will grow. So getting this product right at the beginning is the best way not to lose momentum later.
+
+
+## GET MOMENTUM BACK IN SMALL WINS
 
 ### If you do lose momentum, most founders try to get it back in the wrong way. They give these long speeches about vision for the company and try to rally the troops with speeches. But employees in a company where momentum has sagged, don't want to hear that. You have to save the vision speeches for when the company is winning. When you're not winning, you just have to get momentum back in small wins. A board member of mine used to say that sales fix everything in a startup. And that is really true. So you figure out where you can get these small wins and you get that done. And then you'll be amazed at how all the other problems in a startup disappear.
 
-### Another thing that you'll notice if you have momentum sag, is that everyone starts disagreeing about what to do. Fights come out when a company loses momentum. And so a framework for that that I think works is that when there's disagreement among the team about what to do, then you ask your users and you do whatever your users tell you. And you have to remind people: “hey, stuff's not working right now we don't actually hate each other, we just need to get back on track and everything will work.” If you just call it out, if you just acknowledge that, you'll find that things get way better.
 
-### To use a Facebook example again, when Facebook's growth slowed in 2008, mark instituted a “growth group.” They worked on very small things to make Facebook grow faster. All of these by themselves seemed really small, but they got the curve of Facebook back up. It quickly became the most prestigious group there. Mark has said that it's been one of Facebook's best innovations. According to friends of mine that worked at Facebook at the time, it really turned around the dynamic of the company. And it went from this thing where everyone was feeling bad, and momentum was gone, back to a place that was winning.
+## MOMENTUM SAG CAN LEAD TO DISAGREEMENTS
+
+### Another thing that you'll notice if you have momentum sag, is that everyone starts disagreeing about what to do. Fights come out when a company loses momentum. A framework for that that I think works is that when there's disagreement among the team about what to do, then you ask your users and you do whatever your users tell you. You have to remind people: "Hey, stuff's not working right now, we don't actually hate each other, we just need to get back on track and everything will work." If you just call it out, if you just acknowledge that, you'll find that things get way better.
+
+### When Facebook's growth slowed in 2008, Mark instituted a "growth group." They worked on very small things to make Facebook grow faster. All of these by themselves seemed really small, but they got the curve of Facebook back up. It quickly became the most prestigious group there. Mark has said that it's been one of Facebook's best innovations. According to friends of mine that worked at Facebook at the time, it really turned around the dynamic of the company. And it went from this thing where everyone was feeling bad, and momentum was gone, back to a place that was winning.
+
+
+## ESTABLISH AN OPERATING RHYTHM EARLY
 
 ### So a good way to keep momentum is to establish an operating rhythm at the company early. Where you ship product and launch new features on a regular basis. Where you're reviewing metrics every week with the entire company. This is actually one of the best things your board can do for you. Boards add value to business strategy only rarely. But very frequently you can use them as a forcing function to get the company to care about metrics and milestones.
 
-### One thing that often disrupts momentum and really shouldn't is competitors. Competitors making noise in the press I think probably crushes a company's momentum more often than any other external factor.
+
+## DON'T LET COMPETITORS DISRUPT MOMENTUM
+
+### One thing that often disrupts momentum and really shouldn't is competitors. Competitors making noise in the press probably crushes a company's momentum more often than any other external factor.
 
 ### So here's a good rule of thumb: don't worry about a competitor at all, until they're actually beating you with a real, shipped product. Press releases are easier to write than code, and that is still easier than making a great product. So remind your company of this, and this is sort of a founder's role, is not to let the company get down because of the competitors in the press.
 
