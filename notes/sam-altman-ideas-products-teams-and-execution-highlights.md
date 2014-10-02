@@ -273,45 +273,45 @@ Sources:
 
 ### Choosing co-founders is one of the most important decisions you make in the life of your startup and you need to treat it as such.
 
-### Choosing a random random cofounder, or choosing someone you don't have a long history with, choosing someone you're not friends with, usually ends up in disaster.
+### Choosing a random random co-founder, or choosing someone you don't have a long history with, choosing someone you're not friends with, usually ends up in disaster.
 
-### A good way to meet a cofounder is to meet in college.
+### A good way to meet a co-founder is to meet in college.
 
-### If you're not in college and you don't know a cofounder, the next best thing I think is to go work at an interesting company.
+### If you're not in college and you don't know a co-founder, the next best thing I think is to go work at an interesting company.
 
-### It's better to have no cofounder than to have a bad cofounder, but it's still bad to be a solo founder.
+### It's better to have no co-founder than to have a bad co-founder, but it's still bad to be a solo founder.
 
 ### For the top twenty most valuable YC companies, almost all of them have at least two founders. And we probably funded a rate of like one out of ten solo teams.
 
 
 ## YOU NEED RELENTLESSLY RESOURCEFUL CO-FOUNDERS
 
-### You definitely need "relentlessly resourceful" cofounders.
+### You definitely need "relentlessly resourceful" co-founders.
 
-### You're looking for cofounders that need to be unflappable, tough, they know what to do in every situation. They act quickly, they're decisive, they're creative, they're ready for anything. They're like James Bond.
+### You're looking for co-founders that need to be unflappable, tough, they know what to do in every situation. They act quickly, they're decisive, they're creative, they're ready for anything. They're like James Bond.
 
 ### You need someone that behaves like James Bond more than you need someone that is an expert in some particular domain.
 
-### As I mentioned earlier, you really want to know your cofounders for awhile, ideally years.
+### As I mentioned earlier, you really want to know your co-founders for awhile, ideally years.
 
 
 ## YOU WANT A TOUGH AND CALM CO-FOUNDER
 
-### In addition to relentlessly resourceful, you want a tough and a calm cofounder. Especially if you feel like you yourself aren't, you need a cofounder who is.
+### In addition to relentlessly resourceful, you want a tough and a calm co-founder. Especially if you feel like you yourself aren't, you need a co-founder who is.
 
 
 ## YOU WANT A TECHNICAL CO-FOUNDER
 
-### If you aren't technical you want a technical cofounder.
+### If you aren't technical you want a technical co-founder.
 
-### It's become popular to say, "We don't need a technical cofounders, we're gonna hire people, we're just gonna be great managers." That doesn't work too well in our experience.
+### It's become popular to say, "We don't need a technical co-founders, we're gonna hire people, we're just gonna be great managers." That doesn't work too well in our experience.
 
 ### Software people should really be starting software companies. Media people should be starting media companies.
 
 
 ## TWO OR THREE FOUNDERS IS IDEAL
 
-### In the YC experience, two or three cofounders seems to be about perfect. One, obviously not great. Five, really bad. Four works sometimes, but two or three I think is the target.
+### In the YC experience, two or three co-founders seems to be about perfect. One, obviously not great. Five, really bad. Four works sometimes, but two or three I think is the target.
 
 
 ## TRY NOT TO HIRE
@@ -413,7 +413,7 @@ Sources:
 
 ### Try to work on a project together instead of an interview. If you are going to interview, which you probably will, you should ask specifically about projects that someone worked on in the past. You'll learn a lot more than you will with brainteasers.
 
-### For some reason, young technical cofounders love to ask brainteasers rather than just ask what someone has done. Really dig in to projects people have worked on.
+### For some reason, young technical co-founders love to ask brainteasers rather than just ask what someone has done. Really dig in to projects people have worked on.
 
 
 ## CALL REFERENCES
@@ -513,7 +513,7 @@ Sources:
 
 ## WHEN RELATIONSHIPS SOUR
 
-### What happens when your relationship with your cofounder falls apart? Every co-founder, including yourself of course, has to have vesting. Basically what you're doing with co-founder vesting is you're pre-negotiating what happens if one of you leaves. The normal stance on this in Silicon Valley is that it takes four years, let's say you split the equity fifty-fifty, is that it takes four years to earn all of that. And the clock doesn't start until one year in. So if you leave after one year, you keep twenty-five percent of your share of equity, and if you leave after two years, fifty, and on and on like that.
+### What happens when your relationship with your co-founder falls apart? Every co-founder, including yourself of course, has to have vesting. Basically what you're doing with co-founder vesting is you're pre-negotiating what happens if one of you leaves. The normal stance on this in Silicon Valley is that it takes four years, let's say you split the equity fifty-fifty, is that it takes four years to earn all of that. And the clock doesn't start until one year in. So if you leave after one year, you keep twenty-five percent of your share of equity, and if you leave after two years, fifty, and on and on like that.
 
 ### If you don't do that and one founder leaves early on with half the company, you have this deadweight on your equity table, and it's very hard to get investors to fund you or to do anything else.
 
@@ -525,7 +525,7 @@ Sources:
 
 ## REMOTE CO-FOUNDERS
 
-### What about cofounders that aren't working in the same location? The answer is, don't do it. I am skeptical of remote teams in general but in the early days of a startup, when communication and speed outweigh everything else, for some reason video conferencing calls just don't work that well. The data on this is look at say the most dirty successful software companies of all time and try to point to a single example where the co-founders were in different locations. It's really really tough.
+### What about co-founders that aren't working in the same location? The answer is, don't do it. I am skeptical of remote teams in general but in the early days of a startup, when communication and speed outweigh everything else, for some reason video conferencing calls just don't work that well. The data on this is look at say the most dirty successful software companies of all time and try to point to a single example where the co-founders were in different locations. It's really really tough.
 
 
 ---
