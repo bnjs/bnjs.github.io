@@ -5,8 +5,10 @@ permalink: notes/sam-altman-ideas-products-teams-and-execution-highlights/
 ---
 
 <style>
+h3 {
+  font-weight: normal;
+}
 h3 span {
-background-color: yellow;
 }
 </style>
 
@@ -18,11 +20,11 @@ This is a work in progress.
 
 # Introduction
 
-### <span>30%</span> of YC startup advice is generally applicable
+### 30% of YC startup advice is generally applicable
 
 ### YC startup advice is for startups aiming for <span>hyper growth<span>
 
-### You need a great <span>idea</span>, a great <span>product</span>, a great team, and great <span>execution</span>.
+### You need a <span>great idea</span>, a <span>great product</span>, a <span>great team</span>, and <span>great execution</span>.
 
 ### The outcome of a startup is something like <span>idea x product x execution x team x luck</span>, where luck is a random number between zero and ten thousand.
 
