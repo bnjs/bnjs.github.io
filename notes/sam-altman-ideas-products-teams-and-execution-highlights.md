@@ -14,9 +14,7 @@ h3 span {
 
 ---
 
-This is a work in progress.
-
-*Note: the following are not necessarily direct quotes, many are paraphrased and subject to my interpretation.*
+**Work in progress!** The goal here is to cut out unnecessary bits and provide headings to summarize key points. Paraphrasing is based on my interpretation and comes at the cost of lost context/nuance. See linked sources for full text/videos.
 
 Sources:
 
