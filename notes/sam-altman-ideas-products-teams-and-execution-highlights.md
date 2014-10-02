@@ -18,6 +18,11 @@ This is a work in progress.
 
 *Note: the following are not necessarily direct quotes, many are paraphrased and subject to my interpretation.*
 
+Sources:
+
+- [Lecture 1: How to Start a Startup](http://tech.genius.com/Sam-altman-lecture-1-how-to-start-a-startup-annotated)
+- [Lecture 2: Ideas, Products, Teams and Execution Part II](http://tech.genius.com/Sam-altman-lecture-2-ideas-products-teams-and-execution-part-ii-annotated)
+
 # Introduction
 
 ### 30% of YC startup advice is generally applicable
