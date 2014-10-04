@@ -232,8 +232,7 @@ Based on Sam Altman's talks on "[Ideas, Products](http://tech.genius.com/Sam-alt
 * <input type="checkbox"> You show up a lot. You come to meetings, you come in, you meet people in person. You get on planes in marginal situations.
 * <input type="checkbox"> You want to be winning all the time.
 * <input type="checkbox"> You always keep momentum, it's the prime directive for managing your startup.
-* <input type="checkbox"> If you're a software startup, you keep growing.
-* <input type="checkbox"> If you're a hardware startup, you don't let your ship dates slip.
+* <input type="checkbox"> If you're a software startup, you keep growing. If you're a hardware startup, you don't let your ship dates slip.
 * <input type="checkbox"> You get the product right at the beginning in order to not to lose momentum later.
 * <input type="checkbox"> If you do lose momentum, you don't give long speeches about vision for the company and try to rally the troops with speeches. You save the vision speeches for when the company is winning.
 * <input type="checkbox"> When you're not winning, you get momentum back in small wins. You figure out where you can get these small wins and you get that done.
