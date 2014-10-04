@@ -13,18 +13,18 @@ title: Benjamin Sullivan
 {% for post in site.posts %}
 {% if post.path contains "_drafts" %}
 {% else %}
-## [{{ post.title }}]({{ post.url }})
+## [{{ post.title }}]({{ post.url }}) <span class="lowkey">{{ post.date | date: "%h %d, %Y" }}</span>
 {% endif %}
 {% endfor %}
 
-## [Why I Want an iWatch](/why-i-want-an-iwatch)
+## [Why I Want an iWatch](/why-i-want-an-iwatch) <span class="lowkey">Sept 4, 2014</span>
 
-## [Expressing the Liar Paradox in Ruby](/expressing-the-liar-paradox-in-ruby)
+## [Expressing the Liar Paradox in Ruby](/expressing-the-liar-paradox-in-ruby) <span class="lowkey">Aug 24, 2014</span>
 
 {% if site.base_url == 'http://localhost:4000' %}
 {% for post in site.posts %}
 {% if post.path contains "_drafts" %}
-## <a href="{{ post.url }}" style="color:#f66">{{post.title}}</a>
+## <a href="{{ post.url }}" style="color:#f66">{{post.title}}</a> <span class="lowkey">{{ post.date | date: "%h %d, %Y" }}</span>
 {% else %}
 {% endif %}
 {% endfor %}
