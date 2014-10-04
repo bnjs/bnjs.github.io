@@ -537,7 +537,7 @@ Sources:
 
 ### Execution for most founders is not the most fun part of running the company, but it is the most critical.
 
-### What being a co-founder really means, is signing up for this years long grind on execution and you can't outsource this.
+### What being a co-founder really means, is signing up for this year's long grind on execution and you can't outsource this.
 
 
 ## THE COMPANY NEEDS TO SEE YOU AS THIS MANIACAL EXECUTION MACHINE
@@ -617,7 +617,7 @@ Sources:
 
 ## STARTUPS ONLY WORK AT A FAIRLY INTENSE LEVEL
 
-### The other piece for focus besides execution is intensity. Startups only work at a fairly intense level. A friend of mine says the secret to start up success is extreme focus and extreme dedication. You can have a startup and one other thing. You can have a family, but you probably can't have many other things. Startups are not the best choice for work life balance and that's sort of just the sad reality. Startups are all-consuming in a way that is generally difficult to explain. You basically need to be willing to outwork your competitors.
+### The other piece for [execution besides focus] is intensity. Startups only work at a fairly intense level. A friend of mine says the secret to start up success is extreme focus and extreme dedication. You can have a startup and one other thing. You can have a family, but you probably can't have many other things. Startups are not the best choice for work life balance and that's sort of just the sad reality. Startups are all-consuming in a way that is generally difficult to explain. You basically need to be willing to outwork your competitors.
 
 
 ## A SMALL AMOUNT OF EXTRA WORK ON THE RIGHT THINGS MAKES A HUGE DIFFERENCE
