@@ -35,7 +35,9 @@ title: Benjamin Sullivan
 
 # Notes
 
-## [Sam Altman "Ideas, Products, Teams and Execution" Highlights](/notes/sam-altman-ideas-products-teams-and-execution-highlights/)
+## [Startup Checklist](/notes/startup-checklist/) <span class="lowkey">Oct 5, 2014</span>
+
+## [Sam Altman "Ideas, Products, Teams and Execution" Highlights](/notes/sam-altman-ideas-products-teams-and-execution-highlights/) <span class="lowkey">Oct 3, 2014</span>
 
 ---
 
