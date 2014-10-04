@@ -36,7 +36,7 @@ Based on Sam Altman's talks on "[Ideas, Products](http://tech.genius.com/Sam-alt
 ## General
 
 * <input type="checkbox"> You are aiming for [hyper growth](http://www.paulgraham.com/growth.html).
-* <input type="checkbox"> You have a great idea, a great product, a great team, and great execution.
+* <input type="checkbox"> You're aiming for a great idea, a great product, a great team, and great execution.
 * <input type="checkbox"> You are not starting a startup just for the sake of doing so.
 * <input type="checkbox"> You feel compelled by a particular problem and think starting a company is the best way to solve it.
 
