@@ -237,7 +237,7 @@ Based on Sam Altman's talks on "[Ideas, Products](http://tech.genius.com/Sam-alt
 * <input type="checkbox"> If you do lose momentum, you don't give long speeches about vision for the company and try to rally the troops with speeches. You save the vision speeches for when the company is winning.
 * <input type="checkbox"> When you're not winning, you get momentum back in small wins. You figure out where you can get these small wins and you get that done.
 * <input type="checkbox"> If you have momentum sag and there's disagreement among the team about what to do, you ask your users and you do whatever your users tell you.
-* <input type="checkbox"> You have to remind people: "Hey, stuff's not working right now, we don't actually hate each other, we just need to get back on track and everything will work." You call it out, you acknowledge it.
+* <input type="checkbox"> You remind people: "Hey, stuff's not working right now, we don't actually hate each other, we just need to get back on track and everything will work." You call it out, you acknowledge it.
 * <input type="checkbox"> In order to keep momentum you establish an operating rhythm at the company early. You ship product and launch new features on a regular basis. You review metrics every week with the entire company. You use your board as a forcing function to get the company to care about metrics and milestones.
 * <input type="checkbox"> You don't let competitors disrupt momentum.
 * <input type="checkbox"> You don't worry about a competitor at all, until they're actually beating you with a real, shipped product.
