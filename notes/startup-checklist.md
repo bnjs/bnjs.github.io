@@ -6,8 +6,17 @@ permalink: notes/startup-checklist/
 
 <style>
 ul { padding: 0 }
-ul li { list-style-type: none; }
+
+ul li {
+  list-style-type: none;
+  color: #000;
+}
+
+#all_controls a {
+  font-weight: bold;
+}
 </style>
+
 
 <script>
 $(function(){
@@ -18,10 +27,26 @@ $('#result_total').html(check_count);
 $('#result_percent').html('0');
 
 $(document).on('click', 'input[type="checkbox"]', function(){
+  updateResult();
+});
+
+$(document).on('click', '#select_all', function(){
+  $('input[type="checkbox"]').prop('checked',true);
+  updateResult();
+  return false;
+});
+
+$(document).on('click', '#clear_all', function(){
+  $('input[type="checkbox"]').prop('checked',false);
+  updateResult();
+  return false;
+});
+
+function updateResult(){
   var checked_count = $('input[type="checkbox"]:checked').length;
   $('#result_checked').html(checked_count);
   $('#result_percent').html(((checked_count / check_count) * 100).toFixed(0));
-});
+}
 
 });
 </script>
@@ -32,6 +57,11 @@ $(document).on('click', 'input[type="checkbox"]', function(){
 
 Based on Sam Altman's talks on "[Ideas, Products](http://tech.genius.com/Sam-altman-lecture-1-how-to-start-a-startup-annotated), [Teams and Execution](http://tech.genius.com/Sam-altman-lecture-2-ideas-products-teams-and-execution-part-ii-annotated)", part of his course [CS183B "How to Start a Startup"](http://startupclass.samaltman.com/) at Stanford University.
 
+<div id="all_controls">
+  <button id="select_all">Select all</button> - <button id="clear_all">Clear</button>
+</div>
+
+<br/>
 
 ## General
 
