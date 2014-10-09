@@ -255,7 +255,7 @@ Based on Sam Altman's talks on "[Ideas, Products](http://tech.genius.com/Sam-alt
 * <input type="checkbox"> You have a bias towards action.
 * <input type="checkbox"> You work on things that seem small but you move really quickly. You get things done really quickly.
 * <input type="checkbox"> Every time someone outside the company talks to you, you've gotten new things done.
-* <input type="checkbox"> You did big things in incremental pieces.
+* <input type="checkbox"> You do big things in incremental pieces.
 * <input type="checkbox"> You pick the right size projects. Even if you have huge goals, you still break it into smaller projects.
 * <input type="checkbox"> You respond to e-mail quickly, you make decisions quickly, you're generally quick in all of these ways.
 * <input type="checkbox"> You have a "do whatever it takes" attitude.
