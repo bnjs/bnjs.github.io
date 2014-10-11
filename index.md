@@ -45,7 +45,7 @@ title: Benjamin Sullivan
 
 ## [Startup Checklist](/notes/startup-checklist/) <span class="lowkey">Oct 5, 2014</span>
 
-## [CS183B Lecture 1/2: Sam Altman "Ideas, Products, Teams and Execution" Notes](/notes/sam-altman-ideas-products-teams-and-execution-highlights/) <span class="lowkey">Oct 3, 2014</span>
+## [CS183B Lectures 1+2: Sam Altman "Ideas, Products, Teams and Execution" Notes](/notes/sam-altman-ideas-products-teams-and-execution-highlights/) <span class="lowkey">Oct 3, 2014</span>
 
 ---
 
