@@ -14,7 +14,7 @@ h3 span {
 
 ---
 
-**Work in progress!** The goal here is to cut out unnecessary bits and provide headings to summarize key points. Paraphrasing is based on my interpretation and comes at the cost of lost context/nuance. See linked sources for full text/videos.
+The goal here is to cut out unnecessary bits and provide headings to summarize key points. Paraphrasing is based on my interpretation and comes at the cost of lost context/nuance. See linked sources for full text/videos.
 
 Sources:
 
