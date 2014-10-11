@@ -193,7 +193,7 @@ Sources:
 
 ### I've read that the same is true in the military—that the swaggering recruits are no more likely to turn out to be really tough than the quiet ones. And probably for the same reason: that the tests involved are so different from the ones in their previous lives.
 
-### **If you're unsure where you're up to it, the only way to find out is to try (after college)**
+### **If you're unsure whether you're up to it, the only way to find out is to try (after college)**
 
 ### If you're absolutely terrified of starting a startup, you probably shouldn't do it. But if you're merely unsure whether you're up to it, the only way to find out is to try. Just not now.
 
