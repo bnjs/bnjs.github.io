@@ -14,7 +14,7 @@ h3 span {
 
 ---
 
-The goal here is to cut out unnecessary bits and provide headings to summarize key points. Paraphrasing is based on my interpretation and comes at the cost of lost context/nuance. See linked sources for full text/videos.
+**Note: This is a condensed version of talks by Sam Altman. I've trimmed it down to its core points and added headings for readability. There is paraphrasing and rephrasing based on my own personal interpretation. Please see the sources for the full original transcripts.**
 
 Sources:
 

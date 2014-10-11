@@ -14,6 +14,8 @@ h3 span {
 
 ---
 
+**Note: This is a condensed version of a talk by Dustin Moskovitz. I've trimmed it down to its core points and added headings for readability. There is paraphrasing and rephrasing based on my own personal interpretation. Please see the source for the full original transcript.**
+
 Source: [Lecture 1: How to Start a Startup](http://tech.genius.com/Sam-altman-lecture-1-how-to-start-a-startup-annotated)
 
 ### There's a bunch of common reasons that people have that I hear all the time for why you might start a startup. It's important to know what reason is yours, because some of them only make sense in certain contexts, some of them will actually lead you astray. You may have been mislead by the way that Hollywood or the press likes to romanticize entrepreneurship, so I want to try to illuminate some of those potential fallacies, so you can make the decision in a clear way. And then I'll talk about the reason I like best for actually starting a startup. Surprisingly, I don't think it's the most common reason. Usually people have one of these other reasons, or they just want to start a company for the sake of starting a company.
