@@ -144,7 +144,7 @@ Source: [Lecture 5: Business Strategy and Monopoly Theory](http://tech.genius.co
 
 ## 4. Last mover advantage
 
-### **It's not enough to have a monopoloy for just a moment; have one that lasts over time**
+### **It's not enough to have a monopoly for just a moment; have one that lasts over time**
 
 ### Now the critical thing about these monopolies is it's not enough to have a monopoly for just a moment. The critical thing is have one that lasts over time. So in Silicon Valley there is always this idea that you want to be the first mover and I always think in some ways the better framing is you want to be the last mover. You want to be the last company in a category. Those are the ones that are really valid. Microsoft was the last operating system, at least for many decades. Google is the last search engine. Facebook will be valuable if it turns out to be the last of social networking site.
 
