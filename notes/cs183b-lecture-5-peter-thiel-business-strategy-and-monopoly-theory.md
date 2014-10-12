@@ -152,7 +152,7 @@ Source: [Lecture 5: Business Strategy and Monopoly Theory](http://tech.genius.co
 
 ### One way to think of this last mover value is this idea that most of the value in these companies exists far in the future. If you do a discounted cash flow analysis of a business, you have all these profit streams, you have a growth rate, the growth rate's much higher that the discount rate and so most of the value exists far in the future. I did this exercise at PayPal in March of 2001. We'd been in business for about twenty seven months and the growth rate was a hundred percent a year, we were discounting future cash flows by about thirty percent, and it turned out that about three quarters of the value of the business as of 2001 came from cash flows in years 2011 and beyond.
 
-### **For emerging Internet companies in 2014, 85% of the value is from cash flows in 2014 and beyond**
+### **For emerging Internet companies in 2014, 85% of the value is from cash flows in 2024 and beyond**
 
 ### Whenever you do the math on any of these tech companies, you get to an answer that is something like that. So if you are trying to analyze any of the tech companies in Silicon Valley, AirBnB, Twitter, Facebook, any emerging Internet companies, all the ones in Y Combinator, the math tells you that three quarters, eighty-five percent of the value is coming from cash flows in years 2024 and beyond. It's very very far in the future.
 
