@@ -35,7 +35,7 @@ title: Benjamin Sullivan
 
 # Notes
 
-## [CS183B Lecture 5: Peter Thiel "Business Strategy and Monopoly Theory" Notes](/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/) <span class="lowkey">WIP</span>
+## [CS183B Lecture 5: Peter Thiel "Business Strategy and Monopoly Theory" Notes](/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/) <span class="lowkey">Oct 12, 2014</span>
 
 ## [CS183B Lecture 4: Adora Cheung "Building Product, Talking to Users, and Growing" Notes](/notes/cs183b-lecture-4-adora-cheung-building-product-talking-to-users-and-growing/) <span class="lowkey">WIP</span>
 
