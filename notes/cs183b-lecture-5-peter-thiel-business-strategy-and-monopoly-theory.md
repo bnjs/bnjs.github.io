@@ -160,7 +160,7 @@ Source: [Lecture 5: Business Strategy and Monopoly Theory](http://tech.genius.co
 
 ### So one of the things that we always overvalue in Silicon Valley is growth rates, and we undervalue durability. Because growth is something you can measure in the here and now, and you can always track that very precisely. The question of whether a company is still going to be around a decade from now, that's actually what dominates the value equation and that's a much more qualitative sort of a thing.
 
-### **There's a time dimension to these characteristics of monoplogy**
+### **There's a time dimension to these characteristics of monopoly**
 
 ### So if we went back to this idea of these characteristics of monopoly, proprietary technology, network effects, economies of scale, you can think of these characteristics as ones that exist at a moment in time where you capture a market and take it over but you also want to think about, are these things going to last over time. So there's a time dimension to all these characteristics.
 
