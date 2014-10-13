@@ -176,7 +176,7 @@ Source: [Lecture 5: Business Strategy and Monopoly Theory](http://tech.genius.co
 
 ### So there's always this question about having a huge breakthrough in technology, but then also being able to explain why yours will be the last breakthrough or at least the last breakthrough for a long time, or will you make a breakthrough and then you can keep improving on it at a quick enough pace that no one can ever catch up. So if you have a structure of the future where there's a lot of innovation and other people will come up with new things in the thing you're working on, that's great for society, but it's actually not that good for your business typically.
 
-### And then economies of scale we've already about.
+### And then economies of scale we've already talked about.
 
 ### **"You must begin by studying the end game"**
 
