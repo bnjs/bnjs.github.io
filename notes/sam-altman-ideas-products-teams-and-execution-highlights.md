@@ -1,5 +1,6 @@
 ---
 layout: share-post
+subnav: cs183b
 title: 'CS183B Lectures 1+2: Sam Altman "Ideas, Products, Teams and Execution" Notes'
 permalink: notes/sam-altman-ideas-products-teams-and-execution-highlights/
 ---

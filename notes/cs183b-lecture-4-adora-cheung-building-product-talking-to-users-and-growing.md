@@ -1,5 +1,6 @@
 ---
 layout: share-post
+subnav: cs183b
 title: 'CS183B Lecture 4: Adora Cheung "Building Product, Talking to Users, and Growing" Notes'
 permalink: notes/cs183b-lecture-4-adora-cheung-building-product-talking-to-users-and-growing/
 ---

@@ -1,5 +1,6 @@
 ---
 layout: share-post
+subnav: cs183b
 title: 'CS183B Lecture 3: Paul Graham "Counterintuitive Parts of Startups, and How to Have Ideas" Notes'
 permalink: notes/cs183b-lecture-3-paul-graham-counterintuitive-parts-of-startups-and-how-to-have-ideas/
 ---

@@ -45,7 +45,7 @@
         <br/>
         <br/>
 
-        {% if site.base_url == 'http://localhost:4000' %}
+        {% if site.base_url == 'http://localhost:4000false' %}
         <h2><a href="/modus-operandi">Modus Operandi</a></h2>
         <h2><a href="/goals">Goals &amp; KPI</a></h2>
         <h2><a href="/schedule">Schedule</a></h2>
@@ -53,6 +53,15 @@
         <h2><a href="/action-script">Action Script</a></h2>
         <h2><a href="/want-to-do">Want to Do</a></h2>
         {% endif %}
+
+        {% if page.subnav == 'cs183b' %}
+        <h3><a href="/notes/sam-altman-ideas-products-teams-and-execution-highlights/">Lectures 1+2: Sam Altman "Ideas, Products, Teams and Execution" Notes</a></h3>
+        <h3><a href="/notes/cs183b-lecture-1-dustin-moskovitz-why-to-start-a-startup/">Lecture 1: Dustin Moskovitz "Why to Start a Startup" Notes</a></h3>
+        <h3><a href="/notes/cs183b-lecture-3-paul-graham-counterintuitive-parts-of-startups-and-how-to-have-ideas/">Lecture 3: Paul Graham "Counterintuitive Parts of Startups, and How to Have Ideas" Notes</a></h3>
+        <h3><a href="/notes/cs183b-lecture-4-adora-cheung-building-product-talking-to-users-and-growing/">Lecture 4: Adora Cheung "Building Product, Talking to Users, and Growing" Notes</a></h3>
+        <h3><a href="/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/">Lecture 5: Peter Thiel "Business Strategy and Monopoly Theory" Notes</a></h3>
+        {% endif %}
+
       </header>
 
       <section>

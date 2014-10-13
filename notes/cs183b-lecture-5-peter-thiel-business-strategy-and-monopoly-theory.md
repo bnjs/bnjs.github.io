@@ -1,5 +1,6 @@
 ---
 layout: share-post
+subnav: cs183b
 title: 'CS183B Lecture 5: Peter Thiel "Business Strategy and Monopoly Theory" Notes'
 permalink: notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/
 ---

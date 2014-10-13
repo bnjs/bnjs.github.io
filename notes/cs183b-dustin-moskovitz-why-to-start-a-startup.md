@@ -1,5 +1,6 @@
 ---
 layout: share-post
+subnav: cs183b
 title: 'CS183B Lecture 1: Dustin Moskovitz "Why to Start a Startup" Notes'
 permalink: notes/cs183b-lecture-1-dustin-moskovitz-why-to-start-a-startup/
 ---
