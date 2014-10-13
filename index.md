@@ -72,7 +72,7 @@ title: Benjamin Sullivan
 <h2>
   <a href="http://www.meetup.com/LeanStartupTokyo/" target="_blank">Bootstrap Lunch</a>
   <br/>
-  <span class="lowkey">Up to 7 entrepreneurs meet over coffee every other Saturday (founding organizer)</span>
+  <span class="lowkey">Up to 7 people meet over coffee every other Saturday to discuss startups (founding organizer)</span>
 </h2>
 
 <h2>
