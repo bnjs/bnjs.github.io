@@ -22,7 +22,7 @@ Source: [Lecture 5: Business Strategy and Monopoly Theory](http://tech.genius.co
 
 ### **You always want to aim for monopoly and avoid competition**
 
-### I sort of have a single idée fixe that I'm completely obsessed with on the business side which is that if you're starting a company, if you're the founder, entrepreneur, starting a company you always want to aim for monopoly and you want to always avoid competition. And so hence competition is for losers, something we'll be talking about today.
+### I sort of have a single *idée fixe* that I'm completely obsessed with on the business side which is that if you're starting a company, if you're the founder, entrepreneur, starting a company you always want to aim for monopoly and you want to always avoid competition. And so hence competition is for losers, something we'll be talking about today.
 
 ---
 
@@ -122,7 +122,7 @@ Source: [Lecture 5: Business Strategy and Monopoly Theory](http://tech.genius.co
 
 ### **Proprietary technology (an order of magnitude better than the next best thing)**
 
-### One characteristic of a monopoly technology company is some sort of proprietary technology. My sort of crazy, somewhat arbitrary rule of thumb is you want to have a technology that's an order of magnitude better than the next best thing. So Amazon had over ten times as many books, it may not have been that high tech, but you figure out a way to sell ten times as many books in an efficient online way. The alternative for PayPal was using checks to send money on Ebay, it took seven to ten days to clear, PayPal could do it more than ten times as fast. So you want to have some sort of very powerful improvement in some order of magnitude improvement, on some key dimension. Of course, if you actually come with something totally new, it's just like an infinite improvement. So I would say the iPhone was the first smartphone that worked and so that's, maybe not infinite, but it's definitely an order of magnitude or more of an improvement. So I think the technology is designed to give you a massive delta over the next the next best thing.
+### One characteristic of a monopoly technology company is some sort of proprietary technology. My sort of crazy, somewhat arbitrary rule of thumb is you want to have a technology that's an order of magnitude better than the next best thing. So Amazon had over ten times as many books, it may not have been that high tech, but you figure out a way to sell ten times as many books in an efficient online way. The alternative for PayPal was using checks to send money on Ebay, it took seven to ten days to clear, PayPal could do it more than ten times as fast. So you want to have some sort of very powerful improvement in some order of magnitude improvement, on some key dimension. Of course, if you actually come up with something totally new, it's just like an infinite improvement. So I would say the iPhone was the first smartphone that worked and so that's, maybe not infinite, but it's definitely an order of magnitude or more of an improvement. So I think the technology is designed to give you a massive delta over the next best thing.
 
 ### **Network effects**
 
