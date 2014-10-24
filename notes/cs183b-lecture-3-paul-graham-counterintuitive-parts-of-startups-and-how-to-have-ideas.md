@@ -24,17 +24,17 @@ Sources:
 
 ---
 
-### One of the advantages of having kids is that when you have to give advice, you can ask yourself "what would I tell my own kids?" My kids are little, but I can imagine what I'd tell them about startups if they were in college, and that's what I'm going to tell you.
-
 ### **Startups are counterintuitive**
 
-### Startups are very counterintuitive. I'm not sure why. Maybe it's just because knowledge about them hasn't permeated our culture yet. But whatever the reason, starting a startup is a task where you can't always trust your instincts.
+### Startups are counterintuitive. Knowledge about them hasn't permeated our culture. You can't always trust your instincts.
 
 ### **It's like skiing**
 
-### It's like skiing in that way. When you first try skiing and you want to slow down, your instinct is to lean back. But if you lean back on skis you fly down the hill out of control. So part of learning to ski is learning to suppress that impulse. Eventually you get new habits, but at first it takes a conscious effort. At first there's a list of things you're trying to remember as you start down the hill.
+### It's the same kind of counterintuitiveness as in skiing. In order to learn to ski you need to learn new habits.
 
-### Startups are as unnatural as skiing, so there's a similar list for startups. Here I'm going to give you the first part of it -- the things to remember if you want to prepare yourself to start a startup.
+### **Things to remember**
+
+### This talk/essay is a list of the things to remember if you want to prepare yourself to start a startup.
 
 ---
 
@@ -42,27 +42,31 @@ Sources:
 
 ### **If you trust your instincts, you'll make a lot of mistakes**
 
-### The first item on it is the fact I already mentioned: that startups are so weird that if you trust your instincts, you'll make a lot of mistakes. If you know nothing more than this, you may at least pause before making them.
+### Startups are so weird that if you trust your instincts, you'll make a lot of mistakes.
 
 ### **YC founders often ignore YC partner warnings**
 
-### When I was running Y Combinator I used to joke that our function was to tell founders things they would ignore. It's really true. Batch after batch, the YC partners warn founders about mistakes they're about to make, and the founders ignore them, and then come back a year later and say "I wish we'd listened."
+### The YC partners warn founders about mistakes they're about to make, founders often ignore them and regret it.
 
 ### **You only need advice that surprises you**
 
-### Why do the founders ignore the partners' advice? Well, that's the thing about counterintuitive ideas: they contradict your intuitions. They seem wrong. So of course your first impulse is to disregard them. And in fact my joking description is not merely the curse of Y Combinator but part of its raison d'etre. If founders' instincts already gave them the right answers, they wouldn't need us. You only need other people to give you advice that surprises you. That's why there are a lot of ski instructors and not many running instructors.
+### The thing about counterintuitive ideas is they contradict your intuitions, so of course your first impulse is to disregard them.
+
+### If founders' instincts already gave them the right answers, they wouldn't need YC.
+
+### You only need people to give you advice that surprises you.
 
 ### **Trust your instincts about people**
 
-### You can, however, trust your instincts about people. And in fact one of the most common mistakes young founders make is not to do that enough. They get involved with people who seem impressive, but about whom they feel some misgivings personally. Later when things blow up they say "I knew there was something off about him, but I ignored it because he seemed so impressive."
+### Your instincts about people are an exception, you can and should trust those.
 
 ### **If you have misgivings about someone, trust your gut**
 
-### If you're thinking about getting involved with someone—as a cofounder, an employee, an investor, or an acquirer—and you have misgivings about them, trust your gut. If someone seems slippery, or bogus, or a jerk, don't ignore it.
+###  If you have a bad feeling about a potential cofounder, employee, investor, or acquirer, trust your gut.
 
 ### **Work with people you genuinely like**
 
-### This is one case where it pays to be self-indulgent. Work with people you genuinely like, and you've known long enough to be sure.
+### This is a case where being self-indulgent is good. Work with people you really like, and who you've known long enough to be sure.
 
 ---
 
