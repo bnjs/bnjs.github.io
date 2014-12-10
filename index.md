@@ -17,8 +17,6 @@ title: Benjamin Sullivan
 {% endif %}
 {% endfor %}
 
-## [Why I Want an iWatch](/why-i-want-an-iwatch) <span class="lowkey">Sept 4, 2014</span>
-
 ## [Expressing the Liar Paradox in Ruby](/expressing-the-liar-paradox-in-ruby) <span class="lowkey">Aug 24, 2014</span>
 
 {% if site.base_url == 'http://localhost:4000' %}
