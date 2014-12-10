@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: share-post
 title: Expressing the Liar Paradox in Ruby
 ---
-
-# Expressing the Liar Paradox in Ruby
 
 I was reading about the [Liar paradox](http://en.wikipedia.org/wiki/Liar_paradox) and thought it might be interesting to try to evaluate it as a Ruby expression. The Liar paradox is usually expressed in English with something like:
 
