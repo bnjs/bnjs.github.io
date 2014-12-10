@@ -17,7 +17,7 @@ title: Benjamin Sullivan
 {% endif %}
 {% endfor %}
 
-## [Expressing the Liar Paradox in Ruby](/expressing-the-liar-paradox-in-ruby) <span class="lowkey">Aug 24, 2014</span>
+## [Expressing the Liar Paradox in Ruby?](/expressing-the-liar-paradox-in-ruby) <span class="lowkey">Aug 24, 2014</span>
 
 {% if site.base_url == 'http://localhost:4000' %}
 {% for post in site.posts %}
