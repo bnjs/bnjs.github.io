@@ -39,7 +39,7 @@ You're in a lazy rut and it's hard to get out. It takes a certain amount of ener
 
 ## III. Standards
 
-I like standards (or principles, or rules). The reason I like standards is because they make hard things easy. You don't have to think about a standard -- you're not suppose to -- you just do it... because it's a standard. It's the same for going to work or keeping a promise or paying your bills. You could decide to not do these things, you're probably survive, but you do them because they are part of a basic standard of life that is good for you, and in that way it's easy.
+I like standards (or principles, or rules). The reason I like standards is because they make hard things easy. You don't have to think about a standard -- you're not supposed to -- you just do it because it's a standard. It's the same for going to work or keeping a promise or paying your bills. You could decide to not do these things, you'd probably survive, but you do them because they are part of a basic standard of life that is good for you, and in that way it's easy.
 
 This brings us to the subject of this post, a simple rule for staying productive. It's a standard, and it really is simple:
 
@@ -68,5 +68,6 @@ These types of rules are great and there are thousands of them for all kinds of 
 * a recurring event on Google Calendar with a reminder
 * a recurring task on a todo-list app with a reminder
 * a reminder/alarm on your phone
+* social pressure (a big part of [Kenzai](https://kenzai.me)), make it a thing you talk about with your friends
 
 Once you get the habit off the ground, it will start to become a natural part of your life.
