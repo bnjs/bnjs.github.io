@@ -1,6 +1,6 @@
 ---
 layout: share-post
-title: Rails Date class, durations, Ruby inheritance, and BasicObject
+title: Rails 4.1 Date class, durations, Ruby inheritance, and BasicObject
 ---
 
 <style>
@@ -14,7 +14,7 @@ In this adventure, [David](https://twitter.com/davidstosik) stumbles upon some s
 
 ---
 
-## Rails Date class
+## Rails 4.1 Date class
 
 There is some strange behavior involving Rails `Date` class and durations like `1.day`.
 
@@ -151,6 +151,10 @@ It's a blank class.
 Indeed, it doesn't even respond to `#class`. That explains why `Duration#class` hits `method_missing` and returns `Fixnum`.
 
 The End.
+
+---
+
+**NOTE**: In Rails 4.2, `ActiveSupport::Duration` does not inherit `ActiveSupport::ProxyObject` thus not a `BasicObject`, and `1.day.class` returns `ActiveSupport::Duration`.
 
 
 *Published January 14, 2015*
