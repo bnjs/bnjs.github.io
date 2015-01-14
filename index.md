@@ -13,7 +13,7 @@ title: Benjamin Sullivan
 {% for post in site.posts %}
 {% if post.path contains "_drafts" %}
 {% else %}
-## [{{ post.title }}]({{ post.url }}) <span class="lowkey">{{ post.date | date: "%h %d, %Y" }}</span>
+## [{{ post.title }}]({{ post.url }}) <span class="lowkey" style="white-space:nowrap">{{ post.date | date: "%h %d, %Y" }}</span>
 {% endif %}
 {% endfor %}
 
