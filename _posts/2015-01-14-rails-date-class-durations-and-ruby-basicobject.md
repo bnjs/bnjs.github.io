@@ -1,6 +1,6 @@
 ---
 layout: share-post
-title: Rails 4.1 Date class, durations, Ruby inheritance, and BasicObject
+title: When 1.day is not an Object
 ---
 
 <style>
