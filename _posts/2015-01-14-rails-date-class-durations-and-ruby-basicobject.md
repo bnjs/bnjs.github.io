@@ -58,7 +58,7 @@ No, they're both `Fixnum`. How does `Date#+` know the difference?
 
 So Rails' `Date#+` (`Date#plus_with_duration`) has special handling for `ActiveSupport::Duration` instances, and everything else goes to default Ruby `Date#+`.
 
-But `1.day.class` is a `Fixnum`, right?
+But `1.day` is a `Fixnum`, right?
 
     > 1.day.class
     => Fixnum
