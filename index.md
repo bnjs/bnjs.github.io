@@ -3,7 +3,7 @@ layout: default
 title: Benjamin Sullivan
 ---
 
-<h2>Hi there. My name's Ben <span class="lowkey">and I build web apps, and help build products, teams, startups, communities.</span></h2>
+<h2>Hi there. My name's Ben <span class="lowkey">and I build systems, software, products, and rally teams, startups, communities.</span></h2>
 <h2 class="lowkey">More <a href="/about-me">about me</a></h2>
 
 ---
