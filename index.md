@@ -40,6 +40,27 @@ More <a href="/about-me">about me</a>
 {% endfor %}
 {% endif %}
 
+---
+
+# Projects
+
+<h2>
+  <a href="https://github.com/bonsaiben/nightlight" target="_blank">Nightlight</a>
+  <br/>
+  <span class="lowkey">Rails gem, shed light on the dark corners of your app</span>
+</h2>
+
+<h2>
+  <a href="https://www.tadaku.com" target="_blank">Tadaku</a>
+  <br/>
+  <span class="lowkey">Service, cook real food with real people (co-founded, built)</span>
+</h2>
+
+<h2>
+  <a href="http://www.meetup.com/tokyo-startup-circle/" target="_blank">Bootstrap Lunch</a>
+  <br/>
+  <span class="lowkey">Event, up to 7 people meet over coffee every other Saturday to discuss startups (founding organizer)</span>
+</h2>
 
 ---
 
@@ -56,28 +77,6 @@ More <a href="/about-me">about me</a>
 ## [Startup Checklist](/notes/startup-checklist/) <span class="lowkey">Oct 5, 2014</span>
 
 ## [CS183B Lectures 1+2: Sam Altman "Ideas, Products, Teams and Execution" Notes](/notes/sam-altman-ideas-products-teams-and-execution-highlights/) <span class="lowkey">Oct 3, 2014</span>
-
----
-
-# Projects
-
-<h2>
-  <a href="http://www.meetup.com/tokyo-startup-circle/" target="_blank">Bootstrap Lunch</a>
-  <br/>
-  <span class="lowkey">Up to 7 people meet over coffee every other Saturday to discuss startups (founding organizer)</span>
-</h2>
-
-<h2>
-  <a href="https://kenzai.me" target="_blank">Kenzai</a>
-  <br/>
-  <span class="lowkey">Online fitness platform based on real food, real exercise and real people (senior developer)</span>
-</h2>
-
-<h2>
-  <a href="https://www.tadaku.com" target="_blank">Tadaku</a>
-  <br/>
-  <span class="lowkey">Cook real food with real people (co-founded, built)</span>
-</h2>
 
 ---
 
