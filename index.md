@@ -4,7 +4,19 @@ title: Benjamin Sullivan
 ---
 
 <h2>Hi there. My name's Ben <span class="lowkey">and I build systems, software, products, and rally teams, startups, communities.</span></h2>
-<h2 class="lowkey">More <a href="/about-me">about me</a></h2>
+<h2 class="lowkey">
+More <a href="/about-me">about me</a>
+<div style="float:right;">
+<a href="https://twitter.com/bnjs"><i class="fa fa-twitter"></i></a>
+&nbsp;&nbsp;
+<a href="https://github.com/bonsaiben"><i class="fa fa-github"></i></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bnjsu"><i class="fa fa-linkedin"></i></a>
+</div>
+</h2>
+
+<h2>
+</h2>
 
 ---
 

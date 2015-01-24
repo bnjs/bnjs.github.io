@@ -16,3 +16,11 @@ permalink: about-me/
 
 
 ## <span class="lowkey">Get in touch with</span> <img src="/images/email.gif" />
+
+<h2>
+<a href="https://twitter.com/bnjs"><i class="fa fa-twitter"></i></a>
+&nbsp;&nbsp;
+<a href="https://github.com/bonsaiben"><i class="fa fa-github"></i></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bnjsu"><i class="fa fa-linkedin"></i></a>
+</h2>
