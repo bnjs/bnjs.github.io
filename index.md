@@ -20,7 +20,7 @@ More <a href="/about-me">about me</a>
 
 ---
 
-# Writings
+# Blog
 
 {% for post in site.posts %}
 {% if post.path contains "_drafts" %}
