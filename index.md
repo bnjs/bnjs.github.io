@@ -25,11 +25,11 @@ More <a href="/about-me">about me</a>
 {% for post in site.posts %}
 {% if post.path contains "_drafts" %}
 {% else %}
-## [{{ post.title }}]({{ post.url }}) <span class="lowkey" style="white-space:nowrap">{{ post.date | date: "%h %d, %Y" }}</span>
+## [{{ post.title }}]({{ post.url }}) <span class="lowkey" style="color:#ccc;white-space:nowrap">{{ post.date | date: "%h %d, %Y" }}</span>
 {% endif %}
 {% endfor %}
 
-## [Expressing the Liar Paradox in Ruby?](/expressing-the-liar-paradox-in-ruby) <span class="lowkey">Aug 24, 2014</span>
+## [Expressing the Liar Paradox in Ruby?](/expressing-the-liar-paradox-in-ruby) <span class="lowkey" style="color:#ccc;white-space:nowrap">Aug 24, 2014</span>
 
 {% if site.base_url == 'http://localhost:4000' %}
 {% for post in site.posts %}
