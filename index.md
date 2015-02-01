@@ -47,21 +47,26 @@ More <a href="/about-me">about me</a>
 <h2>
   <a href="https://github.com/bonsaiben/nightlight" target="_blank">Nightlight</a>
   <br/>
-  <span class="lowkey">Rails gem, shed light on the dark corners of your app</span>
+  <span class="lowkey"><em>Rails gem</em>, shed light on the dark corners of your app</span>
 </h2>
 
 <h2>
   <a href="https://www.tadaku.com" target="_blank">Tadaku</a>
   <br/>
-  <span class="lowkey">Service, cook real food with real people (co-founded, built)</span>
+  <span class="lowkey"><em>Service</em>, cook real food with real people (co-founded, built)</span>
 </h2>
 
 <h2>
-  <a href="http://www.meetup.com/tokyo-startup-circle/" target="_blank">Bootstrap Lunch</a>
+  <a href="http://www.meetup.com/tokyo-startup-circle/" target="_blank">Tokyo Startup Circle</a>
   <br/>
-  <span class="lowkey">Event, up to 7 people meet over coffee every other Saturday to discuss startups (founding organizer)</span>
+  <span class="lowkey"><em>Event</em>, up to 7 people meet over coffee every other Saturday to discuss startups (founding organizer)</span>
 </h2>
 
+<h2>
+  <a href="https://github.com/bonsaiben/bootstrap-snippets" target="_blank">Bootstrap Snippets</a>
+  <br/>
+  <span class="lowkey"><em>Vim plugin</em>, Bootstrap 3.2 markup snippets for Vim snipMate</span>
+</h2>
 ---
 
 # Notes
