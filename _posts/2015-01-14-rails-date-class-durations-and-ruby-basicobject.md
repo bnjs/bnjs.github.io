@@ -9,7 +9,7 @@ pre code { color: inherit; }
 </style>
 
 
-*FEATURED IN <a href="http://rubyweekly.com/issues/229" target="_blank">RAILS WEEKLY ISSUE #229</a>*
+*FEATURED IN <a href="http://rubyweekly.com/issues/229" target="_blank">RUBY WEEKLY ISSUE #229</a>*
 
 Once in a while working with Rails we encounter something that makes us scratch our heads. When this happens, I make a point to try to figure it out. There is a lot to be learned in the process.
 
