@@ -802,3 +802,7 @@ So here's a good rule of thumb: don't worry about a competitor at all, until the
 This great quote from Henry Ford that I love: “The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.”
 
 These are almost never the companies that put out a lot of press releases. And they bum people out.
+
+
+
+*Published October 3, 2014*

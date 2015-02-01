@@ -362,3 +362,5 @@ They were never interested in Silicon Valley or tech except for 1999, 2000 when 
 
 My first starting point, which is only going to be maybe ten percent of the way, is to never underestimate how big a problem it is. We always think that this is something that afflicts other people. Was always point to people in business school, people at Harvard or people on Wall Street, but it actually does afflict all of us to a very profound degree. We always think of advertising as this thing that works on other people, for all the stupid people who follow ads on TV, but they obviously work to some extent and they work to the disturbing extent on all of us and it's something we must work to overcome.
 
+
+*Published October 12, 2014*

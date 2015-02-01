@@ -612,3 +612,6 @@ A: Snapchat? What do I know about Snapchat? We didn't fund them. I want another 
 
 A: Starting a startup is where many things will be going wrong. You can't expect it to be perfect. The advantage is of hiring people you know and like are far greater than the small disadvantage of having some monoculture. You look at it empirically, at all the most successful startups, someone just hires all their pals out of college.
 
+
+
+*Published October 11, 2014*

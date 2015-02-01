@@ -368,3 +368,5 @@ So an example is someone who had a regular cleaner and maybe had a party one day
 
 A lot of people when they build a product they are like - and these 50 things are better than the existing solution - and even if the benefits outweigh the switchover cost it is really hard to actually tell that to a user and try to get them to aggregate all of those benefits over many little things. It is better to have one or two things that clearly differentiate yourself from the other product.
 
+
+*Published October 12, 2014*

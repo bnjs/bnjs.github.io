@@ -206,3 +206,5 @@ So drawing this back to my own experience at Asana, Justin and I were reluctant 
 
 At some point we had to have the hard conversation of, OK what does it mean if we don't actually start this company. We could see the impact it was having at Facebook, we were convinced it was valuable to the world. We were also convinced no one else was going to build it. The problem had been around a long time and we just kept seeing incremental solutions to it and so we believed if we didn't come out with the solution we thought was best, there would be a lot of value left on the table. We couldn't stop working on it and literally the idea was beating itself out of our chests and forcing itself out into the world. I think that's really the feeling you should be looking for when you start a company, that's how you know you have the right idea.
 
+
+*Published October 11, 2014*
