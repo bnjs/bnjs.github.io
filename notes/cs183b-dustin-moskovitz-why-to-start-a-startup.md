@@ -22,6 +22,39 @@ p {
 
 Source: [Lecture 1: How to Start a Startup](http://tech.genius.com/Sam-altman-lecture-1-how-to-start-a-startup-annotated)
 
+Table of Contents:
+
+- Introduction
+  - [4 common reasons](#common-reasons)
+- [1. “It’s glamorous”](#its-glamorous)
+  - [It’s hard work and stressful](#its-hard-work-and-stressful)
+  - [“Major responsbility” stress](#major-responsbility-stress)
+  - [Hard work at Facebook](#hard-work-at-facebook)
+  - [“Unwanted media attention” stress](#unwanted-media-attention-stress)
+  - [“You can’t just up and quit” stress](#you-cant-just-up-and-quit-stress)
+  - [Effects of stress on your health](#effects-of-stress-on-your-health)
+- [2. “You’re the boss”](#youre-the-boss)
+  - [Everyone else is your boss](#everyone-else-is-your-boss)
+  - [Being a CEO is really, really hard](#being-a-ceo-is-really-really-hard)
+- [3. “You have flexibility”](#you-have-flexibility)
+  - [You’re always on call](#youre-always-on-call)
+  - [You’re a role model](#youre-a-role-model)
+  - [You’re naturally always working](#youre-naturally-always-working)
+- [4. “You’ll make more money and have more impact”](#youll-make-more-money-and-have-more-impact)
+  - [Reward for joining a very successful startup](#reward-for-joining-a-very-successful-startup)
+  - [Reward for starting a moderately successful startup](#reward-for-starting-a-moderately-successful-startup)
+  - [Reward for starting a very successful startup](#reward-for-starting-a-very-successful-startup)
+  - [Potential for impact joining a company](#potential-for-impact-joining-a-company)
+  - [Bret Taylor at Google](#bret-taylor-at-google)
+  - [Justin Rosenstein at Google](#justin-rosenstein-at-google)
+  - [Justin Rosenstein at Facebook](#justin-rosenstein-at-facebook)
+- [The Best Reason](#the-best-reason)
+  - [You can’t not do it because you’re so passionate](#you-cant-not-do-it-because-youre-so-passionate)
+  - [You can’t not do it because the world needs it](#you-cant-not-do-it-because-the-world-needs-it)
+  - [You can’t not do it because you’re the best person to do it](#you-cant-not-do-it-because-youre-the-best-person-to-do-it)
+  - [Starting Asana](#starting-asana)
+
+
 ---
 
 There's a bunch of common reasons that people have that I hear all the time for why you might start a startup. It's important to know what reason is yours, because some of them only make sense in certain contexts, some of them will actually lead you astray. You may have been mislead by the way that Hollywood or the press likes to romanticize entrepreneurship, so I want to try to illuminate some of those potential fallacies, so you can make the decision in a clear way. And then I'll talk about the reason I like best for actually starting a startup. Surprisingly, I don't think it's the most common reason. Usually people have one of these other reasons, or they just want to start a company for the sake of starting a company.

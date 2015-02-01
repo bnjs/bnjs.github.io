@@ -22,6 +22,51 @@ p {
 
 Source: [Lecture 4: Building Product, Talking to Users, and Growing](http://tech.genius.com/Adora-cheung-lecture-4-building-product-talking-to-users-and-growing-annotated)
 
+Table of Contents:
+
+- [Introduction](#introduction)
+- [Prerequisities](#prerequisities)
+  - [Better to have one or two days straight per week to work on your idea, versus two hours here and there every single day](#better-to-have-one-or-two-days-straight-per-week-to-work-on-your-idea-versus-two-hours-here-and-there-every-single-day)
+- [The n00b approach](#the-n00b-approach)
+  - [“I have this great idea, I don’t want to tell anyone, I’m going to build a lot in stealth, then launch on TechCrunch and get a lot of users”](#i-have-this-great-idea-i-dont-want-to-tell-anyone-im-going-to-build-a-lot-in-stealth-then-launch-on-techcrunch-and-get-a-lot-of-users)
+  - [No one sticks around because you didn’t get that initial user feedback](#no-one-sticks-around-because-you-didnt-get-that-initial-user-feedback)
+- [Problem](#problem)
+  - [Know what problem you’re solving and be able to describe it one sentence](#know-what-problem-youre-solving-and-be-able-to-describe-it-one-sentence)
+  - [It wasn’t a problem we had and it wasn’t something we were super passionate about](#it-wasnt-a-problem-we-had-and-it-wasnt-something-we-were-super-passionate-about)
+- [Where to start?](#where-to-start)
+  - [1. Learn a lot and become an expert](#learn-a-lot-and-become-an-expert)
+  - [Become a cog in that industry for a little bit](#become-a-cog-in-that-industry-for-a-little-bit)
+  - [We bought books about how to clean, but that wasn’t enough](#we-bought-books-about-how-to-clean-but-that-wasnt-enough)
+  - [I got a job at a cleaning company and not only learned how to clean but learned how a cleaning company works](#i-got-a-job-at-a-cleaning-company-and-not-only-learned-how-to-clean-but-learned-how-a-cleaning-company-works)
+  - [If your idea is related to restaurants, become a waiter; if it’s related to painting, become a painter](#if-your-idea-is-related-to-restaurants-become-a-waiter-if-its-related-to-painting-become-a-painter)
+  - [You should be so obsessed to know what everybody in the space is doing](#you-should-be-so-obsessed-to-know-what-everybody-in-the-space-is-doing)
+  - [Become an expert in the industry](#become-an-expert-in-the-industry)
+  - [2. Identify customer segments](#identify-customer-segments)
+  - [3. Storyboard ideal user experience](#storyboard-ideal-user-experience)
+- [What is v1?](#what-is-v1)
+  - [Minimum <em>viable</em> product](#minimum-viable-product)
+  - [Simple product positioning](#simple-product-positioning)
+  - [The one-liner is very important](#the-one-liner-is-very-important)
+- [First few users](#first-few-users)
+- [Customer feedback](#customer-feedback)
+- [V1 feature creep](#v1-feature-creep)
+- [S is for stealth, and stupid](#s-is-for-stealth-and-stupid)
+- [Ready for a lot of users?](#ready-for-a-lot-of-users)
+- [Types of growth](#types-of-growth)
+  - [Sticky, viral, paid; key = sustainability](#sticky-viral-paid-key--sustainability)
+  - [1. Sticky growth](#sticky-growth)
+  - [2. Viral growth](#viral-growth)
+  - [I. Customer touch points](#i-customer-touch-points)
+  - [II. Program mechanics](#ii-program-mechanics)
+  - [III. Referral conversion flow](#iii-referral-conversion-flow)
+  - [3. Paid growth](#paid-growth)
+  - [Payback time + sustainability](#payback-time--sustainability)
+- [Pivoting](#pivoting)
+  - [Bad growth, bad retention, bad economics](#bad-growth-bad-retention-bad-economics)
+- [Q&amp;A](#qa)
+  - [Q: So one question online was if your users already have a product that they are already comfortable with how do you get them to switch to yours?](#q-so-one-question-online-was-if-your-users-already-have-a-product-that-they-are-already-comfortable-with-how-do-you-get-them-to-switch-to-yours)
+
+
 ---
 
 ## Introduction
