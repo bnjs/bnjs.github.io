@@ -34,7 +34,7 @@ More <a href="/about-me">about me</a>
 {% if site.base_url == 'http://localhost:4000' %}
 {% for post in site.posts %}
 {% if post.path contains "_drafts" %}
-## <a href="{{ post.url }}" style="color:#f66">{{post.title}}</a> <span class="lowkey">{{ post.date | date: "%h %d, %Y" }}</span>
+<!-- ## <a href="{{ post.url }}" style="color:#f66">{{post.title}}</a> <span class="lowkey">{{ post.date | date: "%h %d, %Y" }}</span> -->
 {% else %}
 {% endif %}
 {% endfor %}
