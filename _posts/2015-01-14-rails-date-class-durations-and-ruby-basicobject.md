@@ -101,9 +101,11 @@ Neither. It inherits from `ProxyObject`. Hmm, this looks like something:
 
 [https://github.com/rails/rails/blob/4-1-stable/activesupport/lib/active_support/duration.rb](https://github.com/rails/rails/blob/4-1-stable/activesupport/lib/active_support/duration.rb)
 
-If a method is missing, it calls that method on `@value`, which would be a `Fixnum`.
+If a method is missing, it calls that method on `@value`, which would be a `Fixnum`. That makes sense.
 
-That makes sense. But why would `#class` be missing? All objects respond to `#class`. Isn't `Duration` an `Object`?
+So with `1.day` (a `Duration`), `#class` is missing, `#class` is called on `@value` (`1`), and `1.class` returns `Fixnum`. That's why `1.day.class` returns `Fixnum`.
+
+But why would `#class` be missing on a `Duration`? All objects respond to `#class`. Isn't `Duration` an `Object`?
 
     > 1.day.is_a?(Object)
     => true
@@ -151,7 +153,7 @@ It's a blank class.
     NoMethodError: undefined method `class' for #<BasicObject:0x007ff3927616b8>
     from (pry):40:in `<main>'
 
-Indeed, it doesn't even respond to `#class`. That explains why `Duration#class` hits `method_missing` and returns `Fixnum`.
+Indeed, it doesn't even respond to `#class`. That's why `Duration#class` hits `method_missing`.
 
 The End.
 
