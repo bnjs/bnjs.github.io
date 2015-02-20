@@ -15,6 +15,8 @@ Once in a while working with Rails we encounter something that makes us scratch 
 
 In this adventure, [David](https://twitter.com/davidstosik) stumbles upon some strange Rails behavior and together we investigate.
 
+**UPDATE: David encounters some more fun with Rails dates and `Duration` in this follow-up post: [Rails' `1.month` has a variable length](http://dstosik.github.io/rails/2015/02/19/rails-1month-variable-length/)**
+
 ---
 
 ## Rails 4.1 Date class
