@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Me
+title: Benjamin Sullivan
 permalink: about-me/
 ---
 
