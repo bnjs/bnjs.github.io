@@ -21,7 +21,7 @@ Originally from Boston,
 <h2>
 I build systems, software, products, 
 <span class="lowkey">
-<!--br><strong>&middot;</strong> software engineer at <a href="https://www.instacart.com/" target="_blank">Instacart</a>,<-->
+<br><strong>&middot;</strong> software engineer at <a href="https://www.instacart.com/" target="_blank">Instacart</a>,
 <br><strong>&middot;</strong> previously senior developer at <a href="http://kenzai.me" target="_blank">Kenzai</a>,
 <br><strong>&middot;</strong> built <a href="http://www.tadaku.com" target="_blank">Tadaku</a> as a side project, 
 <br><strong>&middot;</strong> made <a href="http://contributors.rubyonrails.org/contributors/benjamin-sullivan/commits" target="_blank">a humble contribution</a> to Rails 4, 
