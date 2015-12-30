@@ -3,10 +3,6 @@ layout: default
 title: Ben Sullivan
 ---
 
-<a href="https://twitter.com/bnjs"><i class="fa fa-twitter"></i></a>
-<a href="https://github.com/bonsaiben"><i class="fa fa-github"></i></a>
-<a href="https://www.linkedin.com/in/bnjsu"><i class="fa fa-linkedin"></i></a>
-
 <a href="/about-me">About me</a>
 
 ## Blog
@@ -32,17 +28,13 @@ title: Ben Sullivan
 
 ## Projects
 
-<a href="https://github.com/bonsaiben/nightlight" target="_blank">Nightlight</a>
-<br/>
-<span class="lowkey"><em>Rails gem</em>, shed light on the dark corners of your app</span>
-
 <a href="https://www.tadaku.com" target="_blank">Tadaku</a>
 <br/>
-<span class="lowkey"><em>Service</em>, cook real food with real people (co-founded, built)</span>
+<span class="lowkey"><em>Service</em>, cook real food with real people (co-founded & built, acquired 2015)</span>
 
 <a href="http://www.meetup.com/tokyo-startup-circle/" target="_blank">Tokyo Startup Circle</a>
 <br/>
-<span class="lowkey"><em>Event</em>, up to 7 people meet over coffee every other Saturday to discuss startups (founding organizer)</span>
+<span class="lowkey"><em>Event</em>, up to 7 people meet over coffee every other Saturday to talk about startups (founder)</span>
 
 <a href="https://github.com/bonsaiben/bootstrap-snippets" target="_blank">Bootstrap Snippets</a>
 <br/>
@@ -64,8 +56,7 @@ CS183B
 
 [Startup Checklist](/notes/startup-checklist/)
 
-
-## Transcripts
+Transcripts
 
 [Transcript: Lecture 1 - How to Start a Startup](/2014/09/25/transcript-lecture-1-how-to-start-a-startup/)
 
