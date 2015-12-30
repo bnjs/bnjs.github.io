@@ -21,7 +21,7 @@ permalink: about-me/
 ## Startups
 
 <strong>&middot;</strong> Cofounded home cooking lesson marketplace <a href="http://www.tadaku.com" target="_blank">Tadaku</a> (acquired 2015)
-<br><strong>&middot;</strong> Started <a href="https://tokyo-startup-circle.doorkeeper.jp/" target="_blank">Tokyo Startup Circle</a>, a meetup for founders in Tokyo (60+ events, 700+ members)
+<br><strong>&middot;</strong> Started <a href="https://tokyo-startup-circle.doorkeeper.jp/" target="_blank">Tokyo Startup Circle</a>, a bi-weekly meetup for founders in Tokyo (60+ events, 700+ members)
 
 
 <span class="lowkey">Get in touch with</span> <img src="/images/email.gif">
