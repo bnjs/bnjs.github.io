@@ -5,7 +5,7 @@ title: Introducing Actual State System
 
 *Actual State System is a system for sustaining a mental state optimal for achieving goals.*
 
-Every year, millions of people make New Years resolutions for goals they want to achieve in the New Year. Making goals is easy. The abismal failure to actually achieve them is so common it's basically an Internet meme.
+Every year, millions of people make New Years resolutions for goals they want to achieve in the New Year. Making goals is easy. The abismal failure to actually achieve them is so common it's basically [an](http://imgur.com/8Pd9zTS) [Internet](http://imgur.com/a/LxM3t) [meme](http://imgur.com/cIP6dze).
 
 **Achieving goals is hard.**
 
