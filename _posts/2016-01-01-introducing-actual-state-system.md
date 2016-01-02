@@ -47,7 +47,7 @@ Let's pause and recap. You are a collection of mental states, one of which has a
 
 The last step is to make Actual State a permanent fixture in your life. This is where it gets real:
 
-**Stake a territorial claim on a physical environment where you spend a lot of time, in your home or office or both. Print [this document]() and post it on your wall.**
+**Stake a territorial claim on a physical environment where you spend a lot of time, in your home or office or both. Print [this document](http://www.actualstate.com) and post it on your wall.**
 
 This document is Actual State System. It describes the system, and it is the physical mechanism that makes the system work. When you post it on your wall you will be confronted by it constantly. When you see it you will recall Actual State and know that it is right. You will think about your goals and if you don't have any *you will feel bad*. You will think about your strategy for achieving your goals and if you don't have one *you will feel bad*. You will think about whether you are executing your strategy and if you're not *you will feel bad*. You will think about whether you are producing results toward achieving your goals and if you're not *you will feel bad*.
 
