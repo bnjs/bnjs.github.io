@@ -53,5 +53,3 @@ This document is Actual State System. It describes the system, and it is the phy
 
 This is a window of opportunity to seriously level up. And it's just the tip of the iceberg. This is bare-bones Actual State System. In practice you can take it to incredible lengths. You just need to take the first step.
 
-Welcome to sustained Actual State. You are now in control of a human being. The future is at the mercy of your design.
-
