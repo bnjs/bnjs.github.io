@@ -1,6 +1,6 @@
 ---
 layout: share-post
-title: Introducing Actual State System
+title: Actual State System
 ---
 
 *Actual State System is a system for sustaining a mental state optimal for achieving goals.*

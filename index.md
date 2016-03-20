@@ -10,11 +10,11 @@ title: Ben Sullivan
 {% for post in site.posts %}
 {% if post.path contains "_drafts" %}
 {% else %}
-[{{ post.title }}]({{ post.url }}) <span class="lowkey" style="color:#ccc;white-space:nowrap">{{ post.date | date: "%h %d, %Y" }}</span>
+<span class="lowkey" style="white-space:nowrap">{{ post.date | date: "%h %d, %Y" }}</span> [{{ post.title }}]({{ post.url }})
 {% endif %}
 {% endfor %}
 
-[Expressing the Liar Paradox in Ruby?](/expressing-the-liar-paradox-in-ruby) <span class="lowkey" style="color:#ccc;white-space:nowrap">Aug 24, 2014</span>
+<span class="lowkey" style="white-space:nowrap">Aug 24, 2014</span> [Expressing the Liar Paradox in Ruby?](/expressing-the-liar-paradox-in-ruby)
 
 {% if site.base_url == 'http://localhost:4000' %}
 {% for post in site.posts %}
@@ -28,17 +28,13 @@ title: Ben Sullivan
 
 ## Projects
 
-<a href="https://www.tadaku.com" target="_blank">Tadaku</a>
-<br/>
-<span class="lowkey"><em>Service</em>, cook real food with real people (co-founded & built, acquired 2015)</span>
+<a href="https://github.com/bonsaiben/algebra-anki" target="_blank">Algebra Anki</a> - <span class="lowkey">Algebra flashcards for spaced-repetition software Anki</span>
 
-<a href="http://www.meetup.com/tokyo-startup-circle/" target="_blank">Tokyo Startup Circle</a>
-<br/>
-<span class="lowkey"><em>Event</em>, up to 7 people meet over coffee every other Saturday to talk about startups (founder)</span>
+<a href="https://www.tadaku.com" target="_blank">Tadaku</a> - <span class="lowkey">Home cooking lesson service</span>
 
-<a href="https://github.com/bonsaiben/bootstrap-snippets" target="_blank">Bootstrap Snippets</a>
-<br/>
-<span class="lowkey"><em>Vim plugin</em>, Bootstrap 3.2 markup snippets for Vim snipMate</span>
+<a href="https://tokyo-startup-circle.doorkeeper.jp/" target="_blank">Tokyo Startup Circle</a> - <span class="lowkey">Up to 7 people meet over coffee every other Saturday to talk about startups</span>
+
+<a href="https://github.com/bonsaiben/bootstrap-snippets" target="_blank">Bootstrap Snippets</a> - <span class="lowkey">Twitter Bootstrap markup snippets for Vim snipMate</span>
 
 ## Notes
 
