@@ -28,7 +28,7 @@ title: Ben Sullivan
 
 ## Projects
 
-<a href="https://github.com/bonsaiben/algebra-anki" target="_blank">Algebra Anki</a> - <span class="lowkey">Algebra flashcards for spaced-repetition software Anki</span>
+<!-- a href="https://github.com/bonsaiben/algebra-anki" target="_blank">Algebra Anki</a> - <span class="lowkey">Algebra flashcards for spaced-repetition software Anki</span -->
 
 <a href="https://www.tadaku.com" target="_blank">Tadaku</a> - <span class="lowkey">Home cooking lesson service</span>
 
