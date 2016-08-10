@@ -1,22 +1,12 @@
 ---
-layout: share-post
+layout: post
+date: October 11, 2014
 subnav: cs183b
 title: 'CS183B Lecture 3: Paul Graham "Counterintuitive Parts of Startups, and How to Have Ideas" Notes'
 permalink: notes/cs183b-lecture-3-paul-graham-counterintuitive-parts-of-startups-and-how-to-have-ideas/
 ---
 
-<style>
-h3 {
-  font-weight: normal;
-}
-p {
-  font-size: 1.17em;
-  color: #494949;
-  line-height: 1.1;
-}
-</style>
-
----
+<br><br>
 
 **Note: This is a condensed version of a talk and essay by Paul Graham. I've trimmed it down to bare minimum content and added headings for readability. There is paraphrasing/rephrasing based on my own interpretation. Some portions remain verbatum from the original. Please see the source for the full original transcript.**
 
@@ -105,7 +95,7 @@ Table of Contents:
   - [Q: If you hire people you like, you might get a monoculture and how do you deal with the blind spots that arise?](#q-if-you-hire-people-you-like-you-might-get-a-monoculture-and-how-do-you-deal-with-the-blind-spots-that-arise)
 
 
----
+<br><br>
 
 ### **Startups are counterintuitive**
 
@@ -119,7 +109,7 @@ It's the same kind of counterintuitiveness as in skiing. In order to learn to sk
 
 This talk/essay is a list of the things to remember if you want to prepare yourself to start a startup.
 
----
+<br><br>
 
 ## Counterintuitive
 
@@ -151,7 +141,7 @@ Your instincts about people are an exception, you can and should trust those.
 
 This is a case where being self-indulgent is good. Work with people you really like, and who you've known long enough to be sure.
 
----
+<br><br>
 
 ## Expertise
 
@@ -171,7 +161,7 @@ If I met an undergrad who knew all about convertible notes, employee agreements,
 
 Because another of the characteristic mistakes of young founders is to go through the motions of starting a startup; imitating all the outward forms of a startup while neglecting the one thing that's actually essential: making something people want.
 
----
+<br><br>
 
 ## Game
 
@@ -235,7 +225,7 @@ But there are parts of the real world where gaming the system matters less than 
 
 How do you win in each type of work, and what would you like to win by doing?
 
----
+<br><br>
 
 ## All-Consuming
 
@@ -355,7 +345,7 @@ In the unlikely case that you're 20 and one of your side projects takes off like
 
 But the usual way startups take off is for the founders to make them take off, and it's gratuitously stupid to do that at 20.
 
----
+<br><br>
 
 ## Try
 
@@ -415,7 +405,7 @@ If you're absolutely terrified of starting a startup, you probably shouldn't do 
 
 But if you're merely unsure whether you're up to it, the only way to find out is to try. Just not in college.
 
----
+<br><br>
 
 ## Ideas
 
@@ -536,7 +526,7 @@ And you'll do it best if you introduce the ulterior motive toward the end of the
 
 So here is the ultimate advice for young would-be startup founders, boiled down to two words: just learn.
 
----
+<br><br>
 
 ## Q&A
 

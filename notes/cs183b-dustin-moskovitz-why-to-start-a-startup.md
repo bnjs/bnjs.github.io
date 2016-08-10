@@ -1,27 +1,19 @@
 ---
-layout: share-post
+layout: post
+date: October 11, 2014
 subnav: cs183b
 title: 'CS183B Lecture 1: Dustin Moskovitz "Why to Start a Startup" Notes'
 permalink: notes/cs183b-lecture-1-dustin-moskovitz-why-to-start-a-startup/
 ---
 
-<style>
-h3 {
-  font-weight: normal;
-}
-p {
-  font-size: 1.17em;
-  color: #494949;
-  line-height: 1.1;
-}
-</style>
-
----
+<br><br>
 
 **Note: This is a condensed version of a talk by Dustin Moskovitz. I've trimmed it down to its core points and added headings for readability. There is paraphrasing and rephrasing based on my own personal interpretation. Please see the source for the full original transcript.**
 
 Source: [Lecture 1: How to Start a Startup](http://tech.genius.com/Sam-altman-lecture-1-how-to-start-a-startup-annotated)
 
+
+<br>
 Table of Contents:
 
 - Introduction
@@ -55,15 +47,15 @@ Table of Contents:
   - [Starting Asana](#starting-asana)
 
 
----
+<br><br>
 
 There's a bunch of common reasons that people have that I hear all the time for why you might start a startup. It's important to know what reason is yours, because some of them only make sense in certain contexts, some of them will actually lead you astray. You may have been mislead by the way that Hollywood or the press likes to romanticize entrepreneurship, so I want to try to illuminate some of those potential fallacies, so you can make the decision in a clear way. And then I'll talk about the reason I like best for actually starting a startup. Surprisingly, I don't think it's the most common reason. Usually people have one of these other reasons, or they just want to start a company for the sake of starting a company.
 
-### **4 common reasons**
+### 4 common reasons
 
 The 4 common reasons to start a startup are it's glamorous, you'll get to be the boss, you'll have flexibility, especially over your schedule, and you'll have the chance to have bigger impact and make more money then you might by joining a later stage company.
 
----
+<br><br>
 
 ## 1. "It's glamorous"
 
@@ -95,7 +87,7 @@ One thing I almost never hear people talk about is you're much more committed. I
 
 I've had a lot of this stress in my own life, especially in the early years of Facebook. I got really unhealthy, I wasn't exercising, I had a lot of anxiety actually throughout my back, almost every six months, when I was twenty-one or twenty-two, which is pretty crazy. So if you do start a company, be aware that you're going to deal with this. You're going to have to actually manage this, it's one of your core responsibilities. Ben Horowitz likes to say the number one role of a CEO is managing your own psychology, it's absolutely true, make sure you do it.
 
----
+<br><br>
 
 ## 2. "You're the boss"
 
@@ -122,7 +114,7 @@ The most common thing I have to spend my time on and my energy on as a CEO is de
 
 And even on a day to day basis, I might come in on Monday and have all these grand plans for how I'm going to improve the company. But if an important employee is threatening to quit, that's my number one priority. That's what I'm spending my time on.
 
----
+<br><br>
 
 ## 3. "You have flexibility"
 
@@ -148,7 +140,7 @@ You're always working anyways. If you're really passionate about an idea, it's g
 
 Some companies like to tell the story about how you can have your cake and eat it too, you can have 4 days work weeks maybe, if you're Tim Ferris maybe you can have a 12 hours work week. It's a really attractive idea and it does work in a particular instance if you want to have a small business to go after in each market, you're a small business entrepreneur. That makes a little sense but as soon as you get past 2 or 3 people you really need to step it up and be full-time committed.
 
----
+<br><br>
 
 ## 4. "You'll make more money and have more impact"
 
@@ -178,11 +170,11 @@ Justin Rosenstein joined Google a little later after Brett. He was a PM there an
 
 ### **Justin Rosenstein at Facebook**
 
-Shortly after that Justin left and became employee around 250 at Facebook. He led a hackaton project along with people like Andrew Bosworth to create the Like button. This is one of the most popular elements anywhere on the web, totally changed how people use it and he didn't need to start a company to do it. He almost certainly would have failed if he had tried because he really needed the distribution of Facebook to make it work.
+Shortly after that Justin left and became employee around 250 at Facebook. He led a hackathon project along with people like Andrew Bosworth to create the Like button. This is one of the most popular elements anywhere on the web, totally changed how people use it and he didn't need to start a company to do it. He almost certainly would have failed if he had tried because he really needed the distribution of Facebook to make it work.
 
 So it's important to keep in mind the context for what kind of company you're trying to start and where you will actually be able to make it happen.
 
----
+<br><br>
 
 ## The Best Reason
 

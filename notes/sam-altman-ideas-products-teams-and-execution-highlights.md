@@ -1,22 +1,12 @@
 ---
-layout: share-post
+layout: post
+date: October 3, 2014
 subnav: cs183b
 title: 'CS183B Lectures 1+2: Sam Altman "Ideas, Products, Teams and Execution" Notes'
 permalink: notes/sam-altman-ideas-products-teams-and-execution-highlights/
 ---
 
-<style>
-h3 {
-  font-weight: normal;
-}
-p {
-  font-size: 1.17em;
-  color: #494949;
-  line-height: 1.1;
-}
-</style>
-
----
+<br><br>
 
 **Note: This is a condensed version of talks by Sam Altman. I've trimmed it down to its core points and added headings for readability. There is paraphrasing and rephrasing based on my own personal interpretation. Please see the sources for the full original transcripts.**
 
@@ -25,6 +15,7 @@ Sources:
 - [Lecture 1: How to Start a Startup](http://tech.genius.com/Sam-altman-lecture-1-how-to-start-a-startup-annotated)
 - [Lecture 2: Ideas, Products, Teams and Execution Part II](http://tech.genius.com/Sam-altman-lecture-2-ideas-products-teams-and-execution-part-ii-annotated)
 
+<br>
 Table of Contents:
 
 - [Introduction](#introduction)
@@ -115,7 +106,7 @@ Table of Contents:
   - [Don’t let competitors disrupt momentum](#dont-let-competitors-disrupt-momentum)
 
 
----
+<br><br>
 
 ## Introduction
 
@@ -133,7 +124,7 @@ Never start a startup just for the sake of doing so, but if you feel compelled b
 
 Passion first, startup second
 
----
+<br><br>
 
 ## 1. Idea
 
@@ -249,7 +240,7 @@ If you can just learn to think about the market first, you will have a big leg u
 
 One of the most common mistakes is that people have not thought about the market first, and what people want first.
 
----
+<br><br>
 
 ## 2. Product
 
@@ -358,7 +349,7 @@ Be brutally honest if your metrics aren't going in the right direction.
 Startups live on growth, it's the indicator of a great product.
 
 
----
+<br><br>
 
 ## 3. Team
 
@@ -623,7 +614,7 @@ If you have to choose between hiring a sub-optimal employee and losing your cust
 What about co-founders that aren't working in the same location? The answer is, don't do it. I am skeptical of remote teams in general but in the early days of a startup, when communication and speed outweigh everything else, for some reason video conferencing calls just don't work that well. The data on this is look at say the most dirty successful software companies of all time and try to point to a single example where the co-founders were in different locations. It's really really tough.
 
 
----
+<br><br>
 
 ## 4. Execution
 

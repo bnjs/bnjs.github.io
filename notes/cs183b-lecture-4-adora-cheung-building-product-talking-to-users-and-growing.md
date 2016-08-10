@@ -1,22 +1,12 @@
 ---
-layout: share-post
+layout: post
+date: October 12, 2014
 subnav: cs183b
 title: 'CS183B Lecture 4: Adora Cheung "Building Product, Talking to Users, and Growing" Notes'
 permalink: notes/cs183b-lecture-4-adora-cheung-building-product-talking-to-users-and-growing/
 ---
 
-<style>
-h3 {
-  font-weight: normal;
-}
-p {
-  font-size: 1.17em;
-  color: #494949;
-  line-height: 1.1;
-}
-</style>
-
----
+<br><br>
 
 **Note: This document is based on a talk by Adora Cheung. Corrections have been made to the original transcription, some nonessential content has been trimmed down or rephrased, and headings have been added for readability. Some changes/additions are based on my personal interpretation and may not accurately represent the views of the author. Please see the source for the full original talk.**
 
@@ -67,7 +57,7 @@ Table of Contents:
   - [Q: So one question online was if your users already have a product that they are already comfortable with how do you get them to switch to yours?](#q-so-one-question-online-was-if-your-users-already-have-a-product-that-they-are-already-comfortable-with-how-do-you-get-them-to-switch-to-yours)
 
 
----
+<br><br>
 
 ## Introduction
 
@@ -77,7 +67,7 @@ I wrote this up earlier this morning and a lot of this is based off of mistakes 
 
 Just a reminder that all advice you should take as directionally good guidance, it's in the right direction, but every business is different. You're different, and I'm not you, so take everything with that in mind.
 
----
+<br><br>
 
 ## Prerequisities
 
@@ -85,7 +75,7 @@ Just a reminder that all advice you should take as directionally good guidance, 
 
 So this is a college course. When you start a startup you should basically have a lot of time on your hands to concentrate on the startup. I'm not saying that you should quit school or quit work; what I'm saying is that you should have a lot of compressed time in a row really dedicated to immersing yourself in the idea and developing solutions to the problem that you are trying to solve. So for example, if you're in school it is better to have one or two days straight per week to work on your idea versus spending two hours here and there every single day during the course of the week. Since this is an engineering class, it is sort of like coding. There is a lot of context switching and being able to really focus and immerse yourself is really important.
 
----
+<br><br>
 
 ## The n00b approach
 
@@ -97,7 +87,7 @@ So, like I said, when I first wrote this up I was thinking what are the things t
 
 But what really happens is because you did not get a lot of that feedback and stuff like that, maybe you get a lot of people to your site, but no one sticks around because you didn't get that initial user feedback. If you're lucky enough you have some money in the bank you might go buy some users but it sort of just whittles out over time and you just give up. It is sort of a vicious cycle. I actually did this once, and I did this while I was in YC. When I went through YC I didn't even launch a product. I didn't even launch on TechCrunch which is the thing you should definitely do. You don't want to ever get into that cycle because you'll just end up with nothing good.
 
----
+<br><br>
 
 ## Problem
 
@@ -109,7 +99,7 @@ The next thing is, you have an idea and you should really think about what the i
 
 One of the biggest mistakes I've made is, my co-founder and I who is also my brother, he and I started a company called Pathjoy in 2009, 2010. We had two goals in mind. One was to create a company that made people really happy, and to create a company that was very, very impactful and a good proxy for that is to just create a big huge company. And so we thought, OK, here's what we're going to solve is, make people happier. We first went to the notion of, who are the people who make people happy? And we came up with life coaches and therapists. So it seemed kind of obvious to create a platform for life coaches and therapists. And what happened as a result though was that when we started using the product ourselves, we aren't cynical people by any means, but life coaches and therapists are just not people we would use ourselves. It was sort of useless to us. So it wasn't even a problem we had and it wasn't something we were super passionate about building out, and yet we spent almost a year trying to do this. And so if you just start from T=0 and think about this before you build any product I think you can save yourself a lot of headache down the road from doing something you don't want to do.
 
----
+<br><br>
 
 ## Where to start?
 
@@ -149,7 +139,7 @@ The second thing is identifying customer segments. Ideally at the end of the day
 
 And lastly, before you even create the product, before you even put code down, you should really storyboard out the ideal user experience of however you're going to solve the problem. And that's not just meaning the website itself, it's meaning how does the customer find out about you, it can be through an ad or word of mouth or whatever; so they find out about you, they come to your site, they learn more about you, like "What's all that text say?", what are you communicating to them; to the actual [point] when they sign up for the product or they've purchased the service, what are they actually getting; to after they finished using the product or finished using the service, there's sort of an evaluation period like they leave you a review or they leave comments, or what not; and just being able to go through that whole flow and visualize in your head, just envision what the perfect user experience is, and then put it down on paper, and then put it into code, and then start from there.
 
----
+<br><br>
 
 ## What is v1?
 
@@ -165,7 +155,7 @@ And the second thing is before you put things in front of a user you should real
 
 When we went to potential users to come on our platform they would just kind of get bored after the first few sentences. What we found out was that we really needed this one-liner. The one-liner is very important. It kind of describes the functional benefit of what you do. In the future when you are trying to build a brand or whatnot you should be able to describe, what are the emotional benefits and stuff like that, but when you're starting with no users you really need to tell them what they're going to get out of it. So after we changed our positioning to "get your place cleaned for $20 an hour" then everyone got it, and we were able to get users in the door that way.
 
----
+<br><br>
 
 ## First few users
 
@@ -191,7 +181,7 @@ We figured we needed to get in the middle of that so we took water bottles and f
 
 I know another startup in the last batch, I forgot their name right now, but they were selling shipping type products or trying to replace shipping products. So they would show up to the US postal office and find people who were trying to ship products and just take them out of line and get them to try to use the product and have them ship it for them. So you just have to go to places where people are really going to show up. Your conversion rate is going to be really low but to go from 0 to 1 to 3 to 4 these are the kind of things you might have to do.
 
----
+<br><br>
 
 ## Customer feedback
 
@@ -220,7 +210,7 @@ So say now this is a paid product. So when it is a paid product your mom is down
 
 So this is another way of saying that you are going to get the best feedback if you just make someone pay for it. That's not to say that you should make people pay for it the first time out, but it is to say that if you are going to build a product that you are going to eventually need to pay for the software or for the hardware or whatever then get to the point where you can do that very fast. Because that is when you can get to the more meaty stuff of how you can get more paying users in the door.
 
----
+<br><br>
 
 ## V1 feature creep
 
@@ -242,7 +232,7 @@ A third point here is temporary brokenness is much better than permanent paralys
 
 Lastly beware of the Frankenstein approach which is - great you talked to all of these users and they gave you all of these ideas and the first thing you are going to want to do is go build every single one of them and then go show them the next day and make them happier. You should definitely listen to user feedback but when someone tells you to build a feature you shouldn't go build it right away. What you should really do is get to the bottom of why they are asking you to build the feature. Usually what they are suggesting is not the best idea. What they are really suggesting is that I have this other problem that you either created for me while using the product or I really need this problem solved if I'm going to pay to use this product. So figure that out first before piling on a bunch of features which then hide the problem altogether.
 
----
+<br><br>
 
 ## S is for stealth, and stupid
 
@@ -256,7 +246,7 @@ So you have a product that you are ready to ship - some people at this point wil
 
 I hate to keep harping on it but these are things that I see today with founders and something that I went through as well. And I think that unless you are building something that requires tens of millions of dollars just to start up there is really no point in waiting around to launch the product.
 
----
+<br><br>
 
 ## Ready for a lot of users?
 
@@ -278,7 +268,7 @@ An example is that in the beginning at Homejoy we had no money so when we tried 
 
 And the key to all of this is creativity. Performance marketing, or marketing and growth in general can be very technical but, it is actually technical, and you have to be creative because if it was really easy and bland then everyone would be growing right now. So you always have to find that little thing that no one else is doing and do that to the extreme.
 
----
+<br><br>
 
 ## Types of growth
 
@@ -342,7 +332,7 @@ So when you look at these CLVs, which is suppose you get a customer that is wort
 
 So again, payback time is very important. Safe time to go with is three months. If you are very risk loving then maybe 12 months is better. Beyond 12 months is very much unsafe territory.
 
----
+<br><br>
 
 ## Pivoting
 
@@ -356,7 +346,7 @@ In week one you should basically build as much as possible to get that one user.
 
 Maybe not in the sense that you completely come up with a new idea but you are probably fundamentally doing something wrong because at that early stage a startup should always be growing. This is optimistically what it looks like and this is the kind of growth curve that I set forth and put out when I started Homejoy, but really what it looks like is like this. So you want to make sure that when you are in a lull you don't stop. And that is what you should wait 2 to 3 weeks. As long as you don't stop working hard you'll eventually get back here and you'll see a trend like this over time.
 
----
+<br><br>
 
 ## Q&A
 

@@ -1,22 +1,12 @@
 ---
-layout: share-post
+layout: post
+date: October 12, 2014
 subnav: cs183b
 title: 'CS183B Lecture 5: Peter Thiel "Business Strategy and Monopoly Theory" Notes'
 permalink: notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/
 ---
 
-<style>
-h3 {
-  font-weight: normal;
-}
-p {
-  font-size: 1.17em;
-  color: #494949;
-  line-height: 1.1;
-}
-</style>
-
----
+<br><br>
 
 **Note: This document is based on a talk by Peter Thiel. Significant corrections have been made to the original transcription, some nonessential content has been trimmed down or rephrased, and headings have been added for readability. Some modifications are based on my personal interpretation and may not accurately represent the views of the author. Please see the source for the full original talk.**
 
@@ -92,13 +82,13 @@ Table of Contents:
 
 
 
----
+<br><br>
 
 ### **You always want to aim for monopoly and avoid competition**
 
 I sort of have a single *idée fixe* that I'm completely obsessed with on the business side which is that if you're starting a company, if you're the founder, entrepreneur, starting a company you always want to aim for monopoly and you want to always avoid competition. And so hence competition is for losers, something we'll be talking about today.
 
----
+<br><br>
 
 ## 1. Capturing value
 
@@ -122,7 +112,7 @@ If we look at perfect competition, there's some pros and cons to the world of pe
 
 I do think the extreme binary view of the world I always articulate is that there are exactly two kinds of businesses in this world. There are businesses that are perfectly competitive and there are businesses that are monopolies. There is shockingly little that is in between. And this dichotomy is not understood very well because people are constantly lying about the nature of the businesses they are in. And in my mind this is not necessarily the most important thing in business, but I think it's the most important business idea that people don't understand, that there are just these two kinds of businesses.
 
----
+<br><br>
 
 ## 2. Lies people tell
 
@@ -158,7 +148,7 @@ Or if you don't want to be an advertising company, you can always say that you'r
 
 The evidence of narrow markets in the tech industry is if you look at the big tech companies, Apple, Google, Microsoft, Amazon, they have just been building up cash for year after year and you have these incredibly high profit margins. I would say that one of the reasons the tech industry in the US has been so successful financially is because it's prone to creating all these monopoly-like businesses and it's reflected by the fact that these companies just accumulate so much cash they don't even know what to do with it beyond a certain point.
 
----
+<br><br>
 
 ## 3. How to build a monopoly
 
@@ -214,7 +204,7 @@ And then there's this thing of branding which is sort of this idea that gets lod
 
 I think one of the things, I'm going to come back to this in a little bit towards the end, but one of the things that's very striking is that software businesses are often, for some reason, very good at some of these things. They are especially good at the economies of scale part because the marginal cost of software is zero. So if you get something that works in software it's often significantly better than the existing solution and then you have these tremendous economies of scale and you can scale fairly quickly, so even if the market starts small, you can grow your business quickly enough to stay at the same size as the growing market and maintain the monopoly power.
 
----
+<br><br>
 
 ## 4. Last mover advantage
 
@@ -256,7 +246,7 @@ And then economies of scale we've already talked about.
 
 I think this last mover thing is very critical. I'm always tempted, I don't want to overdo the chess analogies, but the first mover in chess is someone who plays white, white is about a one-third of a pawn advantage, so there is a small advantage to going first. You want to be the last mover who wins the game, so there's always the world chess champion Capablanca line, “You must begin by studying the end game." I wouldn't say that's the only thing you should study, I think this perspective of asking these questions, why will this still be the leading company in ten, fifteen, twenty years from now, is a really critical one to try to think through.
 
----
+<br><br>
 
 ## 5. History of innovation
 
@@ -298,7 +288,7 @@ What I want to leave you with is there are these different rationalizations peop
 
 The software distortion that often happens is because people are making such vast fortunes in software, we infer that this is the most valuable thing in the world being done, full stop. And so if people at Twitter make billions of dollars, it must be that Twitter is worth far more than anything Einstein did. What that rationalization tends to obscure, is again that "X" and "Y" are independent variables and that there are these businesses where you capture a lot of "X" and others where you don't. So I do think the history of innovation has been this history where the microeconomics, the structure of these industries has mattered a tremendous amount and there is this story where some people have made vast fortunes because they were in industries with the right structure and other people made nothing at all because they were in these very competitive things. We shouldn't just rationalize that way. I think it's worth understanding this better.
 
----
+<br><br>
 
 ## 6. Psychology of competition
 
@@ -326,7 +316,7 @@ There is a personal version of this that I tell, where I was sort of hyper, hype
 
 Competition does make you better at whatever it is that you're competing on because when you're competing you're comparing yourself with the people around you, you're figuring out how do I beat the people next to me, how do I do somewhat better at whatever it is they're doing and you will get better at that thing. I'm not questioning that, I'm not denying that, but it often comes at this tremendous price that you stop asking some bigger questions about what's truly important and truly valuable. And so I would say, don't always go through the tiny little door that everyone's trying to rush through, maybe go around the corner and go through the vast gate that nobody's taking.
 
----
+<br><br>
 
 ## Q&A
 

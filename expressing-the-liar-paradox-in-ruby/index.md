@@ -1,5 +1,6 @@
 ---
 layout: share-post
+date: Aug 24, 2014
 title: Expressing the Liar Paradox in Ruby?
 ---
 

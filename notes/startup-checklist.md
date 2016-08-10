@@ -1,5 +1,5 @@
 ---
-layout: share-post
+layout: post
 title: Startup Checklist
 permalink: notes/startup-checklist/
 ---
