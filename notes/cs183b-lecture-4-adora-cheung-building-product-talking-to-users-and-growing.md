@@ -71,6 +71,8 @@ Just a reminder that all advice you should take as directionally good guidance, 
 
 ## Prerequisities
 
+<br>
+
 ### **Better to have one or two days straight per week to work on your idea, versus two hours here and there every single day**
 
 So this is a college course. When you start a startup you should basically have a lot of time on your hands to concentrate on the startup. I'm not saying that you should quit school or quit work; what I'm saying is that you should have a lot of compressed time in a row really dedicated to immersing yourself in the idea and developing solutions to the problem that you are trying to solve. So for example, if you're in school it is better to have one or two days straight per week to work on your idea versus spending two hours here and there every single day during the course of the week. Since this is an engineering class, it is sort of like coding. There is a lot of context switching and being able to really focus and immerse yourself is really important.
@@ -79,9 +81,13 @@ So this is a college course. When you start a startup you should basically have 
 
 ## The n00b approach
 
+<br>
+
 ### **"I have this great idea, I don't want to tell anyone, I'm going to build a lot in stealth, then launch on TechCrunch and get a lot of users"**
 
 So, like I said, when I first wrote this up I was thinking what are the things that most people that is not the correct way to do a startup. The novice approach I think is sort of thinking, "I have this really great idea, I don't want to tell anyone about it. I'm going to build, build, build, build. I'm going to then tell maybe one or two people and then I'm going to launch it on TechCrunch or somewhere like that, and then I'm going to get lots of users."
+
+<br>
 
 ### **No one sticks around because you didn't get that initial user feedback**
 
@@ -91,9 +97,13 @@ But what really happens is because you did not get a lot of that feedback and st
 
 ## Problem
 
+<br>
+
 ### **Know what problem you're solving and be able to describe it one sentence**
 
 The next thing is, you have an idea and you should really think about what the idea is really solving. Like what is the actual problem. So the problem statement, you should be able to describe in one sentence. And then you should think, "How does that problem relate to me? Am I really passionate about that problem?" And then you should think, "Okay it's a problem I have, is it a problem that other people have?" And verify that by going out and talking to people.
+
+<br>
 
 ### **It wasn't a problem we had and it wasn't something we were super passionate about**
 
@@ -103,37 +113,55 @@ One of the biggest mistakes I've made is, my co-founder and I who is also my bro
 
 ## Where to start?
 
+<br>
+
 ### **1. Learn a lot and become an expert**
 
 So say you have a problem and you are able to state it, where do you start? How do you think of solutions? The first thing you should do is think of what the industry that you are getting yourself into is. Whether it's big, whether it's huge, you should really immerse yourself in that industry. And there are a number of ways to do this.
+
+<br>
 
 ### **Become a cog in that industry for a little bit**
 
 One is to really become a cog in that industry for a little bit. And so it might seem a little counterintuitive to do this because most people say that if you really want to disrupt an industry you should really not be a player in it. Someone who spent 20 or 30 years in an industry is probably set in their ways and is just used to the way things work and really can't think about what the inefficiencies are or the things that you can "disrupt." However, as a "newb" coming into the industry you really should take one or two months just really understanding what all of the little bits and pieces of the industry are and how it works. Because it's when you get into the details, that's when you start seeing things you can exploit, things that are really, really inefficient and provide huge overhead costs that you can cut down.
 
+<br>
+
 ### **We bought books about how to clean, but that wasn't enough**
 
 So an example of this is when we started Homejoy, we started with the cleaning industry, and when we started we just were cleaners ourselves. We started to clean houses and what we found out really quickly was that we were very bad cleaners. As a result, we said okay, we have to learn more about this and we went to buy books. We bought books about how to clean, which helped maybe a little bit. We learned a little more about cleaning supplies but it is sort of like basketball, you can watch and read about basketball but you're not going to get better at it if you don't actually train and throw a basketball around and throw it into the hoop.
+
+<br>
 
 ### **I got a job at a cleaning company and not only learned how to clean but learned how a cleaning company works**
 
 And so we decided one of us basically had to go to learn how to clean, or get trained by a professional, or some sort of professional training program if that existed. And that meant we actually went to get a job at a cleaning company itself. The cool thing was that I learned how to clean from training for the few weeks that I was there at the cleaning company, but the even better thing was that I learned a lot about how a local cleaning company worked. And in that sense I learned why a local cleaning company could not become huge like Homejoy is today. And that's because they are pretty old school and they have a lot of things, anywhere from booking the customer to optimizing the cleaner schedules, was just done inefficiently.
 
+<br>
+
 ### **If your idea is related to restaurants, become a waiter; if it's related to painting, become a painter**
 
 If you are in a situation like mine where there's a service element of it you should go and do that service yourself. If your thing is related to restaurants you should become a waiter, if it's related to painting become a painter and kind of get in the shoes of your customers from all angles of what you are trying to build.
+
+<br>
 
 ### **You should be so obsessed to know what everybody in the space is doing**
 
 The other thing is there is also a level of obsessiveness that you should have with it too as well. You should be so obsessed to know what everybody in that space is doing. And it's things like writing a list of all of the potential competitors, similar types of companies, and Google searching it and clicking on every single link and reading every single article from search result number 1 to 1000. I found all potential competitors big and small and if they were public I would go and read their S-1s, I would go read all of their quarterly financials, I would sit on the earnings calls. You know most of these, you don't get much out of it but there are these golden nuggets that you will find once in a while. And you won't be able to find that unless you actually go through the work of getting all that information in your head.
 
+<br>
+
 ### **Become an expert in the industry**
 
 You should become an expert in the industry. There should be no doubt when you are building this that you are the expert so that people trust you when you're building this product.
 
+<br>
+
 ### **2. Identify customer segments**
 
 The second thing is identifying customer segments. Ideally at the end of the day, in the endgame, you've built a product or business that everybody in the world is using. But realistically in the beginning you kind of want to corner off a certain part of the customer base so that you can really optimize for them. It's just a matter of focus and a matter of catering towards [these users], whether it's teen girls or whether it's soccer moms, you'll be able to focus a lot on their needs.
+
+<br>
 
 ### **3. Storyboard ideal user experience**
 
@@ -143,13 +171,19 @@ And lastly, before you even create the product, before you even put code down, y
 
 ## What is v1?
 
+<br>
+
 ### **Minimum *viable* product**
 
 So, you have all these ideas in your head now, you kind of know what the core customer base you want to go after is, and you know everything about the industry, what do you do next? So you start building your product. The common phrase that most people use today is, "You should build a minimum viable product." And I underlined viable because I think a lot of people skip that part and they just go out with a feature and the whole user experience in the very beginning is flat. Minimum viable product pretty much means what is the smallest feature set that you should build to solve the problem that you are trying to solve. I think if you go through the whole storyboard experience you can kind of figure out that very quickly. But again, you have to be talking to users, potential users, you have to be seeing what exists out there already, and what you should be building to solve their immediate needs.
 
+<br>
+
 ### **Simple product positioning**
 
 And the second thing is before you put things in front of a user you should really have your product positioning down. What I mean by that is that you should be able to go to a person and you should be able to say, "Hey, this does X, Y, and Z" within a sentence. So for example, at Homejoy we started off with something actually super complicated, like "We're an online platform for home services, we started with cleaning and you can choose blah blah blah." It just went off for paragraphs and paragraphs.
+
+<br>
 
 ### **The one-liner is very important**
 
@@ -159,17 +193,31 @@ When we went to potential users to come on our platform they would just kind of 
 
 ## First few users
 
+<br>
+
 ### **You!**
+
+<br>
 
 ### **Your mom, friends, coworkers**
 
+<br>
+
 ### **Online communities, e.g. HN, reddit**
+
+<br>
 
 ### **Local communities, e.g. mailing lists**
 
+<br>
+
 ### **Niche influencers, e.g. mommy bloggers**
 
+<br>
+
 ### **Cold calls + emails**
+
+<br>
 
 ### **Press**
 
@@ -186,13 +234,23 @@ I know another startup in the last batch, I forgot their name right now, but the
 ## Customer feedback
 
 
+<br>
+
 ### **support@ very important**
+
+<br>
 
 ### **surveys: ok // interviews: better**
 
+<br>
+
 ### **quantitative: retention, ratings, NPS**
 
+<br>
+
 ### **qualitative: ask why, why, why**
+
+<br>
 
 ### **beware of honesty curve**
 
@@ -214,11 +272,19 @@ So this is another way of saying that you are going to get the best feedback if 
 
 ## V1 feature creep
 
+<br>
+
 ### **Build fast, but optimise for now**
+
+<br>
 
 ### **Manual before automation**
 
+<br>
+
 ### **Temporary brokenness > permanent paralysis**
+
+<br>
 
 ### **Beware of frankenstein**
 
@@ -236,9 +302,15 @@ Lastly beware of the Frankenstein approach which is - great you talked to all of
 
 ## S is for stealth, and stupid
 
+<br>
+
 ### **Someone will steal your idea**
 
+<br>
+
 ### **There is a first-mover advantage**
+
+<br>
 
 ### **... just launch it already**
 
@@ -250,11 +322,19 @@ I hate to keep harping on it but these are things that I see today with founders
 
 ## Ready for a lot of users?
 
+<br>
+
 ### **learn one channel at a time**
+
+<br>
 
 ### **iterate working channels**
 
+<br>
+
 ### **revisit failed channels**
+
+<br>
 
 ### **key = creativity**
 
@@ -272,15 +352,25 @@ And the key to all of this is creativity. Performance marketing, or marketing an
 
 ## Types of growth
 
+<br>
+
 ### **Sticky, viral, paid; key = sustainability**
 
 So there are three types of growth. Sticky, viral, and paid growth. Sticky growth is trying to get your existing users to come back and pay you more or use you more. Viral growth is when people talk about you. So you use a product, you really like it and you tell ten other friends, and they like it. That's viral growth. And the third is paid growth. If you happen to have money in the bank you're going to be able to use part of that money to buy growth. The central theme that I'm going to go through is sustainability. By sustainable growth I mean you are basically not a leaky bucket. The money you put in has a good return investment on it.
 
+<br>
+
 ### **1. Sticky growth**
+
+<br>
 
 ### **Good experience wins**
 
+<br>
+
 ### **Clv + retention cohort analysis important**
+
+<br>
 
 ### **Repeat users buy more and more**
 
@@ -292,28 +382,44 @@ So cohort is another name for customer segments. For example you might look at t
 
 Say we are at one year later and you have built a bunch of stuff. You graph out the same thing and hopefully what you see is that you have a curve like this. That is, that even in the first period more than 50% of the people came back to you and more and more people are sticking with you. A really bad retention curve looks like this - which is after the first use they just hate you so much that no one even comes back. I don't know what kind of business that is, it is obviously a shitty business. I can't explain a good business that has a retention curve like that. Over time as you are thinking of strategies to increase this curve and to keep making it go up and up and up you want to keep looking at this analysis over time to see if that strategy is working for you.
 
+<br>
+
 ### **2. Viral growth**
+
+<br>
 
 ### **WOW experience + good referral programs**
 
 The second kind of growth is viral growth. Like sticky growth you also need to deliver a good experience. But on top of that you need to deliver a really, really good experience. What is going to make these people shout out loud on Twitter or on Facebook or whatever and tell all their friends and email all of their family about you. You have to really deliver a good experience. Combined with that is you have to have really good mechanics for the referral program itself. You have 100 customers who really want to talk about you. Now how are they going to talk about you?
 
+<br>
+
 ### **I. Customer touch points**
 
 So in that sense the viral growth strategy is all about building a good experience, but if you have that, how do you build a good referral program. I have listed the three main parts of that. One is the customer touch points which is where are people learning that they can refer other people? That might be after they book or after they sign up. A better one is after they use the product for a while and you see that they are highly engaged, then you show them that link and get them to send it out to everyone. Another one is if you are doing more of a platform type play - for Homejoy we actually go inside their home. So another customer touch point is when the cleaning professional is inside the home they can have a leave behind and we can show them something there too as well. You want to basically put the customer touch points and the actual link to however they are going to refer their friends at a point in time where they are highly engaged and you know that they are loving you.
 
+<br>
+
 ### **II. Program mechanics**
 
 The second is program mechanics. The most common thing I have seen is $10 for $10. You get $10 if you invite your friends and they use it and they get $10. And so you should try different types of mechanics in that sense and try to optimize for whatever works for you. It could be 25 for 25 or it could be 10 for 10, it could be any of these things.
+
+<br>
 
 ### **III. Referral conversion flow**
 
 And lastly, when your friend clicks on your referral link, when they come back to the site it is really important to optimize that conversion flow of how they are going to sign up. Sometimes you need to sell them in a different manner or up-sell that a friend suggested that you use this and so forth. So with all of these combined, you will really need to play around with them in different dimensions and come up with a good referral program.
 
 
+<br>
+
 ### **3. Paid growth**
 
+<br>
+
 ### **Simple: clv > cac**
+
+<br>
 
 ### **Advanced: clv<sub>ijk</sub> > cac<sub>ijk</sub>**
 
@@ -323,6 +429,8 @@ And the conversion rates are different for all of these ads. The CAC is calculat
 
 
 You can look at this for your whole entire customer base, aggregating all of your customers together, but the better way of looking at it is to break it down by customer segments. If you are building a marketplace for country music the CLVs of someone in Nashville, Tennessee is going to be much larger than the CLVs of someone in Czechoslovakia. I just assume that is the case anyway.  You will want to make sure that when you are buying ads for these different types of cohorts that you know what the differences are and you don't want to mix everything together.
+
+<br>
 
 ### **Payback time + sustainability**
 
@@ -335,6 +443,8 @@ So again, payback time is very important. Safe time to go with is three months. 
 <br><br>
 
 ## Pivoting
+
+<br>
 
 ### **Bad growth, bad retention, bad economics**
 
@@ -349,6 +459,8 @@ Maybe not in the sense that you completely come up with a new idea but you are p
 <br><br>
 
 ## Q&A
+
+<br>
 
 ### **Q: So one question online was if your users already have a product that they are already comfortable with how do you get them to switch to yours?**
 

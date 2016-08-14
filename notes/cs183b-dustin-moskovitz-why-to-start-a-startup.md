@@ -51,6 +51,8 @@ Table of Contents:
 
 There's a bunch of common reasons that people have that I hear all the time for why you might start a startup. It's important to know what reason is yours, because some of them only make sense in certain contexts, some of them will actually lead you astray. You may have been mislead by the way that Hollywood or the press likes to romanticize entrepreneurship, so I want to try to illuminate some of those potential fallacies, so you can make the decision in a clear way. And then I'll talk about the reason I like best for actually starting a startup. Surprisingly, I don't think it's the most common reason. Usually people have one of these other reasons, or they just want to start a company for the sake of starting a company.
 
+<br>
+
 ### 4 common reasons
 
 The 4 common reasons to start a startup are it's glamorous, you'll get to be the boss, you'll have flexibility, especially over your schedule, and you'll have the chance to have bigger impact and make more money then you might by joining a later stage company.
@@ -59,13 +61,19 @@ The 4 common reasons to start a startup are it's glamorous, you'll get to be the
 
 ## 1. "It's glamorous"
 
+<br>
+
 ### **It's hard work and stressful**
 
 There's an ugly side to being an entrepreneur. What you're actually spending your time on is just a lot of hard work. You're basically just sitting at your desk, heads down, focused, answering customer support emails, doing sales, figuring out hard engineering problems. It's really important that you go in with eyes wide open. It's also quite stressful. This has been a popular topic in the press lately: founder depression. Let's be real, if you start a company it's going to be extremely hard.
 
+<br>
+
 ### **"Major responsbility" stress**
 
 There are a couple of reasons why is it so stressful. One is you've got a lot of responsibility. People in any career have a fear of failure, it's kind of just a dominant part of the psychology. But when you're an entrepreneur, you have fear of failure on behalf of yourself and all of the people who decided to follow you. That's really stressful. In some cases people are depending on you for their livelihood, even when that's not true, they've decided to devote the best years of their life to following you. So you're responsible for the opportunity cost of their time. You're always on call, if something comes up -- maybe not always at 3 in the morning, but for some startups that's true -- but if something important comes up, you're going to deal with it. That's kinda the end of the story, doesn't matter if you're on vacation, doesn't matter if it's the weekend, you've got to always be on the ball and be in a place mentally where you're prepared to deal with those things. A sort of special example of this kind of stress is fundraising.
+
+<br>
 
 ### **Hard work at Facebook**
 
@@ -75,13 +83,19 @@ Here is an actual scene from Palo Alto: Mark spent a lot of time at his desk, he
 
 Then there's the scene demonstrating the insight moment [writing the algorithm on the dormroom window]. They jump to these moments from other moments, with partying in between. But really we were just at that table the whole time.
 
+<br>
+
 ### **"Unwanted media attention" stress**
 
 Another form of stress is unwanted media attention. Part of it being glamorous is you get some positive media attention sometimes, it's nice to be on the cover of Time and to be the Person of the Year. It's a little less nice to be on the cover of People with one of your wedding photos. It depends on who you are, I really hate it, but when Valleywag analyzes your lecture and tears you apart, you definitely don't want that. Nobody wants that.
 
+<br>
+
 ### **"You can't just up and quit" stress**
 
 One thing I almost never hear people talk about is you're much more committed. If you're an employee at a startup and it's very stressful and things are not going well, you're unhappy, you can just leave. For a founder, you can leave, but it's very uncool and pretty much a black eye for the rest of your career. So you really are committed for ten years if it's going well and probably more like five years if it's not going well. So three years to figure out it's not going well and then if you find a nice landing for your company, another two years at the acquiring company. If you leave before that, again it's not only going to harm yourself financially but it's going to harm all your employees. So if you're lucky and you have a bad startup idea, you fail quickly, but most of the time it's not like that.
+
+<br>
 
 ### **Effects of stress on your health**
 
@@ -92,6 +106,8 @@ I've had a lot of this stress in my own life, especially in the early years of F
 ## 2. "You're the boss"
 
 Another reason why people start startups, especially if you're had another job at another company, is you start to develop this narrative, like "The people running this company are idiots, they're making all these decisions and spending all their time in these stupid ways, I'm going to start a company and I'm going to do it better. I'm going to set all the rules."
+
+<br>
 
 ### **Everyone else is your boss**
 
@@ -105,6 +121,8 @@ Another reason why people start startups, especially if you're had another job a
 <p>- Phil Libin</p>
 </blockquote>
 
+
+<br>
 
 ### **Being a CEO is really, really hard**
 
@@ -126,13 +144,19 @@ A subset of "You're the Boss" is you have flexibility, you have control over you
 <p>- Phil Libin</p>
 </blockquote>
 
+<br>
+
 ### **You're always on call**
 
 There are a few reasons for this. You're always on call. So maybe you don't intend to work all parts of the day, but you don't control which ones.
 
+<br>
+
 ### **You're a role model**
 
 You're a role model of the company, and this is super important. So you might have some good weeks and you might have some bad weeks, some weeks when you're low energy and you might want to take a couple days off. That's really bad if you're an entrepreneur. Your team will really signal off of what you're bringing to the table. So if you take your foot off the gas, so will they.
+
+<br>
 
 ### **You're naturally always working**
 
@@ -144,29 +168,43 @@ Some companies like to tell the story about how you can have your cake and eat i
 
 ## 4. "You'll make more money and have more impact"
 
+<br>
+
 ### **Reward for joining a very successful startup**
 
 As employee number 100 coming into companies like Dropbox or Facebook especially if you're a relatively experienced engineer, you're pretty likely to have an offer that's around 10 base points. If you joined Dropbox a couple years ago you've already locked in about $10M and there's plenty more growth from there. If you joined Facebook a couple years into its existence you've already made around $200M. Even if you joined Facebook as employee number 1000, you still make $20M. That's a giant number and that's how you should be benchmarking when you're thinking about what you might make as an entrepreneur.
+
+<br>
 
 ### **Reward for starting a moderately successful startup**
 
 On the other hand consider two theoretical companies you might start. "Uber for Pet Sitting", it's a pretty good idea. If you're really well suited to this you might have a good shot at building a $100M company and your share of that company is likely to be around 10%. That certainly fluctuates a lot, some founders have more than this, some founders have a lot less, but after multiple rounds of dilution, multiple rounds of option pool creation you're pretty likely to end up with about 10%. So basically if you're extremely confident in building a $100M company, which is a big ask, you should of course have a lot more confidence in Facebook in 2009 or Dropbox in 2014 than you might for a startup that doesn't even exist yet.
 
+<br>
+
 ### **Reward for starting a very successful startup**
 
 If you think you're the right entrepreneur to build "Uber for Space Travel," that's a really huge idea, a $2B idea. You're actually going to have a pretty good return for that, you should definitely do that. This is also the value only after 4 years and this idea probably has legs, definitely go after that. If you're thinking of building that you probably shouldn't even be reading this right now, just go build that company.
+
+<br>
 
 ### **Potential for impact joining a company**
 
 So why might joining a late stage company actually have a lot of impact. You get this force multiplier: they have an existing mass of user base. If it's Facebook it's a billion users, if it's Google it's a billion users. They have existing infrastructures you get to build on. That's also increasingly true for a new startup, like AWS and all these awesome independent service providers, but you usually get some micro-proprietary technology and they maintain it for you. It's a pretty great place to start. And you get to work with a team, it'll help you leverage your ideas into something great.
 
+<br>
+
 ### **Bret Taylor at Google**
 
 A couple specific examples. Bret Taylor came into Google as around employee number 1500 and he invented Google Maps, a product used by hundreds of millions of people around the world. He didn't need to start a company to do that. He happened to get a big financial reward, but the point is yet again massive impact.
 
+<br>
+
 ### **Justin Rosenstein at Google**
 
 Justin Rosenstein joined Google a little later after Brett. He was a PM there and just as a side project he ended up prototyping a chat which used to be a stand-alone app, integrated in Gmail. Before he did that you couldn't even imagine you could chat over Ajax or chat in the browser at all and he just kind of demonstrated it, showed it to his team and made it happen. This is probably a product most of you use almost everyday.
+
+<br>
 
 ### **Justin Rosenstein at Facebook**
 
@@ -180,17 +218,25 @@ So it's important to keep in mind the context for what kind of company you're tr
 
 The best reason to start a startup is basically when you can't not do it. You're super passionate about this idea, you're the right person to do it, you've got to make it happen.
 
+<br>
+
 ### **You can't not do it because you're so passionate**
 
 There are two ways in which "you can't not do it." One is, you're so passionate about it that you have to do it and you're going to do it anyways. This is really important because you'll need that passion to get through all of those hard parts of being an entrepreneur that we talked about earlier. You'll also need it to effectively recruit. Candidates can smell when you don't have passion and there are enough entrepreneurs out there that do have passion so they may as well work for one of those. Your subconscious can also tell when you don't have passion and that can be a huge problem.
+
+<br>
 
 ### **You can't not do it because the world needs it**
 
 The other way to interpret "you can't not do it" is, the world needs you to do it. This is validation that the idea is important, that it's going to make the world better, so the world needs it. If it's not something the world needs, go do something the world needs. Your time is really valuable, there are plenty of good ideas out there, maybe it's not your own, maybe it's at an existing company, but you may as well work on something that's going to be good.
 
+<br>
+
 ### **You can't not do it because you're the best person to do it**
 
 Another way of thinking about this is that the world needs you to do it because you're actually well suited for this problem in some way. If this isn't true then it may be a sign that your time is better spent somewhere else. The best case scenario if this isn't true is, you outcompete the team for which it is true and it's a suboptimal outcome for the world and that doesn't feel very good.
+
+<br>
 
 ### **Starting Asana**
 

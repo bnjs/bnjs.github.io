@@ -128,6 +128,8 @@ Passion first, startup second
 
 ## 1. Idea
 
+<br>
+
 ### **Ideas matter**
 
 Great execution towards a terrible idea will get you nowhere.
@@ -140,6 +142,8 @@ When you're evaluating an idea, you need to think through the size and the growt
 
 Plans may become worthless, but the exercise of planning is really valuable
 
+<br>
+
 ### **Long-term thinking is important**
 
 You want something that can develop in interesting ways.
@@ -147,6 +151,8 @@ You want something that can develop in interesting ways.
 Someday you need to build a business that is difficult to replicate
 
 Idea first, startup second.
+
+<br>
 
 ### **Be mission-oriented**
 
@@ -163,6 +169,8 @@ If you don't love and believe in what you're building, you're likely to give up 
 In many ways it's easier to start a hard startup than an easy startup.
 
 Companies that copy an existing idea with very few new insights don't excite people and they don't compell the teams to work hard enough to be successful.
+
+<br>
 
 ### **Great ideas sound bad**
 
@@ -192,6 +200,8 @@ You need to take over a small specific market and expand from there.
 
 Unpopular but right, is what you're going for.
 
+<br>
+
 ### **Small but rapidly growing markets**
 
 You really want to take the time to think about how the market's going to evolve.
@@ -216,11 +226,15 @@ Why is this the perfect time for this particular idea and to start this particul
 
 The most successful YC startups all had a great idea and a great answer to "Why now?", and if you don't you should be at least somewhat suspicious about it.
 
+<br>
+
 ### **Build something you need, or get very close to your customers**
 
 In general, it's best if you're building something that you yourself need.
 
 If you don't need it yourself and you're building something that someone else needs, realize that you're at a big disadvantage and get very, very close to your customers.
+
+<br>
 
 ### **Good ideas are easy to explain**
 
@@ -228,11 +242,15 @@ Good startup ideas are almost always very easy to explain and very easy to under
 
 If it takes more than a sentence to explain what you're doing, it's almost always a sign that it's too complicated.
 
+<br>
+
 ### **Clone ideas usually fail**
 
 The best ideas are usually either very different from existing companies in one important way, or totally new.
 
 A company that's a clone of something else that already exists, with some small or made up differentiator; usually fails.
+
+<br>
 
 ### **Think market first, what people want**
 
@@ -246,6 +264,8 @@ One of the most common mistakes is that people have not thought about the market
 
 Product is anything involved in your customer's interaction with what you built for them, including customer support and copywrite explaining the product.
 
+<br>
+
 ### **Build a great product**
 
 To build a really great company you first have to turn a great idea into a great product.
@@ -255,6 +275,8 @@ Until you've built a great product, almost nothing else matters.
 Most of your time should be spent either sitting in front of the computer working on the product or talking to customers.
 
 Other problems like raising money, getting more press, hiring, business development, etc. are significantly easier when you have a great product.
+
+<br>
 
 ### **Make something users love**
 
@@ -274,6 +296,8 @@ It's much easier to expand from something that a small number of people love to 
 
 If you get this right, you can get a lot of other things wrong, but if you get this wrong, you can get everything else right and you'll probably still fail.
 
+<br>
+
 ### **Love creates organic growth**
 
 One way that you know when this is working is that you'll get growth by word of mouth.
@@ -292,11 +316,15 @@ Don't worry about your competitors raising a lot of money and what they may do i
 
 Very few startups die from competition. Most die because they themselves fail to make something users love.
 
+<br>
+
 ### **Start simple**
 
 Start with something simple, it's much easier to make a great product that way.
 
 Starting simple forces you to do one thing extremely well, and you have to do that to make something that people love.
+
+<br>
 
 ### **Be fanatical**
 
@@ -308,6 +336,8 @@ They don't ship crap, and if they do they fix it very, very quickly.
 
 And it definitely takes some level of fanaticism to build a great product.
 
+<br>
+
 ### **Do things that don't scale**
 
 You need some users to help with the feedback cycle, but the way to get those users is manually. You should go recruit them by hand.
@@ -317,6 +347,8 @@ Do things that don't scale.
 Get users manually and remember that the goal is to get a small group of them to love you.
 
 Understand that group extremely well, get extremely close to them.
+
+<br>
 
 ### **Tight feedback loop**
 
@@ -333,6 +365,8 @@ You should try to keep this going for all of your company's life, but it's reall
 Great founders don't put anyone between themselves and their users.
 
 It's critical to get this loop embedded in the culture.
+
+<br>
 
 ### **Answer to your metrics**
 
@@ -355,6 +389,8 @@ Startups live on growth, it's the indicator of a great product.
 
 If you don't get the idea and the product right, advice on team and execution is not going to help you.
 
+<br>
+
 ### **Choosing co-founders is very important**
 
 Choosing co-founders is one of the most important decisions you make in the life of your startup and you need to treat it as such.
@@ -370,6 +406,8 @@ It's better to have no co-founder than to have a bad co-founder, but it's still 
 For the top twenty most valuable YC companies, almost all of them have at least two founders. And we probably funded a rate of like one out of ten solo teams.
 
 
+<br>
+
 ### **You need relentlessly resourceful co-founders**
 
 You definitely need "relentlessly resourceful" co-founders.
@@ -381,10 +419,14 @@ You need someone that behaves like James Bond more than you need someone that is
 As I mentioned earlier, you really want to know your co-founders for awhile, ideally years.
 
 
+<br>
+
 ### **You want a tough and calm co-founder**
 
 In addition to relentlessly resourceful, you want a tough and a calm co-founder. Especially if you feel like you yourself aren't, you need a co-founder who is.
 
+
+<br>
 
 ### **You want a technical co-founder**
 
@@ -395,10 +437,14 @@ It's become popular to say, "We don't need a technical co-founders, we're gonna 
 Software people should really be starting software companies. Media people should be starting media companies.
 
 
+<br>
+
 ### **Two or three founders is ideal**
 
 In the YC experience, two or three co-founders seems to be about perfect. One, obviously not great. Five, really bad. Four works sometimes, but two or three I think is the target.
 
+
+<br>
 
 ### **Try not to hire**
 
@@ -413,12 +459,16 @@ At the beginning, you should only hire when you desperately need to.
 Later, you should learn to hire fast and scale up the company, but in the early days the goal should be not to hire.
 
 
+<br>
+
 ### **A bad early hire can kill the company**
 
 The cost of getting an early hire wrong is really high. A lot of the companies that I've been very involved with that have had a very bad early hire in the first three or so employees never recover, it just kills the company.
 
 Airbnb spent five months interviewing their first employee. And in their first year, they only hired two.
 
+
+<br>
 
 ### **Know what kind of person you want**
 
@@ -427,6 +477,8 @@ Before Airbnb hired a single person, they wrote down a list of the culture value
 These hires really matter, these people are what go on to define your company, and so you need people that believe in it almost as much as you do.
 
 
+<br>
+
 ### **Dedicated people come together when there's a crisis**
 
 But he's gotten this culture of extremely dedicated people that come together when the company faces a crisis. And when the company faced a big crisis early on, everyone lived in the office, and they shipped product every day until the crisis was over. One of the remarkable observations about Airbnb is that if you talk to any of the first forty or so employees, they all feel like they were a part of the founding of the company.
@@ -434,10 +486,14 @@ But he's gotten this culture of extremely dedicated people that come together wh
 But by having an extremely high bar, by hiring slowly ensures that everyone believes in the mission, you can get that.
 
 
+<br>
+
 ### **When you're in hiring mode, it should be number one priority**
 
 When you're in this hiring mode, it should be your number one priority to get the best people. Just like when you're in product mode that should be your number one priority. And when you're in fundraising mode, fundraising is your number one priority.
 
+
+<br>
 
 ### **Recruiting is hard**
 
@@ -448,6 +504,8 @@ To get the very best people, they have a lot of great options and so it can easi
 This is another case of why it's really important to get the product right before looking at anything else. The best people know that they should join a rocketship.
 
 
+<br>
+
 ### **Good people join rocketships**
 
 If you're going to join a startup, pick a rocketship. Pick a company that's already working and that not everyone yet realizes that, but you know because you're paying attention, that it's going to be huge.
@@ -456,6 +514,8 @@ Good people can identity rocketships, and so good people will wait, to see that 
 
 How much time should you be spending on hiring? Zero or twenty-five percent. You're either not hiring at all or it's probably your single biggest block of time.
 
+
+<br>
 
 ### **Mediocre hires can poison the culture**
 
@@ -466,6 +526,8 @@ Mediocre people at huge companies will cause some problems, but it won't kill th
 You can think about that for everyone you hire: will I bet the future of this company on this single hire? And that's a tough bar.
 
 
+<br>
+
 ### **Hire people you or existing employees already know**
 
 The best source for hiring by far is people that you already know and people that other employees in the company already know.
@@ -474,6 +536,8 @@ These personal referrals really are the trick to hiring.
 
 Another tip is to look outside the valley. It is brutally competitive to hire engineers here but you probably know people elsewhere in the world that would like to work with you.
 
+
+<br>
 
 ### **Experience may or may not matter**
 
@@ -486,6 +550,8 @@ Most of the best hires that I've made in my entire life have never done that thi
 So it's really worth thinking, is this a role where I care about experience or not. And you'll often find you don't, especially in the early days.
 
 
+<br>
+
 ### **Smart, get things done, want to spend a lot of time around them**
 
 There are three things I look for in a hire. Are they smart? Do they get things done? Do I want to spend a lot of time around them? And if I get an answer, if I can say yes to all three of these, I never regret it, it's almost always worked out.
@@ -495,6 +561,8 @@ You can learn a lot about all three of these things in an interview but the very
 If you haven't worked together, then it's way better to work with someone on a project for a day or two before hiring them. You'll both learn a lot they will too and most first-time founders are very bad interviewers but very good at evaluating someone after they've worked together.
 
 
+<br>
+
 ### **Working on a project together > interview**
 
 Try to work on a project together instead of an interview. If you are going to interview, which you probably will, you should ask specifically about projects that someone worked on in the past. You'll learn a lot more than you will with brainteasers.
@@ -502,35 +570,49 @@ Try to work on a project together instead of an interview. If you are going to i
 For some reason, young technical co-founders love to ask brainteasers rather than just ask what someone has done. Really dig in to projects people have worked on.
 
 
+<br>
+
 ### **Call references**
 
 Call references. That is another thing that first time founders like to skip. You want to call some people that these people have worked with in the past. And when you do, you don't just want to ask, How was so-and-so, you really want to dig in. Is this person in the top five percent of people you've ever worked with? What specifically did they do? Would you hire them again? Why aren't you trying to hire them again? You really have to press on these reference calls.
 
+
+<br>
 
 ### **Good communication skills are a good indicator**
 
 Good communication skills tend to correlate with hires that work out. If someone is difficult to talk to, if someone cannot communicate clearly, it's a real problem in terms of their likelihood to work out.
 
 
+<br>
+
 ### **You want someone with a risk-taking attitude**
 
 For early employees you want someone that has somewhat of a risk-taking attitude. You generally get this, otherwise they wouldn't be interested in a startup, but now that startups are sort of more in fashion, you want people that actually sort of like a little bit of risk.
 
+
+<br>
 
 ### **You want people who are maniacally determined**
 
 You want people who are maniacally determined and that is slightly different than having a risk tolerant attitude. So you really should be looking for both.
 
 
+<br>
+
 ### **You need unstoppable people, "animals"**
 
 There is a famous test from Paul Graham called the animal test. The idea here is that you should be able to describe any employee as an animal at what they do. You need unstoppable people. You want people that are just going to get it done. Founders who usually end up being very happy with their early hires usually end up describing these people as the very best in the world at what they do.
 
 
+<br>
+
 ### **Comfortable hanging with socially, comfortable reporting to**
 
 Mark Zuckerberg once said that he tries to hire people that A. he'd be comfortable hanging with socially and B. he'd be comfortable reporting to if the roles were reversed. You don't have to be friends with everybody, but you should at least enjoy working with them. And if you don't have that, you should at least deeply respect them. But again, if you don't want to spend a lot of time around people you should trust your instincts about that.
 
+
+<br>
 
 ### **Give about 10% of company to first ten employees**
 
@@ -539,12 +621,16 @@ I think as a rough estimate, you should aim to give about ten percent of the com
 They have to earn it over four years anyway, and if they're successful, they're going to contribute way more than that. They're going to increase the value of the company way more than that, and if they don't then they won't be around anyway.
 
 
+<br>
+
 ### **Employee equity > investor equity**
 
 For whatever reason founders are usually very stingy with equity to employees and very generous with equity for investors. I think this is totally backwards. Employees will only add more value over time. Investors will usually write the check and then, despite a lot of promises, don't usually do that much. Sometimes they do, but your employees are really the ones that build the company over years and years.
 
 Fight with investors to reduce the amount of equity they get and then be as generous as you possibly can with employees. The YC companies that have done this well, the YC companies that have been super generous with their equity to early employees, in general, are the most successful ones that we've funded.
 
+
+<br>
 
 ### **You have to retain your employees**
 
@@ -555,20 +641,28 @@ Learning just a little bit of management skills, which first-time CEOs are usual
 But as a founder, this is a very natural instinct. You think you can do everything the best and it's easy to tell people when they're not doing it well. So learning just a little bit here will prevent this massive team churn.
 
 
+<br>
+
 ### **Praise your employees**
 
 It also doesn't come naturally to most founders to really praise their team. It took me a little while to learn this too. You have to let your team take credit for all the good stuff that happens, and you take responsibility for the bad stuff.
 
+
+<br>
 
 ### **Don't micromanage**
 
 You have to not micromanage. You have to continually give people small areas of responsibility. These are not the things that founders think about. I think the best thing you can do as a first-time founder is to be aware that you will be a very bad manager and try to overcompensate for that.
 
 
+<br>
+
 ### **Autonomy, master, purpose**
 
 Dan Pink talks about these three things that motivate people to do great work: autonomy, mastery, and purpose.
 
+
+<br>
 
 ### **Firing people when it's not working**
 
@@ -581,6 +675,8 @@ How do you balance firing people fast and making early employees feel secure? Wh
 If someone is getting every decision wrong, that's when you need to act, and at that point it'll be painfully aware to everyone. It's not a case of a few screw-ups, it's a case where every time someone does something, you would have done the opposite yourself. You don't get to make their decisions but you do get to choose the decision-makers. And, if someone's doing everything wrong, just like a consistent thing over like a period of many weeks or a month, you'll be aware of it.
 
 
+<br>
+
 ### **Co-founder equity split**
 
 Co-founders should decide on the equity split ideally very soon after they start working together.
@@ -590,12 +686,16 @@ It should be near-equal. If you're not willing to give someone - your co-founder
 You should try to have the ink dry on this before the company gets too far along. Certainly in the first number of weeks.
 
 
+<br>
+
 ### **People who scale**
 
 Inexperience is OK, but how do you know if someone's going to scale past, not scale up to, a role as things go on and later become crippling?
 
 People that are really smart and that can learn new things can almost always find a role in the company as time goes on. You may have to move them into something else, something other than where they started.
 
+
+<br>
 
 ### **When relationships sour**
 
@@ -604,10 +704,14 @@ What happens when your relationship with your co-founder falls apart? Every co-f
 If you don't do that and one founder leaves early on with half the company, you have this deadweight on your equity table, and it's very hard to get investors to fund you or to do anything else.
 
 
+<br>
+
 ### **High hiring standards when customers are on the line**
 
 If you have to choose between hiring a sub-optimal employee and losing your customers to a competitor, what do you do? If it's going to be one of the first five employees at a company I would lose those customers. It's better to lose some customers than to kill the company. Later on might be different,  but it's really hard to say in the general case.
 
+
+<br>
 
 ### **Remote co-founders**
 
@@ -618,6 +722,8 @@ What about co-founders that aren't working in the same location? The answer is, 
 
 ## 4. Execution
 
+<br>
+
 ### **Execution is most critical**
 
 Execution for most founders is not the most fun part of running the company, but it is the most critical.
@@ -625,10 +731,14 @@ Execution for most founders is not the most fun part of running the company, but
 What being a co-founder really means, is signing up for this year's long grind on execution and you can't outsource this.
 
 
+<br>
+
 ### **The company needs to see you as this maniacal execution machine**
 
 The way to have a company that executes well is you have to execute well yourself. Everything at a startup gets modeled after the founders. Whatever the founders do becomes the culture. So if you want a culture where people work hard, pay attention to detail, manage the customers, are frugal, you have to do it yourself. There is no other way. You cannot hire a COO to do that while you go off to conferences. The company just needs to see you as this maniacal execution machine.
 
+
+<br>
 
 ### **Only executing well converts ideas into value**
 
@@ -637,10 +747,14 @@ There's at least a hundred times more people with great ideas than people who ar
 A big part of execution is just putting in the effort, but there is a lot you can learn about how to be good at it.
 
 
+<br>
+
 ### **Ceo: set the vision, raise money, evangelize the mission, hire/manage team, set the execution bar**
 
 The jobs of the CEO. There are probably more than five, here are five that come up a lot in the early days. The first four everyone thinks of as CEO jobs: set the vision, raise money, evangelize the mission to people you're trying to recruit (executives, partners, press, everybody), hire and manage the team. But the fifth one is setting the execution bar and this is not the one that most founders get excited about or envision themselves doing but I think it is actually one of the critical CEO roles and no one but the CEO can do this.
 
+
+<br>
 
 ### **Figure out what to do and get it done; focus and intensity**
 
@@ -649,6 +763,8 @@ Execution gets divided into two key questions. One, can you figure out what to d
 One of the hardest parts about being a founder is that there are a hundred important things competing for your attention every day. And you have to identify the right two or three, work on those, and then ignore, delegate, or defer the rest.
 
 
+<br>
+
 ### **Figure out the one or two most important things and just do those**
 
 A lot of things that founders think are important -- interviewing a lot at different law firms, going to conferences, recruiting advisers, whatever -- they just don't matter. What really does matter varies with time, but it's an important piece of advice. You need to figure out what the one or two most important things are, and then just do those.
@@ -656,10 +772,14 @@ A lot of things that founders think are important -- interviewing a lot at diffe
 You can only have two or three things every day, because everything else will just come at you. There will be fires every day and if you don't get good at setting what those two or three things are, you'll never be good at getting stuff done. This is really hard for founders. Founders get excited about starting new things.
 
 
+<br>
+
 ### **Great execution means saying no a lot**
 
 Unfortunately the trick to great execution is to say no a lot. You're saying no ninety-seven times out of a hundred, and most founders find they have to make a very conscious effort to do this.
 
+
+<br>
 
 ### **There's a difference between working really hard and working really hard on the right things**
 
@@ -668,20 +788,28 @@ Most startups are nowhere near focused enough. They work really hard, maybe, but
 One of the great and terrible things about starting a start up is that you get no credit for trying. You only get points when you make something the market wants. So if you work really hard on the wrong things, no one will care.
 
 
+<br>
+
 ### **It's really important to have goals**
 
 How do you figure out what to focus on each day? Each day it's really important to have goals. Most good founders I know have a set of small overarching goals for the company that everybody in the company knows. It could be something like ship a product by this date, get this certain growth rate, get this engagement rate, hire for these key roles, those are some of them but everyone in the company can tell you each week what are our key goals. And then everybody executes based off of that.
 
+
+<br>
 
 ### **Founders set the focus**
 
 The founders really set the focus. Whatever the founders care about, whatever the founders focus on, that's going to set the goals for the whole company. The best founders repeat these goals over and over, far more often than they think they should need to. They put them up on the walls they talk about them in one on ones and at all-hands meetings each week. It keeps the company focus.
 
 
+<br>
+
 ### **You can't be focused without good communication**
 
 One of the keys to focus, and why co-founders that aren't friends struggle, is that you can't be focused without good communication. Even if you have only four or five people at a company, a small communication breakdown is enough for people to be working on slightly different things. And then you lose focus and the company just scrambles.
 
+
+<br>
 
 ### **Never lose focus on growth and momentum**
 
@@ -690,20 +818,28 @@ Growth and momentum are something you can never lose focus on. Growth and moment
 So you want to have the right metrics and you want to be focused on growing those metrics and having momentum. Don't let the company get distracted or excited about other things.
 
 
+<br>
+
 ### **Don't be fooeld by your own pr**
 
 A common mistake is that companies get excited by their own PR. It's really easy to get PR with no results and it actually feels like you're really cool. But in a year you'll have nothing, and at that point you won't be cool anymore, and you'll just be talking about these articles from a year ago that.
 
+
+<br>
 
 ### **Be in the same space**
 
 Be in the same space. I think this is pretty much a nonstarter. Remote co-founding teams is just really really hard. It slows down the cycle time more than anybody ever thinks it's going to.
 
 
+<br>
+
 ### **Startups only work at a fairly intense level**
 
 The other piece for [execution besides focus] is intensity. Startups only work at a fairly intense level. A friend of mine says the secret to start up success is extreme focus and extreme dedication. You can have a startup and one other thing. You can have a family, but you probably can't have many other things. Startups are not the best choice for work life balance and that's sort of just the sad reality. Startups are all-consuming in a way that is generally difficult to explain. You basically need to be willing to outwork your competitors.
 
+
+<br>
 
 ### **A small amount of extra work on the right things makes a huge difference**
 
@@ -712,10 +848,14 @@ The good news here is that a small amount of extra work on the right thing makes
 So this is one concrete example of where a tiny extra bit of work is the difference between success and failure. When we talk to successful founders they tell stories like this all the time. Just outworking their competitors by a little bit was what made them successful.
 
 
+<br>
+
 ### **Intensity, execution speed, relentless operating rhythm**
 
 So you have to be really intense. This only comes from the CEO, this only comes from the founders. One of the biggest advantages that start ups have is execution speed and you have to have this relentless operating rhythm.
 
+
+<br>
 
 ### **Move fast and be obsessed with quality**
 
@@ -724,15 +864,21 @@ Facebook has this famous poster that says move fast and break things. But at the
 Apple, Google, and Facebook have each done this extremely well. It's not about the product, it's about everything they do. They move fast and they break things, they're frugal in the right places, but they care about quality everywhere. You don't buy people shitty computers if you don't want them to write shitty code. You have to set a quality bar that runs through the entire company.
 
 
+<br>
+
 ### **Be decisive, have a bias towards action**
 
 Related to this is that you have to be decisive. Indecisiveness is a startup killer. Mediocre founders spend a lot of time talking about grand plans, but they never make a decision. They're talking about you know I could do this thing, or I could do that other thing, and they're going back and forth and they never act. And what you actually need is this bias towards action.
 
 
+<br>
+
 ### **Successful founders move really quickly**
 
 The best founders work on things that seem small but they move really quickly. They get things done really quickly. Every time you talk to the best founders they've gotten new things done. In fact, this is the one thing that we learned best predicts a success of founders in YC. If every time we talk to a team they've gotten new things done, that's the best predictor we have that a company will be successful.
 
+
+<br>
 
 ### **Do big things in incremental pieces**
 
@@ -741,20 +887,28 @@ Part of this is that you can do huge things in incremental pieces. If you keep k
 So you have to pick these right size projects. Even if you're building this crazy biosynthetic company and you say well I have to go away for a year, there's no way to do this incrementally, you can still usually break it into smaller projects.
 
 
+<br>
+
 ### **The best founders are quick, "do whatever it takes" attitude**
 
 So speed is this huge premium. The best founders usually respond to e-mail the most quickly, make decisions most quickly, they're generally quick in all of these ways. And they have this "do whatever it takes" attitude.
 
+
+<br>
 
 ### **The best founders show up a lot**
 
 They also show up a lot. They come to meetings, they come in, they meet us in person. One piece of advice that I have that's always worked for me: they get on planes in marginal situations.
 
 
+<br>
+
 ### **You want a company to be winning all the time**
 
 The momentum and growth are the lifeblood of startups. This is probably in the top three secrets of executing well. You want a company to be winning all the time. If you ever take your foot off the gas pedal, things will spiral out of control, snowball downwards.
 
+
+<br>
 
 ### **Always keep momentum: the prime directive for managing a startup**
 
@@ -767,10 +921,14 @@ This is what we tell people during YC, and they usually listen and everything is
 It's hard to figure out a growth engine because most companies grow in new ways, but there's this thing: if you build a good product it will grow. So getting this product right at the beginning is the best way not to lose momentum later.
 
 
+<br>
+
 ### **Get momentum back in small wins**
 
 If you do lose momentum, most founders try to get it back in the wrong way. They give these long speeches about vision for the company and try to rally the troops with speeches. But employees in a company where momentum has sagged, don't want to hear that. You have to save the vision speeches for when the company is winning. When you're not winning, you just have to get momentum back in small wins. A board member of mine used to say that sales fix everything in a startup. And that is really true. So you figure out where you can get these small wins and you get that done. And then you'll be amazed at how all the other problems in a startup disappear.
 
+
+<br>
 
 ### **Momentum sag can lead to disagreements**
 
@@ -779,10 +937,14 @@ Another thing that you'll notice if you have momentum sag, is that everyone star
 When Facebook's growth slowed in 2008, Mark instituted a "growth group." They worked on very small things to make Facebook grow faster. All of these by themselves seemed really small, but they got the curve of Facebook back up. It quickly became the most prestigious group there. Mark has said that it's been one of Facebook's best innovations. According to friends of mine that worked at Facebook at the time, it really turned around the dynamic of the company. And it went from this thing where everyone was feeling bad, and momentum was gone, back to a place that was winning.
 
 
+<br>
+
 ### **Establish an operating rhythm early**
 
 So a good way to keep momentum is to establish an operating rhythm at the company early. Where you ship product and launch new features on a regular basis. Where you're reviewing metrics every week with the entire company. This is actually one of the best things your board can do for you. Boards add value to business strategy only rarely. But very frequently you can use them as a forcing function to get the company to care about metrics and milestones.
 
+
+<br>
 
 ### **Don't let competitors disrupt momentum**
 
