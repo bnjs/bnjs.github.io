@@ -62,23 +62,24 @@ Below you will find my personal blog, a list of projects, and some notes I took 
 
 ## Notes
 
-I. CS183B
+<a href="/notes/steve-jobs-10-rules-for-life/">Steve Jobs: 10 Rules for Life</a>
+
+YCombinator
 
 <p>
-<a href="/notes/cs183b-lecture-1-dustin-moskovitz-why-to-start-a-startup/">Lecture 1: Dustin Moskovitz "Why to Start a Startup" Notes</a><br>
-<a href="/notes/sam-altman-ideas-products-teams-and-execution-highlights/">Lectures 1+2: Sam Altman "Ideas, Products, Teams and Execution" Notes</a><br>
-<a href="/notes/cs183b-lecture-3-paul-graham-counterintuitive-parts-of-startups-and-how-to-have-ideas/">Lecture 3: Paul Graham "Counterintuitive Parts of Startups, and How to Have Ideas" Notes</a><br>
-<a href="/notes/cs183b-lecture-4-adora-cheung-building-product-talking-to-users-and-growing/">Lecture 4: Adora Cheung "Building Product, Talking to Users, and Growing" Notes</a><br>
-<a href="/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/">Lecture 5: Peter Thiel "Business Strategy and Monopoly Theory" Notes</a><br>
+<a href="/notes/cs183b-lecture-1-dustin-moskovitz-why-to-start-a-startup/">CS183B - Lecture 1: Dustin Moskovitz "Why to Start a Startup" Notes</a><br>
+<a href="/notes/sam-altman-ideas-products-teams-and-execution-highlights/">CS183B - Lectures 1+2: Sam Altman "Ideas, Products, Teams and Execution" Notes</a><br>
+<a href="/notes/cs183b-lecture-3-paul-graham-counterintuitive-parts-of-startups-and-how-to-have-ideas/">CS183B - Lecture 3: Paul Graham "Counterintuitive Parts of Startups, and How to Have Ideas" Notes</a><br>
+<a href="/notes/cs183b-lecture-4-adora-cheung-building-product-talking-to-users-and-growing/">CS183B - Lecture 4: Adora Cheung "Building Product, Talking to Users, and Growing" Notes</a><br>
+<a href="/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/">CS183B - Lecture 5: Peter Thiel "Business Strategy and Monopoly Theory" Notes</a><br>
 <br>
-<a href="/notes/startup-checklist/">Startup Checklist</a>
+<a href="/notes/startup-checklist/">CS183B - Startup Checklist</a><br>
+<br>
+<a href="/2014/09/25/transcript-lecture-1-how-to-start-a-startup/">CS183B - (Transcript) Lecture 1: How to Start a Startup</a><br>
+<br>
+<a href="/transcript-paul-graham-in-conversation-with-nathan-blecharczyk">(Transcript) Paul Graham in Conversation with Nathan Blecharczyk</a>
 </p>
 
-II. Transcripts
-
-[Transcript: Lecture 1 - How to Start a Startup](/2014/09/25/transcript-lecture-1-how-to-start-a-startup/)
-
-[Transcript: Paul Graham in Conversation with Nathan Blecharczyk](/transcript-paul-graham-in-conversation-with-nathan-blecharczyk)
 
 
 

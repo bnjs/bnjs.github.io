@@ -18,6 +18,10 @@ h2, h3 {
   text-decoration: underline;
 }
 
+.no-underline, h2.no-underline, h3.no-underline { text-decoration: none; }
+
+.underline { text-decoration: underline; }
+
 .wrapper {
   width:860px;
   margin:0 auto;
