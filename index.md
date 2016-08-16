@@ -18,7 +18,7 @@ Dear Reader:
 
 Welcome! Allow me to <a href="/about-me">introduce myself</a>.
 
-Below you will find my personal blog, a list of projects, and some notes I took about startups.
+Below you will find my personal blog, some past and present projects, and some notes about startups.
 
 <br>
 
@@ -52,9 +52,9 @@ Below you will find my personal blog, a list of projects, and some notes I took 
 <!-- a href="https://github.com/bonsaiben/algebra-anki" target="_blank">Algebra Anki</a> - <span>Algebra flashcards for spaced-repetition software Anki</span -->
 
 <p>
-<a href="http://dont-kill-the-courier.tumblr.com">Don't Kill the Courier</a> - A blog devoted to typewritten documents from the 1940s, '50s, '60s and '70s.<br>
-<a href="https://www.tadaku.com" target="_blank">Tadaku</a> - <span>Home cooking lesson service</span><br>
-<a href="https://tokyo-startup-circle.doorkeeper.jp/" target="_blank">Tokyo Startup Circle</a> - <span>Up to 7 people meet over coffee every other Saturday to talk about startups</span><br>
+<a href="http://dont-kill-the-courier.tumblr.com">Don't Kill the Courier</a> - A blog devoted to typewritten documents from the 1940s, '50s, '60s and '70s<br>
+<a href="https://www.tadaku.com" target="_blank">Tadaku</a> - <span>An international cooking lesson service based in Japan</span><br>
+<a href="https://tokyo-startup-circle.doorkeeper.jp/" target="_blank">Tokyo Startup Circle</a> - <span>7 people meet over coffee every other Saturday to talk about startups</span><br>
 <a href="https://github.com/bonsaiben/bootstrap-snippets" target="_blank">Bootstrap Snippets</a> - <span>Twitter Bootstrap markup snippets for Vim snipMate</span><br>
 </p>
 
