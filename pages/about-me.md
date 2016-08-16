@@ -13,9 +13,9 @@ My first love was computers. I started out on my dad's Apple IIE and later Macin
 
 My parents took me out of school in the 6th grade and uprooted our family to a rural country town. (I wouldn't end up going back to school until college.) I was extremely lonely during most of my adolescence.
 
-My second love was movies. I consider the AFI's 1994 ["100 Years... 100 Movies"](https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies) ranking definitive. My personal top 10 favorites from the ranking are Schindler's List, Amadeus, Star Wars, The Godfather, 2001: A Space Odyssey, Doctor Zhivago, Rear Window, Singin' in the Rain, Casablanca, and Citizen Kane. (That's 11 but I call it my top 10 because I can't decide which one to drop.)
+My second love was movies. I consider the AFI's 1994 ["100 Years... 100 Movies"](https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies) ranking definitive. When I was 15 I seriously thought I would go into film-making and apprenticed on a couple of local low-budget productions.
 
-My third love was language and philosophy. When I was 15 I started studying Japanese because it seemed hard and I was obsessed with a video game called [Shenmue](https://en.wikipedia.org/wiki/Shenmue). I studied <em>kanji</em> every day at Starbucks. I was also obsessed with traditional Japanese arts and culture. [MOFA Boston](http://www.mfa.org/)'s Japan Exhibit was a favorite hangout spot. I chose Japanese Language & Literature as my major in college.
+My third love was language and philosophy. When I was 16 I started studying Japanese because it seemed hard and I was obsessed with a video game called [Shenmue](https://en.wikipedia.org/wiki/Shenmue). I studied <em>kanji</em> every day at Starbucks. I was also obsessed with traditional Japanese arts and culture. [MOFA Boston](http://www.mfa.org/)'s Japan Exhibit was a favorite hangout spot. I chose Japanese Language & Literature as my major in college.
 
 My first trip to Japan was a summer program in Hokkaido as a sophomore in '04. I spent the next summer in Shiga prefecture in '05, and got a [MEXT-Japan](http://www.mext.go.jp/english/) scholarship to study at Hokkaido University from '05 to '06. After graduating college in the States in '07, I returned again to start a new life as an English teacher in Tokyo.
 
