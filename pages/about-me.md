@@ -9,7 +9,7 @@ permalink: about-me/
 
 I grew up in the Boston area.
 
-My first love was computers. I started out on my dad's Apple IIE and later Macintosh. Playing [Monkey Island](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island) is my fondest childhood memory. My dad paid a local cash-strapped comp-sci student to teach me programming in [BASIC](https://en.wikipedia.org/wiki/BASIC) when I was 9.
+My first love was computers. I started out on my dad's Apple IIE and later Macintosh. Playing [Monkey Island](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island) is my fondest memory from childhood. My dad paid a local cash-strapped comp-sci student to teach me programming in [BASIC](https://en.wikipedia.org/wiki/BASIC) when I was 9.
 
 My parents took me out of school in the 6th grade and uprooted our family to a rural country town. (I wouldn't end up going back to school until college.) I was extremely lonely during most of my adolescence.
 
@@ -17,7 +17,7 @@ My second love was movies. I consider the AFI's 1994 ["100 Years... 100 Movies"]
 
 My third love was language and philosophy. When I was 16 I started studying Japanese because it seemed hard and I was obsessed with a video game called [Shenmue](https://en.wikipedia.org/wiki/Shenmue). I studied <em>kanji</em> every day at Starbucks. I was also obsessed with traditional Japanese arts and culture. [MOFA Boston](http://www.mfa.org/)'s Japan Exhibit was a favorite hangout spot. I chose Japanese Language & Literature as my major in college.
 
-My first trip to Japan was a summer program in Hokkaido as a sophomore in '04. I spent the next summer in Shiga prefecture in '05, and got a [MEXT-Japan](http://www.mext.go.jp/english/) scholarship to study at Hokkaido University from '05 to '06. After graduating college in the States in '07, I returned again to start a new life as an English teacher in Tokyo.
+My first trip to Japan was a summer program in Hokkaido as a sophomore in '04. I spent the next summer in Shiga prefecture in '05, and got a [MEXT-Japan](http://www.mext.go.jp/english/) scholarship to study at Hokkaido University from '05 to '06. After graduating college in the States in '07, I returned again to begin a new life as an English teacher in Tokyo.
 
 I spent 2 years hating my job, which was at once soul-crushing and the most motivating experience of my life (to leave). I took fewer hours, scraped by, and busted my ass to catch up on software and the web. Landing my first job writing code was a top 5 happiest moment in my life, and the start of an exciting career in technology and startups.
 
@@ -34,7 +34,7 @@ I like to solve hard problems and build things that make an impact.
 
 \- Technical Lead/Manager at <a href="https://www.instacart.com/" target="_blank">Instacart</a>.<br>
 \- Cofounded and built <a href="http://www.tadaku.com" target="_blank">Tadaku</a> (acquired 2015).<br>
-\- Early engineer at <a href="http://www.kenzai.me" target="_blank">Kenzai</a> with the before+after pics to prove it.<br>
+\- Early engineer at <a href="http://www.kenzai.me" target="_blank">Kenzai</a> with the <a href="https://www.dropbox.com/s/812sm7erppjmu5v/kenzai_comparison.png?dl=0">before+after pics</a> to prove it.<br>
 \- Got started slingin' coupons at <a href="http://kumapon.jp" target="_blank">Kumapon</a> when Groupon was king.
 
 <br>
