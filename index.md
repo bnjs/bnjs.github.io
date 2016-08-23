@@ -62,6 +62,8 @@ Below you will find my personal blog, some past and present projects, and some n
 
 ## Notes
 
+<a href="/notes/how-to-do-stuff/">How To Do Stuff</a>
+
 <a href="/notes/steve-jobs-10-rules-for-life/">Steve Jobs: 10 Rules for Life</a>
 
 YCombinator
@@ -72,11 +74,8 @@ YCombinator
 <a href="/notes/cs183b-lecture-3-paul-graham-counterintuitive-parts-of-startups-and-how-to-have-ideas/">CS183B - Lecture 3: Paul Graham "Counterintuitive Parts of Startups, and How to Have Ideas" Notes</a><br>
 <a href="/notes/cs183b-lecture-4-adora-cheung-building-product-talking-to-users-and-growing/">CS183B - Lecture 4: Adora Cheung "Building Product, Talking to Users, and Growing" Notes</a><br>
 <a href="/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/">CS183B - Lecture 5: Peter Thiel "Business Strategy and Monopoly Theory" Notes</a><br>
-<br>
 <a href="/notes/startup-checklist/">CS183B - Startup Checklist</a><br>
-<br>
 <a href="/2014/09/25/transcript-lecture-1-how-to-start-a-startup/">CS183B - (Transcript) Lecture 1: How to Start a Startup</a><br>
-<br>
 <a href="/transcript-paul-graham-in-conversation-with-nathan-blecharczyk">(Transcript) Paul Graham in Conversation with Nathan Blecharczyk</a>
 </p>
 
