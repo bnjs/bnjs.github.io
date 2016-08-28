@@ -11,6 +11,8 @@ permalink: notes/lists-of-things/
 
 - Entertainment
   - <a href="#100-years-100-movies">AFI's 1998 "100 Years...100 Movies"</a>
+- Travel
+  - <a href="#japan-world-heritage-list">Japan World Heritage List</a>
 - Social
   - <a href="#how-to-win-friends-and-influence-people">How to Win Friends and Influence People</a>
 
@@ -125,6 +127,38 @@ permalink: notes/lists-of-things/
 
 Source: <a href="https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies">wikipedia.org</a>
 
+<br>
+
+<h2>Travel</h2>
+
+<br>
+
+<h3 id="japan-world-heritage-list">Japan World Heritage List</h3>
+
+- <span class="underline">Cultural</span>
+  - Buddhist Monuments in the Horyu-ji Area (1993)
+  - Fujisan, sacred place and source of artistic inspiration (2013)
+  - Gusuku Sites and Related Properties of the Kingdom of Ryukyu (2000)
+  - Himeji-jo (1993)
+  - Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land (2011)
+  - Hiroshima Peace Memorial (Genbaku Dome) (1996)
+  - Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities) (1994)
+  - Historic Monuments of Ancient Nara (1998)
+  - Historic Villages of Shirakawa-go and Gokayama (1995)
+  - Itsukushima Shinto Shrine (1996)
+  - Iwami Ginzan Silver Mine and its Cultural Landscape (2007)
+  - Sacred Sites and Pilgrimage Routes in the Kii Mountain Range (2004)
+  - Shrines and Temples of Nikko (1999)
+  - Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining (2015)
+  - The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement (2016)
+  - Tomioka Silk Mill and Related Sites (2014)
+- <span class="underline">Natural</span>
+  - Ogasawara Islands (2011)
+  - Shirakami-Sanchi (1993)
+  - Shiretoko (2005)
+  - Yakushima (1993)
+
+Source: <a href="http://whc.unesco.org/en/statesparties/jp">unesco.org</a>
 
 <br>
 
