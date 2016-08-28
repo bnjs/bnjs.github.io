@@ -9,11 +9,124 @@ permalink: notes/lists-of-things/
  ol li, ul li { font-weight: normal; }
 </style>
 
+- Entertainment
+  - <a href="#100-years-100-movies">AFI's 1998 "100 Years...100 Movies"</a>
 - Social
   - <a href="#how-to-win-friends-and-influence-people">How to Win Friends and Influence People</a>
 
 <br>
 
+<h2>Entertainment</h2>
+
+<br>
+
+<h3 id="100-years-100-movies">AFI's 1998 "100 Years...100 Movies"</h3>
+
+1. (1941) Citizen Kane
+1. (1942) Casablanca
+1. (1972) The Godfather
+1. (1939) Gone with the Wind
+1. (1962) Lawrence of Arabia
+1. (1939) The Wizard of Oz
+1. (1967) The Graduate
+1. (1954) On the Waterfront
+1. (1993) Schindler's List
+1. (1952) Singin' in the Rain
+1. (1946) It's a Wonderful Life
+1. (1950) Sunset Boulevard
+1. (1957) The Bridge on the River Kwai
+1. (1959) Some Like It Hot
+1. (1977) Star Wars
+1. (1950) All About Eve
+1. (1951) The African Queen
+1. (1960) Psycho
+1. (1974) Chinatown
+1. (1975) One Flew Over the Cuckoo's Nest
+1. (1940) The Grapes of Wrath
+1. (1968) 2001: A Space Odyssey
+1. (1941) The Maltese Falcon
+1. (1980) Raging Bull
+1. (1982) E.T. the Extra-Terrestrial
+1. (1964) Dr. Strangelove
+1. (1967) Bonnie and Clyde
+1. (1979) Apocalypse Now
+1. (1939) Mr. Smith Goes to Washington
+1. (1948) The Treasure of the Sierra Madre
+1. (1977) Annie Hall
+1. (1974) The Godfather Part II
+1. (1952) High Noon
+1. (1962) To Kill a Mockingbird
+1. (1934) It Happened One Night
+1. (1969) Midnight Cowboy
+1. (1946) The Best Years of Our Lives
+1. (1944) Double Indemnity
+1. (1965) Doctor Zhivago
+1. (1959) North by Northwest
+1. (1961) West Side Story
+1. (1954) Rear Window
+1. (1933) King Kong
+1. (1915) The Birth of a Nation
+1. (1951) A Streetcar Named Desire
+1. (1971) A Clockwork Orange
+1. (1976) Taxi Driver
+1. (1975) Jaws
+1. (1937) Snow White and the Seven Dwarfs
+1. (1969) Butch Cassidy and the Sundance Kid
+1. (1940) The Philadelphia Story
+1. (1953) From Here to Eternity
+1. (1984) Amadeus
+1. (1930) All Quiet on the Western Front
+1. (1965) The Sound of Music
+1. (1970) MASH
+1. (1949) The Third Man
+1. (1940) Fantasia
+1. (1955) Rebel Without a Cause
+1. (1981) Raiders of the Lost Ark
+1. (1958) Vertigo
+1. (1982) Tootsie
+1. (1939) Stagecoach
+1. (1977) Close Encounters of the Third Kind
+1. (1991) The Silence of the Lambs
+1. (1976) Network
+1. (1962) The Manchurian Candidate
+1. (1951) An American in Paris
+1. (1953) Shane
+1. (1971) The French Connection
+1. (1994) Forrest Gump
+1. (1959) Ben-Hur
+1. (1939) Wuthering Heights
+1. (1925) The Gold Rush
+1. (1990) Dances with Wolves
+1. (1931) City Lights
+1. (1973) American Graffiti
+1. (1976) Rocky
+1. (1978) The Deer Hunter
+1. (1969) The Wild Bunch
+1. (1936) Modern Times
+1. (1956) Giant
+1. (1986) Platoon
+1. (1996) Fargo
+1. (1933) Duck Soup
+1. (1935) Mutiny on the Bounty
+1. (1931) Frankenstein
+1. (1969) Easy Rider
+1. (1970) Patton
+1. (1927) The Jazz Singer
+1. (1964) My Fair Lady
+1. (1951) A Place in the Sun
+1. (1960) The Apartment
+1. (1990) Goodfellas
+1. (1994) Pulp Fiction
+1. (1956) The Searchers
+1. (1938) Bringing Up Baby
+1. (1992) Unforgiven
+1. (1967) Guess Who's Coming to Dinner
+1. (1942) Yankee Doodle Dandy
+
+Source: <a href="https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies">wikipedia.org</a>
+
+
+<br>
 
 <h2>Social</h2>
 
