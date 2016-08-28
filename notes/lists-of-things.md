@@ -9,18 +9,32 @@ permalink: notes/lists-of-things/
  ol li, ul li { font-weight: normal; }
 </style>
 
-- Entertainment
+I like lists. Not everything in these lists are things that I advocate. Some of them are just interesting for trivial or historical sake.
+
+- <strong>Entertainment</strong>
   - <a href="#100-years-100-movies">AFI's 1998 "100 Years...100 Movies"</a>
-- Travel
+- <strong>Travel &amp; Culture</strong>
   - <a href="#japan-world-heritage-list">Japan World Heritage List</a>
-- Social
+  - <a href="#national-treasure-castles-of-japan">National Treasure Castles of Japan</a>
+  - <a href="#imperial-regalia-of-japan">Imperial Regalia of Japan</a>
+- <strong>Sports</strong>
+  - <a href="#fifa-world-cup-finals-winners">FIFA World Cup Finals winners</a>
+- <strong>Social</strong>
   - <a href="#how-to-win-friends-and-influence-people">How to Win Friends and Influence People</a>
+- <strong>Science and Academia</strong>
+  - <a href="#millenium-prize-problems">Millenium Prize Problems</a>
+  - <a href="#2008-global-catastrophic-risks-survey">2008 Global Catastrophic Risks survey</a>
+- <strong>Language &amp; Literature</strong>
+  - <a href="#george-orwells-remedy-of-six-rules">George Orwell's Remedy of Six Rules</a>
+  - <a href="#official-languages-of-the-united-nations">Official languages of the United Nations</a>
+- <strong>Government</strong>
+  - <a href="#united-nations-security-council-permanent-members">United Nations Security Council permanent members</a>
+  - <a href="#the-nuclear-club">The Nuclear Club</a>
+
 
 <br>
 
 <h2>Entertainment</h2>
-
-<br>
 
 <h3 id="100-years-100-movies">AFI's 1998 "100 Years...100 Movies"</h3>
 
@@ -129,9 +143,36 @@ Source: <a href="https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies">w
 
 <br>
 
-<h2>Travel</h2>
+<h2>Sports</h2>
+
+<h3 id="fifa-world-cup-finals-winners">FIFA World Cup Finals winners</h3>
+
+- 2014 - Germany
+- 2010 - Spain
+- 2006 - Italy
+- 2002 - Brazil
+- 1998 - France
+- 1994 - Brazil
+- 1990 - West Germany
+- 1986 - Argentina
+- 1982 - Italy
+- 1978 - Argentina
+- 1974 - West Germany
+- 1970 - Brazil
+- 1966 - England
+- 1962 - Brazil
+- 1958 - Brazil
+- 1954 - West Germany
+- 1950 - Uruguay
+- 1938 - Italy
+- 1934 - Italy
+- 1930 - Uruguay
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals">wikipedia.org</a>
 
 <br>
+
+<h2>Travel &amp; Culture</h2>
 
 <h3 id="japan-world-heritage-list">Japan World Heritage List</h3>
 
@@ -162,9 +203,64 @@ Source: <a href="http://whc.unesco.org/en/statesparties/jp">unesco.org</a>
 
 <br>
 
-<h2>Social</h2>
+<h3 id="national-treasure-castles-of-japan">National Treasure Castles of Japan</h3>
+
+- Hikone Castle
+- Himeji Castle
+- Inuyama Castle
+- Matsue Castle
+- Matsumoto Castle
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_National_Treasures_of_Japan_(castles)">wikipedia.org</a>
 
 <br>
+
+<h3 id="imperial-regalia-of-japan">Imperial Regalia of Japan</h3>
+
+Three Sacred Treasures of Japan
+
+- the sword Kusanagi
+- the mirror Yata no Kagami
+- the jewel Yasakani no Magatama
+
+Source: <a href="https://en.wikipedia.org/wiki/Imperial_Regalia_of_Japan">wikipedia.org</a>
+
+
+
+<br>
+
+<h2>Science and Academia</h2>
+
+<h3 id="millenium-prize-problems">Millenium Prize Problems</h3>
+
+- P versus NP
+- Hodge conjecture
+- Riemann hypothesis
+- Yang–Mills existence and mass gap
+- Navier–Stokes existence and smoothness
+- Birch and Swinnerton-Dyer conjecture
+- Poincaré conjecture (solved)
+
+Source: <a href="https://en.wikipedia.org/wiki/Millennium_Prize_Problems">wikipedia.org</a>
+
+<br>
+
+<h3 id="2008-global-catastrophic-risks-survey">2008 Global Catastrophic Risks survey</h3>
+
+1. Molecular nanotechnology weapons (5%)
+1. Superintelligent AI (5%)
+1. Non-nuclear wars (4%)
+1. Engineered pandemic (2%)
+1. Nuclear wars (1%)
+1. Nanotechnology accident (0.5%)
+1. Natural pandemic (0.05%)
+1. Nuclear terrorism (0.03%)
+
+Sources: <a href="https://en.wikipedia.org/wiki/Global_catastrophic_risk#Likelihood">1</a>, <a href="http://www.global-catastrophic-risks.com/reports.html">2</a>
+
+<br>
+
+<h2>Social</h2>
 
 <h3 id="how-to-win-friends-and-influence-people">How to Win Friends and Influence People</h3>
 
@@ -229,9 +325,62 @@ Be a Leader: How to Change People Without Giving Offense or Arousing Resentment
 1. <span class="underline">Use encouragement.</span> Make the fault seem easy to correct. If a desired outcome seems like a momentous task, people will give up and lose heart. But if a fault seems easy to correct, they will readily jump at the opportunity to improve. If we frame objectives as small and easy improvements, we will see dramatic increases in desire and success in our employees.
 1. <span class="underline">Make the other person happy about doing what you suggest.</span> People will most often respond well when they desire to do the behavior put forth. If we want to influence people and become effective leaders, we must learn to frame our desires in terms of others' desires.
 
+<br>
 
 
-Source: <a href="https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People">wikipedia.org</a>
+<h2>Language &amp; Literature</h2>
+
+<h3 id="george-orwells-remedy-of-six-rules">George Orwell's Remedy of Six Rules</h3>
+
+1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+1. Never use a long word where a short one will do.
+1. If it is possible to cut a word out, always cut it out.
+1. Never use the passive where you can use the active.
+1. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+1. Break any of these rules sooner than say anything outright barbarous.
+
+Source: <a href="https://en.wikipedia.org/wiki/Politics_and_the_English_Language#Remedy_of_Six_Rules">wikipedia.org</a>
 
 <br>
 
+<h3 id="official-languages-of-the-united-nations">Official languages of the United Nations</h3>
+
+- Arabic
+- Chinese
+- English
+- French
+- Russian
+- Spanish
+
+Source: <a href="https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations">wikipedia.org</a>
+
+<br>
+
+
+
+<h2>Government</h2>
+
+<h3 id="the-nuclear-club">The Nuclear Club</h3>
+
+- United States (NPT)
+- Russia (NPT)
+- United Kingdom (NPT)
+- France (NPT)
+- China (NPT)
+- India
+- Pakistan
+- North Korea
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapons">wikipedia.org</a>
+
+<br>
+
+<h3 id="united-nations-security-council-permanent-members">United Nations Security Council permanent members</h3>
+
+- China
+- France
+- Russia
+- United Kingdom
+- United States
+
+Source: <a href="i://en.wikipedia.org/wiki/United_Nations_Security_Council#Permanent_memberss">wikipedia.org</a>
