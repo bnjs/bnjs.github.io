@@ -19,7 +19,7 @@ permalink: notes/lists-of-things/
 
 <br>
 
-<h3 id="#how-to-win-friends-and-influence-people">How to Win Friends and Influence People</h3>
+<h3 id="how-to-win-friends-and-influence-people">How to Win Friends and Influence People</h3>
 
 EDITOR'S NOTE: I don't agree with all of the content here. There's a lot of good advice for self-improvement and some interesting perspectives on psychology. There's a fine line between influence and manipulation; I certainly don't agree with the latter.
 
