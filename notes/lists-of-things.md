@@ -1,6 +1,6 @@
 ---
 layout: post
-date: August 23, 2016
+date: August 28, 2016
 title: 'Lists of Things'
 permalink: notes/lists-of-things/
 ---
@@ -13,6 +13,14 @@ I like lists. Not everything in these lists are things that I advocate. Some of 
 
 - <strong>Entertainment</strong>
   - <a href="#100-years-100-movies">AFI's 1998 "100 Years...100 Movies"</a>
+  - <a href="#highest-grossing-films-adjusted-for-inflation">Highest-grossing films, adjusted for inflation</a>
+  - <a href="#billboard-hot-100-most-weeks-at-number-one-song">Billboard Hot 100 - Most weeks at number one (song)</a>
+  - <a href="#billboard-hot-100-most-number-one-singles-artist">Billboard Hot 100 - Most number-one singles (artist)</a>
+  - <a href="#billboard-hot-100-most-cumulative-weeks-at-number-one-artist">Billboard Hot 100 - Most cumulative weeks at number one (artist)</a>
+  - <a href="#billboard-hot-100-most-top-5-singles-artist">Billboard Hot 100 - Most top 5 singles (artist)</a>
+  - <a href="#billboard-hot-100-most-top-10-singles-artist">Billboard Hot 100 - Most top 10 singles (artist)</a>
+  - <a href="#billboard-hot-100-most-number-one-singles-producer">Billboard Hot 100 - Most number-one singles (producer)</a>
+  - <a href="#billboard-hot-100-most-number-one-singles-songwriter">Billboard Hot 100 - Most number-one singles (songwriter)</a>
 - <strong>Travel &amp; Culture</strong>
   - <a href="#japan-world-heritage-list">Japan World Heritage List</a>
   - <a href="#national-treasure-castles-of-japan">National Treasure Castles of Japan</a>
@@ -140,6 +148,136 @@ I like lists. Not everything in these lists are things that I advocate. Some of 
 1. (1942) Yankee Doodle Dandy
 
 Source: <a href="https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies">wikipedia.org</a>
+
+<br>
+
+<h3 id="highest-grossing-films-adjusted-for-inflation">Highest-grossing films, adjusted for inflation</h3>
+
+1. $3,440,000,000 (1939) Gone with the Wind
+1. $3,020,000,000 (2009) Avatar
+1. $2,825,000,000 (1977) Star Wars
+1. $2,516,000,000 (1997) Titanic
+1. $2,366,000,000 (1965) The Sound of Music
+1. $2,310,000,000 (1982) E.T. the Extra-Terrestrial
+1. $2,187,000,000 (1956) The Ten Commandments
+1. $2,073,000,000 (1965) Doctor Zhivago
+1. $2,027,000,000 (1975) Jaws
+1. $1,819,000,000 (1937) Snow White and the Seven Dwarfs
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_highest-grossing_films#Highest-grossing_films_adjusted_for_inflation">wikipedia.org</a>
+
+<br>
+
+<h3 id="billboard-hot-100-most-weeks-at-number-one-song">Billboard Hot 100 - Most weeks at number one (song)</h3>
+
+- 16 weeks - Mariah Carey and Boyz II Men — "One Sweet Day" (1995–96)
+- 14 weeks - Whitney Houston — "I Will Always Love You" (1992–93)
+- 14 weeks - Boyz II Men — "I'll Make Love to You" (1994)
+- 14 weeks - Los del Río — "Macarena" (Bayside Boys mix) (1996)
+- 14 weeks - Elton John — "Candle in the Wind 1997" / "Something About the Way You Look Tonight" (1997–98)
+- 14 weeks - Mariah Carey — "We Belong Together" (2005)
+- 14 weeks - The Black Eyed Peas — "I Gotta Feeling" (2009)
+- 14 weeks - Mark Ronson featuring Bruno Mars — "Uptown Funk" (2015)
+- 13 weeks - Boyz II Men — "End of the Road" (1992)
+- 13 weeks - Brandy and Monica — "The Boy Is Mine" (1998)
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones">wikipedia.org</a>
+
+<br>
+
+<h3 id="billboard-hot-100-most-number-one-singles-artist">Billboard Hot 100 - Most number-one singles (artist)</h3>
+
+- 20 - The Beatles
+- 18 - Elvis Presley (Pre-Hot 100 charts and Hot 100)
+- 18 - Mariah Carey
+- 14 - Rihanna
+- 13 - Michael Jackson
+- 12 - The Supremes
+- 12 - Madonna
+- 11 - Whitney Houston
+- 10 - Stevie Wonder
+- 10 - Janet Jackson
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones">wikipedia.org</a>
+
+<br>
+
+<h3 id="billboard-hot-100-most-cumulative-weeks-at-number-one-artist">Billboard Hot 100 - Most cumulative weeks at number one (artist)</h3>
+
+- 79 - Elvis Presley
+- 79 - Mariah Carey
+- 60 - Rihanna
+- 59 - The Beatles
+- 50 - Boyz II Men
+- 47 - Usher
+- 37 - Michael Jackson
+- 36 - Beyoncé
+- 34 - Elton John
+- 33 - Janet Jackson
+- 33 - Katy Perry
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones">wikipedia.org</a>
+
+<br>
+
+<h3 id="billboard-hot-100-most-top-5-singles-artist">Billboard Hot 100 - Most top 5 singles (artist)</h3>
+
+- 29 - The Beatles
+- 28 - Madonna
+- 26 - Mariah Carey
+- 24 - Janet Jackson
+- 21 - Elvis Presley
+- 21 - Rihanna
+- 20 - Michael Jackson
+- 20 - Stevie Wonder
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones">wikipedia.org</a>
+
+<br>
+
+<h3 id="billboard-hot-100-most-top-10-singles-artist">Billboard Hot 100 - Most top 10 singles (artist)</h3>
+
+- 38 - Madonna
+- 36 - Elvis Presley (Pre-Hot 100 charts and Hot 100)
+- 34 - The Beatles
+- 29 - Michael Jackson
+- 29 - Rihanna
+- 28 - Stevie Wonder
+- 27 - Elton John
+- 27 - Janet Jackson
+- 27 - Mariah Carey
+- 23 - The Rolling Stones
+- 23 - Whitney Houston
+- 23 - Paul McCartney
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones">wikipedia.org</a>
+
+<br>
+
+<h3 id="billboard-hot-100-most-number-one-singles-producer">Billboard Hot 100 - Most number-one singles (producer)</h3>
+
+- 23 - George Martin (The Beatles)
+- 20 - Max Martin (Britney Spears, Katy Perry, Kelly Clarkson, Pink, Taylor Swift)
+- 16 - Steve Sholes (Elvis Presley)
+- 16 - Jimmy Jam, Terry Lewis (Janet Jackson)
+- 16 - Dr. Luke (Katy Perry, Kelly Clarkson, Kesha, Miley Cyrus)
+- 14 - Barry Gibb (Bee Gees, Andy Gibb)
+- 14 - Mariah Carey (Herself)
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones">wikipedia.org</a>
+
+<br>
+
+<h3 id="billboard-hot-100-most-number-one-singles-songwriter">Billboard Hot 100 - Most number-one singles (songwriter)</h3>
+
+- 32 - Paul McCartney (The Beatles)
+- 26 - John Lennon (The Beatles)
+- 22 - Max Martin (Katy Perry, Britney Spears, Kelly Clarkson, Pink, Taylor Swift)
+- 17 - Mariah Carey (herself)
+- 16 - Barry Gibb (Bee Gees, Andy Gibb)
+- 16 - Dr. Luke (Katy Perry, Kesha, Miley Cyrus)
+
+Source: <a href="https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones">wikipedia.org</a>
 
 <br>
 
