@@ -21,10 +21,12 @@ I like lists. Not everything in these lists are things that I advocate. Some of 
   - <a href="#billboard-hot-100-most-top-10-singles-artist">Billboard Hot 100 - Most top 10 singles (artist)</a>
   - <a href="#billboard-hot-100-most-number-one-singles-producer">Billboard Hot 100 - Most number-one singles (producer)</a>
   - <a href="#billboard-hot-100-most-number-one-singles-songwriter">Billboard Hot 100 - Most number-one singles (songwriter)</a>
-- <strong>Travel &amp; Culture</strong>
-  - <a href="#japan-world-heritage-list">Japan World Heritage List</a>
-  - <a href="#national-treasure-castles-of-japan">National Treasure Castles of Japan</a>
-  - <a href="#imperial-regalia-of-japan">Imperial Regalia of Japan</a>
+- <strong>Government</strong>
+  - <a href="#united-nations-security-council-permanent-members">United Nations Security Council permanent members</a>
+  - <a href="#the-nuclear-club">The Nuclear Club</a>
+- <strong>Language &amp; Literature</strong>
+  - <a href="#george-orwells-remedy-of-six-rules">George Orwell's Remedy of Six Rules</a>
+  - <a href="#official-languages-of-the-united-nations">Official languages of the United Nations</a>
 - <strong>Sports</strong>
   - <a href="#fifa-world-cup-finals-winners">FIFA World Cup Finals winners</a>
 - <strong>Social</strong>
@@ -32,12 +34,12 @@ I like lists. Not everything in these lists are things that I advocate. Some of 
 - <strong>Science and Academia</strong>
   - <a href="#millenium-prize-problems">Millenium Prize Problems</a>
   - <a href="#2008-global-catastrophic-risks-survey">2008 Global Catastrophic Risks survey</a>
-- <strong>Language &amp; Literature</strong>
-  - <a href="#george-orwells-remedy-of-six-rules">George Orwell's Remedy of Six Rules</a>
-  - <a href="#official-languages-of-the-united-nations">Official languages of the United Nations</a>
-- <strong>Government</strong>
-  - <a href="#united-nations-security-council-permanent-members">United Nations Security Council permanent members</a>
-  - <a href="#the-nuclear-club">The Nuclear Club</a>
+- <strong>Technology</strong>
+  - <a href="#the-twelve-factor-app">The Twelve-Factor App</a>
+- <strong>Travel &amp; Culture</strong>
+  - <a href="#japan-world-heritage-list">Japan World Heritage List</a>
+  - <a href="#national-treasure-castles-of-japan">National Treasure Castles of Japan</a>
+  - <a href="#imperial-regalia-of-japan">Imperial Regalia of Japan</a>
 
 
 <br>
