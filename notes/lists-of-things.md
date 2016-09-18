@@ -404,7 +404,7 @@ Sources: <a href="https://en.wikipedia.org/wiki/Global_catastrophic_risk#Likelih
 
 <h3 id="how-to-win-friends-and-influence-people">How to Win Friends and Influence People</h3>
 
-EDITOR'S NOTE: I don't agree with all of the content here. There's a lot of good advice for self-improvement and some interesting perspectives on psychology. There's a fine line between influence and manipulation; I certainly don't agree with the latter.
+EDITOR'S NOTE: I don't agree with all of the content here. There's a lot of good advice for self-improvement and some interesting perspectives on psychology though.
 
 Twelve Things This Book Will Do For You
 <ol>
