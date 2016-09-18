@@ -524,3 +524,25 @@ Source: <a href="https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapo
 - United States
 
 Source: <a href="i://en.wikipedia.org/wiki/United_Nations_Security_Council#Permanent_memberss">wikipedia.org</a>
+
+
+<br>
+
+<h2>Technology</h2>
+
+<h3 id="the-twelve-factor-app">The Twelve-Factor App</h3>
+
+1. <strong>Codebase</strong> - One codebase tracked in revision control, many deploys
+1. <strong>Dependencies</strong> - Explicitly declare and isolate dependencies
+1. <strong>Config</strong> - Store config in the environment
+1. <strong>Backing services</strong> - Treat backing services as attached resources
+1. <strong>Build, release, run</strong> - Strictly separate build and run stages
+1. <strong>Processes</strong> - Execute the app as one or more stateless processes
+1. <strong>Port binding</strong> - Export services via port binding
+1. <strong>Concurrency</strong> - Scale out via the process model
+1. <strong>Disposability</strong> - Maximize robustness with fast startup and graceful shutdown
+1. <strong>Dev/prod parity</strong> - Keep development, staging, and production as similar as possible
+1. <strong>Logs</strong> - Treat logs as event streams
+1. <strong>Admin processes</strong> - Run admin/management tasks as one-off processes
+
+Source: <a href="https://12factor.net/">12factor.net</a>
