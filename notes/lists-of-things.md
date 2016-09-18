@@ -30,6 +30,7 @@ I like lists. Not everything in these lists are things that I advocate. Some of 
 - <strong>Sports</strong>
   - <a href="#fifa-world-cup-finals-winners">FIFA World Cup Finals winners</a>
 - <strong>Social</strong>
+  - <a href="#things-that-aren't-polite-to-talk-about-at-work">Things That Aren't Polite to Talk About at Work</a>
   - <a href="#how-to-win-friends-and-influence-people">How to Win Friends and Influence People</a>
 - <strong>Science and Academia</strong>
   - <a href="#millenium-prize-problems">Millenium Prize Problems</a>
@@ -401,6 +402,16 @@ Sources: <a href="https://en.wikipedia.org/wiki/Global_catastrophic_risk#Likelih
 <br>
 
 <h2>Social</h2>
+
+<h3 id="things-that-aren't-polite-to-talk-about-at-work">Things That Aren't Polite to Talk About at Work</h3>
+
+1. Politics
+1. Religion
+1. Sex
+
+Source: my grandfather
+
+<br>
 
 <h3 id="how-to-win-friends-and-influence-people">How to Win Friends and Influence People</h3>
 
