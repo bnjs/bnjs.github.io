@@ -12,8 +12,11 @@ permalink: notes/lists-of-things/
 I like lists. Not everything in these lists are things that I advocate. Some of them are just interesting for trivial or historical sake.
 
 - <strong>Entertainment</strong>
+  - <strong>Movies</strong>
   - <a href="#100-years-100-movies">AFI's 1998 "100 Years...100 Movies"</a>
   - <a href="#highest-grossing-films-adjusted-for-inflation">Highest-grossing films, adjusted for inflation</a>
+  - <a href="#academy-awards-best-picture-winners">Academy Awards - Best Picture winners</a>
+  - <strong>Music</strong>
   - <a href="#billboard-hot-100-most-weeks-at-number-one-song">Billboard Hot 100 - Most weeks at number one (song)</a>
   - <a href="#billboard-hot-100-most-number-one-singles-artist">Billboard Hot 100 - Most number-one singles (artist)</a>
   - <a href="#billboard-hot-100-most-cumulative-weeks-at-number-one-artist">Billboard Hot 100 - Most cumulative weeks at number one (artist)</a>
@@ -168,6 +171,104 @@ Source: <a href="https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movies">w
 1. $1,819,000,000 (1937) Snow White and the Seven Dwarfs
 
 Source: <a href="https://en.wikipedia.org/wiki/List_of_highest-grossing_films#Highest-grossing_films_adjusted_for_inflation">wikipedia.org</a>
+
+<br>
+
+<div id="list">
+  <h3 id="academy-awards-best-picture-winners">Academy Awards - Best Picture winners</h3>
+  <ol>
+    <li>(1927) Wings</li>
+    <li>(1929) The Broadway Melody</li>
+    <li>(1930) All Quiet on the Western Front</li>
+    <li>(1931) Cimarron</li>
+    <li>(1932) Grand Hotel</li>
+    <li>(1933) Cavalcade</li>
+    <li>(1934) It Happened One Night</li>
+    <li>(1935) Mutiny on the Bounty</li>
+    <li>(1936) The Great Ziegfeld</li>
+    <li>(1937) The Life of Emile Zola</li>
+    <li>(1938) You Can't Take It with You</li>
+    <li>(1939) Gone with the Wind</li>
+    <li>(1940) Rebecca</li>
+    <li>(1941) How Green Was My Valley</li>
+    <li>(1942) Mrs. Miniver</li>
+    <li>(1943) Casablanca</li>
+    <li>(1944) Going My Way</li>
+    <li>(1945) The Lost Weekend</li>
+    <li>(1946) The Best Years of Our Lives</li>
+    <li>(1947) Gentleman's Agreement</li>
+    <li>(1948) Hamlet</li>
+    <li>(1949) All the King's Men</li>
+    <li>(1950) All About Eve</li>
+    <li>(1951) An American in Paris</li>
+    <li>(1952) The Greatest Show on Earth</li>
+    <li>(1953) From Here to Eternity</li>
+    <li>(1954) On the Waterfront</li>
+    <li>(1955) Marty</li>
+    <li>(1956) Around the World in Eighty Days</li>
+    <li>(1957) The Bridge on the River Kwai</li>
+    <li>(1958) Gigi</li>
+    <li>(1959) Ben-Hur</li>
+    <li>(1960) The Apartment</li>
+    <li>(1961) West Side Story</li>
+    <li>(1962) Lawrence of Arabia</li>
+    <li>(1963) Tom Jones</li>
+    <li>(1964) My Fair Lady</li>
+    <li>(1965) The Sound of Music</li>
+    <li>(1966) A Man for All Seasons</li>
+    <li>(1967) In the Heat of the Night</li>
+    <li>(1968) Oliver!</li>
+    <li>(1969) Midnight Cowboy</li>
+    <li>(1970) Patton</li>
+    <li>(1971) The French Connection</li>
+    <li>(1972) The Godfather</li>
+    <li>(1973) The Sting</li>
+    <li>(1974) The Godfather Part II</li>
+    <li>(1975) One Flew over the Cuckoo's Nest</li>
+    <li>(1976) Rocky</li>
+    <li>(1977) Annie Hall</li>
+    <li>(1978) The Deer Hunter</li>
+    <li>(1979) Kramer vs. Kramer</li>
+    <li>(1980) Ordinary People</li>
+    <li>(1981) Chariots of Fire</li>
+    <li>(1982) Gandhi</li>
+    <li>(1983) Terms of Endearment</li>
+    <li>(1984) Amadeus</li>
+    <li>(1985) Out of Africa</li>
+    <li>(1986) Platoon</li>
+    <li>(1987) The Last Emperor</li>
+    <li>(1988) Rain Man</li>
+    <li>(1989) Driving Miss Daisy</li>
+    <li>(1990) Dances with Wolves</li>
+    <li>(1991) The Silence of the Lambs</li>
+    <li>(1992) Unforgiven</li>
+    <li>(1993) Schindler's List</li>
+    <li>(1994) Forrest Gump</li>
+    <li>(1995) Braveheart</li>
+    <li>(1996) The English Patient</li>
+    <li>(1997) Titanic</li>
+    <li>(1998) Shakespeare in Love</li>
+    <li>(1999) American Beauty</li>
+    <li>(2000) Gladiator</li>
+    <li>(2001) A Beautiful Mind</li>
+    <li>(2002) Chicago</li>
+    <li>(2003) The Lord of the Rings: The Return of the King</li>
+    <li>(2004) Million Dollar Baby</li>
+    <li>(2005) Crash</li>
+    <li>(2006) The Departed</li>
+    <li>(2007) No Country for Old Men</li>
+    <li>(2008) Slumdog Millionaire</li>
+    <li>(2009) The Hurt Locker</li>
+    <li>(2010) The King's Speech</li>
+    <li>(2011) The Artist</li>
+    <li>(2012) Argo</li>
+    <li>(2013) 12 Years a Slave</li>
+    <li>(2014) Birdman</li>
+    <li>(2015) Spotlight</li>
+  </ol>
+
+  Source: <a href="https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture">wikipedia.org</a>
+</div>
 
 <br>
 
