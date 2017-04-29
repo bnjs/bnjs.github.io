@@ -20,28 +20,26 @@ $(function(){
 
 # Startup FAQ
 
-105 insights to 19 questions, distilled from 10 articles by 4 respected authors.
+104 insights to 19 questions, distilled from 9 articles by 3 authors.
 
 Insights are paraphrases, not necessarily quotes. Click an insight to see the context from the article. Read the full article for the full context.
 
 The authors:
 
-* Eric Ries
 * Marc Andreessen
 * Paul Graham
 * Peter Thiel
 
 The articles:
 
-* [What is a startup?](http://www.startuplessonslearned.com/2010/06/what-is-startup.html) (Eric Ries)
 * [The Pmarca Guide To Startups, Part 4: The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html) (Marc Andreessen)
-* [How to Raise Money](http://www.paulgraham.com/fr.html) (Paul Graham)
 * [Startups in 13 Sentences](http://www.paulgraham.com/13sentences.html) (Paul Graham)
-* [Be Good](http://paulgraham.com/good.html) (Paul Graham)
 * [The 18 Mistakes That Kill Startups](http://www.paulgraham.com/startupmistakes.html) (Paul Graham)
-* [Six Principles for Making New Things](http://www.paulgraham.com/newthings.html) (Paul Graham)
+* [Be Good](http://paulgraham.com/good.html) (Paul Graham)
 * [The Hardest Lessons for Startups to Learn](http://www.paulgraham.com/startuplessons.html) (Paul Graham)
 * [Startup = Growth](http://www.paulgraham.com/growth.html) (Paul Graham)
+* [Six Principles for Making New Things](http://www.paulgraham.com/newthings.html) (Paul Graham)
+* [How to Raise Money](http://www.paulgraham.com/fr.html) (Paul Graham)
 * [Peter Thiel’s CS183: Startup - Class 9 Notes Essay](http://blakemasters.com/post/22405055017/peter-thiels-cs183-startup-class-9-notes-essay) (Peter Thiel)
 
 
@@ -416,14 +414,6 @@ Source: Paul Graham, <a href="http://www.paulgraham.com/fr.html">How to Raise Mo
 <h3 id="general">General <small><a href="#table-of-contents">top</a></small></h3>
 
 <a href="#what-is-a-startup" id="what-is-a-startup" style="font-weight:bold;outline:0">What is a startup?</a>
-
-<img src="http://s3.amazonaws.com/bnjs.co/startup-faq/eric-ries.jpg" style="float:left;width:40px;height:40px;" />
-
-<blockquote style="margin-left:50px"><p>
-<a href="#" class="insight" style="display:block;color:#000;font-weight:bold">CONDITIONS OF EXTREME UNCERTAINTY.</a>
-<a href="#" class="insight-context" style="display:none;color:#000;font-weight:bold;">So let’s begin with a definition of a startup that captures its essential nature, and tries to leave behind the specific associations of the most famous startups. A startup is a human institution designed to deliver a new product or service under conditions of extreme uncertainty.</a>
-Source: Eric Ries, <a href="http://www.startuplessonslearned.com/2010/06/what-is-startup.html">What is a startup?</a>
-</p></blockquote>
 
 <img src="http://s3.amazonaws.com/bnjs.co/startup-faq/paul-graham.jpg" style="float:left;width:40px;height:40px;" />
 
