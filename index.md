@@ -62,6 +62,10 @@ Below you will find my personal blog, some past and present projects, and some n
 
 ## Notes
 
+<a href="/startup-faq">Startup FAQ</a>
+
+<a href="/startup-knowledgebase">Startup Knowledgebase</a>
+
 <a href="/notes/steve-jobs-10-rules-for-life/">Steve Jobs: 10 Rules for Life</a>
 
 YCombinator
