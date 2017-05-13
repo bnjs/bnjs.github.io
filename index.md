@@ -70,16 +70,23 @@ Below you will find my personal blog, some past and present projects, and some n
 
 YCombinator
 
-<p>
-<a href="/notes/cs183b-lecture-1-dustin-moskovitz-why-to-start-a-startup/">CS183B - Lecture 1: Dustin Moskovitz "Why to Start a Startup" Notes</a><br>
-<a href="/notes/sam-altman-ideas-products-teams-and-execution-highlights/">CS183B - Lectures 1+2: Sam Altman "Ideas, Products, Teams and Execution" Notes</a><br>
-<a href="/notes/cs183b-lecture-3-paul-graham-counterintuitive-parts-of-startups-and-how-to-have-ideas/">CS183B - Lecture 3: Paul Graham "Counterintuitive Parts of Startups, and How to Have Ideas" Notes</a><br>
-<a href="/notes/cs183b-lecture-4-adora-cheung-building-product-talking-to-users-and-growing/">CS183B - Lecture 4: Adora Cheung "Building Product, Talking to Users, and Growing" Notes</a><br>
-<a href="/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/">CS183B - Lecture 5: Peter Thiel "Business Strategy and Monopoly Theory" Notes</a><br>
-<a href="/notes/startup-checklist/">CS183B - Startup Checklist</a><br>
-<a href="/2014/09/25/transcript-lecture-1-how-to-start-a-startup/">CS183B - (Transcript) Lecture 1: How to Start a Startup</a><br>
+<a href="/notes/cs183b-lecture-1-dustin-moskovitz-why-to-start-a-startup/">CS183B - Lecture 1: Dustin Moskovitz "Why to Start a Startup" Notes</a>
+
+<a href="/notes/sam-altman-ideas-products-teams-and-execution-highlights/">CS183B - Lectures 1+2: Sam Altman "Ideas, Products, Teams and Execution" Notes</a>
+
+<a href="/notes/cs183b-lecture-3-paul-graham-counterintuitive-parts-of-startups-and-how-to-have-ideas/">CS183B - Lecture 3: Paul Graham "Counterintuitive Parts of Startups, and How to Have Ideas" Notes</a>
+
+<a href="/notes/cs183b-lecture-4-adora-cheung-building-product-talking-to-users-and-growing/">CS183B - Lecture 4: Adora Cheung "Building Product, Talking to Users, and Growing" Notes</a>
+
+<a href="/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/">CS183B - Lecture 5: Peter Thiel "Business Strategy and Monopoly Theory" Notes</a>
+
+<a href="/notes/startup-checklist/">CS183B - Startup Checklist</a>
+
+<a href="/2014/09/25/transcript-lecture-1-how-to-start-a-startup/">CS183B - (Transcript) Lecture 1: How to Start a Startup</a>
+
 <a href="/transcript-paul-graham-in-conversation-with-nathan-blecharczyk">(Transcript) Paul Graham in Conversation with Nathan Blecharczyk</a>
-</p>
+
+<a href="/transcript-paul-graham-on-focus-and-growth">(Transcript) Paul Graham on Focus and Growth (with Jason Calacanis)</a>
 
 
 
