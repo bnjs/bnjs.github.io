@@ -3,7 +3,7 @@ layout: post
 permalink: about-me/
 ---
 
-# I'm Ben
+<h1>I'm Ben</h1>
 
 I like to solve hard problems and build fantastic products that people love.
 
