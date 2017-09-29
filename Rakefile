@@ -6,7 +6,7 @@ require 'yaml'
 
 desc "Serve the site locally"
 task :serve do
-  system "bundle exec jekyll serve -w --drafts --config _config.yml,_config-dev.yml"
+  system "bundle exec jekyll serve -P 4001 -w --drafts --config _config.yml,_config-dev.yml"
 end
 
 desc "Generate blog files"
