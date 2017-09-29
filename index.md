@@ -12,11 +12,11 @@ title: Ben Sullivan
 <br>
 <br>
 
-Dear Reader:
+Hello traveler,
 
 <br>
 
-Welcome! Allow me to <a href="/about-me">introduce myself</a>.
+Welcome! <a href="/about-me">I'm Ben</a>.
 
 Below you will find my personal blog, some past and present projects, and some notes about startups.
 
@@ -53,8 +53,8 @@ Below you will find my personal blog, some past and present projects, and some n
 
 <p>
 <a href="http://dktc.tumblr.com">Don't Kill the Courier</a> - A blog devoted to old typewritten documents<br>
-<a href="https://www.tadaku.com" target="_blank">Tadaku</a> - <span>An international cooking lesson service based in Japan</span><br>
-<a href="https://tokyo-startup-circle.doorkeeper.jp/" target="_blank">Tokyo Startup Circle</a> - <span>7 people meet over coffee every other Saturday to talk about startups</span><br>
+<a href="https://www.tadaku.com" target="_blank">Tadaku</a> - <span>An international cooking lesson service based in Japan (cofounded 2013)</span><br>
+<a href="https://tokyo-startup-circle.doorkeeper.jp/" target="_blank">Tokyo Startup Circle</a> - <span>7 people meet over coffee every other Saturday to talk about startups (started in 2012)</span><br>
 <a href="https://github.com/bonsaiben/bootstrap-snippets" target="_blank">Bootstrap Snippets</a> - <span>Twitter Bootstrap markup snippets for Vim snipMate</span><br>
 </p>
 
@@ -81,5 +81,5 @@ Below you will find my personal blog, some past and present projects, and some n
 
 
 <br><br><br><br>
-Best,<br><br>
+Regards,<br><br>
 Ben Sullivan
