@@ -3,10 +3,7 @@ layout: default
 title: Ben Sullivan
 ---
 
-<br>
-<br>
-
-<div style="margin-left: 50%;">{{ site.time | date: "%B %-d, %Y" }}</div>
+<div style="margin-left: 70%;">{{ site.time | date: "%B %-d, %Y" }}</div>
 
 <br>
 <br>

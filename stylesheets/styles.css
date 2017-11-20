@@ -3,6 +3,7 @@
 body {
   padding:50px;
   font-family: 'Courier New';
+  background-color: #f9f9f9;
 }
 
 body, h1, h2, h3 {
@@ -28,8 +29,10 @@ h2, h3 {
 .underline { text-decoration: underline; }
 
 .wrapper {
-  width:860px;
-  margin:0 auto;
+  width: 860px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 80px;
 }
 
 blockquote {
